@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				61,
+				7
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "singLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-17
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "singDOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				55,
+				33
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "singUP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				5
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "singRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				23
+			],
+			"anim": "gayno",
+			"fps": 24,
+			"name": "gayno",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "yea",
+			"fps": 24,
+			"name": "yea",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/banbuds",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "banbuds-icons",
+	"flip_x": true,
+	"healthbar_colors": [
+		78,
+		78,
+		81
+	],
+	"camera_position": [
+		-330,
+		-70
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

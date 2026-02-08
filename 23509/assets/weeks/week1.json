@@ -1,0 +1,32 @@
+{
+	"storyName": "interview",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"interview",
+			"nanno-icons",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"gf",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "interview"
+}
