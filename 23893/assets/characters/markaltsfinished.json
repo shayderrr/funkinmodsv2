@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				25,
+				-26
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "DOWNPOSEMISS"
+		},
+		{
+			"offsets": [
+				28,
+				-23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DOWNPOSE"
+		},
+		{
+			"offsets": [
+				5,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "LEFTPOSE"
+		},
+		{
+			"offsets": [
+				8,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "LEFTPOSEMISS"
+		},
+		{
+			"offsets": [
+				10,
+				17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "UPPOSE"
+		},
+		{
+			"offsets": [
+				7,
+				21
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "UPPOSEMISS"
+		},
+		{
+			"offsets": [
+				-33,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "RIGHTPOSEMISS"
+		},
+		{
+			"offsets": [
+				-28,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "RIGHTPOSE"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "IDLE",
+			"indices": []
+		},
+		{
+			"offsets": [
+				8,
+				19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "UPPOSEALT"
+		},
+		{
+			"offsets": [
+				-42,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "RIGHTPOSEALT"
+		},
+		{
+			"offsets": [
+				30,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "DOWNPOSEALT"
+		},
+		{
+			"offsets": [
+				5,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "LEFTPOSEALT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/markposes",
+	"position": [
+		-10,
+		350
+	],
+	"healthicon": "mark",
+	"flip_x": true,
+	"healthbar_colors": [
+		45,
+		24,
+		103
+	],
+	"camera_position": [
+		570,
+		-100
+	],
+	"sing_duration": 4,
+	"scale": 1.4
+}
