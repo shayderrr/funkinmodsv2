@@ -1,0 +1,26 @@
+{
+	"storyName": "It's fun to play with you",
+	"hideFreeplay": false,
+	"weekBackground": "sonic exe",
+	"difficulties": "hard",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Blackout",
+			"raven",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "sonic exe Week"
+}
