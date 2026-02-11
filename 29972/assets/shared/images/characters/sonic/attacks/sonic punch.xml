@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?><TextureAtlas imagePath="sonic punch.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sonic punch instance 10000" x="0" y="0" width="533" height="507"/>
+	<SubTexture name="sonic punch instance 10001" x="533" y="0" width="533" height="507"/>
+	<SubTexture name="sonic punch instance 10002" x="1066" y="0" width="533" height="507"/>
+	<SubTexture name="sonic punch instance 10003" x="1599" y="0" width="533" height="507"/>
+	<SubTexture name="sonic punch instance 10004" x="0" y="507" width="533" height="507"/>
+	<SubTexture name="sonic punch instance 10005" x="533" y="507" width="533" height="507"/>
+	<SubTexture name="sonic punch instance 10006" x="1066" y="507" width="533" height="507"/>
+	<SubTexture name="sonic punch instance 10007" x="1599" y="507" width="533" height="507"/>
+	<SubTexture name="sonic punch instance 10008" x="0" y="1014" width="533" height="507"/>
+	<SubTexture name="sonic punch instance 10009" x="533" y="1014" width="533" height="507"/>
+	<SubTexture name="sonic punch instance 10010" x="1066" y="1014" width="533" height="507"/>
+	<SubTexture name="sonic punch instance 10011" x="1066" y="1014" width="533" height="507"/>
+	<SubTexture name="sonic punch instance 10012" x="1599" y="1014" width="533" height="507"/>
+	<SubTexture name="sonic punch instance 10013" x="1599" y="1014" width="533" height="507"/>
+</TextureAtlas>

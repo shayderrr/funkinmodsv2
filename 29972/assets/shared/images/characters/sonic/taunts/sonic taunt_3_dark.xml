@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?><TextureAtlas imagePath="sonic taunt_3_dark.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sonic taunt 30000" x="0" y="0" width="380" height="480"/>
+	<SubTexture name="sonic taunt 30001" x="0" y="0" width="380" height="480"/>
+	<SubTexture name="sonic taunt 30002" x="380" y="0" width="380" height="480"/>
+	<SubTexture name="sonic taunt 30003" x="380" y="0" width="380" height="480"/>
+	<SubTexture name="sonic taunt 30004" x="0" y="480" width="380" height="480"/>
+	<SubTexture name="sonic taunt 30005" x="0" y="480" width="380" height="480"/>
+	<SubTexture name="sonic taunt 30006" x="0" y="480" width="380" height="480"/>
+	<SubTexture name="sonic taunt 30007" x="0" y="480" width="380" height="480"/>
+	<SubTexture name="sonic taunt 30008" x="0" y="480" width="380" height="480"/>
+	<SubTexture name="sonic taunt 30009" x="0" y="480" width="380" height="480"/>
+	<SubTexture name="sonic taunt 30010" x="0" y="480" width="380" height="480"/>
+	<SubTexture name="sonic taunt 30011" x="0" y="480" width="380" height="480"/>
+	<SubTexture name="sonic taunt 30012" x="0" y="480" width="380" height="480"/>
+	<SubTexture name="sonic taunt 30013" x="0" y="480" width="380" height="480"/>
+</TextureAtlas>

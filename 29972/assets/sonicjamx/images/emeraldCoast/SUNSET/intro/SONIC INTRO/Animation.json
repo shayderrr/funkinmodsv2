@@ -1,0 +1,10666 @@
+{
+"AN":{
+"N":"22opaige kvf31p (1)",
+"SN":"export bs/sonic anims export",
+"TL":{
+"L":[
+{
+"LN":"Layer 13",
+"FR":[
+{
+"I":0,
+"DU":337,
+"E":[]
+},{
+"I":337,
+"DU":27,
+"E":[]
+},{
+"I":364,
+"DU":88,
+"E":[]
+},{
+"I":452,
+"DU":32,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/bomb fall",
+"FF":0,
+"ST":"G",
+"TRP":{"x":-79.5,"y":279.7},
+"LP":"LP",
+"MX":[1,0,0,1,-186,839.6]
+}}]},{
+"I":484,
+"DU":266,
+"E":[]
+}
+]},{
+"LN":"Layer 3",
+"FR":[
+{
+"I":0,
+"DU":337,
+"E":[
+{"SI":{
+"SN":"export bs/mrcup sonic anims",
+"FF":0,
+"ST":"G",
+"TRP":{"x":206.65,"y":422.2},
+"LP":"LP",
+"MX":[1,0,0,1,-28.9,179.65]
+}}]},{
+"I":337,
+"DU":27,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/sprites/sonic idle dance",
+"FF":1,
+"ST":"G",
+"TRP":{"x":211.95,"y":423},
+"LP":"LP",
+"MX":[-1,0,0,1,426.15,180.55]
+}}]},{
+"I":364,
+"DU":120,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/sprites copy/sonic animations",
+"FF":0,
+"ST":"G",
+"TRP":{"x":211.95,"y":423},
+"LP":"PO",
+"MX":[-1,0,0,1,426.15,180.55]
+}}]},{
+"I":484,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/sprites copy/sonic animations",
+"FF":120,
+"ST":"G",
+"TRP":{"x":211.95,"y":423},
+"LP":"PO",
+"MX":[-1,0,0,1,426.15,180.55]
+}}]},{
+"I":485,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/sprites copy/sonic animations",
+"FF":121,
+"ST":"G",
+"TRP":{"x":211.95,"y":423},
+"LP":"PO",
+"MX":[-1,0,0,1,410.2,186.35]
+}}]},{
+"I":486,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/sprites copy/sonic animations",
+"FF":122,
+"ST":"G",
+"TRP":{"x":211.95,"y":423},
+"LP":"PO",
+"MX":[-1,0,0,1,394.8,191.95]
+}}]},{
+"I":487,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/sprites copy/sonic animations",
+"FF":123,
+"ST":"G",
+"TRP":{"x":211.95,"y":423},
+"LP":"PO",
+"MX":[-1,0,0,1,379.85,197.4]
+}}]},{
+"I":488,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/sprites copy/sonic animations",
+"FF":124,
+"ST":"G",
+"TRP":{"x":211.95,"y":423},
+"LP":"PO",
+"MX":[-1,0,0,1,365.4,202.65]
+}}]},{
+"I":489,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/sprites copy/sonic animations",
+"FF":125,
+"ST":"G",
+"TRP":{"x":211.95,"y":423},
+"LP":"PO",
+"MX":[-1,0,0,1,351.4,207.75]
+}}]},{
+"I":490,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/sprites copy/sonic animations",
+"FF":126,
+"ST":"G",
+"TRP":{"x":211.95,"y":423},
+"LP":"PO",
+"MX":[-1,0,0,1,337.95,212.65]
+}}]},{
+"I":491,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/sprites copy/sonic animations",
+"FF":127,
+"ST":"G",
+"TRP":{"x":211.95,"y":423},
+"LP":"PO",
+"MX":[-1,0,0,1,324.95,217.4]
+}}]},{
+"I":492,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/sprites copy/sonic animations",
+"FF":128,
+"ST":"G",
+"TRP":{"x":211.95,"y":423},
+"LP":"PO",
+"MX":[-1,0,0,1,312.45,221.9]
+}}]},{
+"I":493,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/sprites copy/sonic animations",
+"FF":129,
+"ST":"G",
+"TRP":{"x":211.95,"y":423},
+"LP":"PO",
+"MX":[-1,0,0,1,300.45,226.3]
+}}]},{
+"I":494,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/sprites copy/sonic animations",
+"FF":130,
+"ST":"G",
+"TRP":{"x":211.95,"y":423},
+"LP":"PO",
+"MX":[-1,0,0,1,288.95,230.5]
+}}]},{
+"I":495,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/sprites copy/sonic animations",
+"FF":131,
+"ST":"G",
+"TRP":{"x":211.95,"y":423},
+"LP":"PO",
+"MX":[-1,0,0,1,277.9,234.5]
+}}]},{
+"I":496,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/sprites copy/sonic animations",
+"FF":132,
+"ST":"G",
+"TRP":{"x":211.95,"y":423},
+"LP":"PO",
+"MX":[-1,0,0,1,267.35,238.35]
+}}]},{
+"I":497,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/sprites copy/sonic animations",
+"FF":133,
+"ST":"G",
+"TRP":{"x":211.95,"y":423},
+"LP":"PO",
+"MX":[-1,0,0,1,257.3,242]
+}}]},{
+"I":498,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/sprites copy/sonic animations",
+"FF":134,
+"ST":"G",
+"TRP":{"x":211.95,"y":423},
+"LP":"PO",
+"MX":[-1,0,0,1,247.75,245.45]
+}}]},{
+"I":499,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/sprites copy/sonic animations",
+"FF":135,
+"ST":"G",
+"TRP":{"x":211.95,"y":423},
+"LP":"PO",
+"MX":[-1,0,0,1,238.7,248.75]
+}}]},{
+"I":500,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/sprites copy/sonic animations",
+"FF":136,
+"ST":"G",
+"TRP":{"x":211.95,"y":423},
+"LP":"PO",
+"MX":[-1,0,0,1,230.1,251.9]
+}}]},{
+"I":501,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/sprites copy/sonic animations",
+"FF":137,
+"ST":"G",
+"TRP":{"x":211.95,"y":423},
+"LP":"PO",
+"MX":[-1,0,0,1,222.05,254.8]
+}}]},{
+"I":502,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/sprites copy/sonic animations",
+"FF":138,
+"ST":"G",
+"TRP":{"x":211.95,"y":423},
+"LP":"PO",
+"MX":[-1,0,0,1,214.45,257.6]
+}}]},{
+"I":503,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/sprites copy/sonic animations",
+"FF":139,
+"ST":"G",
+"TRP":{"x":211.95,"y":423},
+"LP":"PO",
+"MX":[-1,0,0,1,207.35,260.15]
+}}]},{
+"I":504,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/sprites copy/sonic animations",
+"FF":140,
+"ST":"G",
+"TRP":{"x":211.95,"y":423},
+"LP":"PO",
+"MX":[-1,0,0,1,200.7,262.6]
+}}]},{
+"I":505,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/sprites copy/sonic animations",
+"FF":141,
+"ST":"G",
+"TRP":{"x":211.95,"y":423},
+"LP":"PO",
+"MX":[-1,0,0,1,194.6,264.8]
+}}]},{
+"I":506,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/sprites copy/sonic animations",
+"FF":142,
+"ST":"G",
+"TRP":{"x":211.95,"y":423},
+"LP":"PO",
+"MX":[-1,0,0,1,188.95,266.85]
+}}]},{
+"I":507,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/sprites copy/sonic animations",
+"FF":143,
+"ST":"G",
+"TRP":{"x":211.95,"y":423},
+"LP":"PO",
+"MX":[-1,0,0,1,183.8,268.75]
+}}]},{
+"I":508,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/sprites copy/sonic animations",
+"FF":144,
+"ST":"G",
+"TRP":{"x":211.95,"y":423},
+"LP":"PO",
+"MX":[-1,0,0,1,179.15,270.45]
+}}]},{
+"I":509,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/sprites copy/sonic animations",
+"FF":145,
+"ST":"G",
+"TRP":{"x":211.95,"y":423},
+"LP":"PO",
+"MX":[-1,0,0,1,175,271.95]
+}}]},{
+"I":510,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/sprites copy/sonic animations",
+"FF":146,
+"ST":"G",
+"TRP":{"x":211.95,"y":423},
+"LP":"PO",
+"MX":[-1,0,0,1,171.3,273.3]
+}}]},{
+"I":511,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/sprites copy/sonic animations",
+"FF":147,
+"ST":"G",
+"TRP":{"x":211.95,"y":423},
+"LP":"PO",
+"MX":[-1,0,0,1,168.1,274.45]
+}}]},{
+"I":512,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/sprites copy/sonic animations",
+"FF":148,
+"ST":"G",
+"TRP":{"x":211.95,"y":423},
+"LP":"PO",
+"MX":[-1,0,0,1,165.45,275.4]
+}}]},{
+"I":513,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/sprites copy/sonic animations",
+"FF":149,
+"ST":"G",
+"TRP":{"x":211.95,"y":423},
+"LP":"PO",
+"MX":[-1,0,0,1,163.2,276.2]
+}}]},{
+"I":514,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/sprites copy/sonic animations",
+"FF":150,
+"ST":"G",
+"TRP":{"x":211.95,"y":423},
+"LP":"PO",
+"MX":[-1,0,0,1,161.5,276.85]
+}}]},{
+"I":515,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/sprites copy/sonic animations",
+"FF":151,
+"ST":"G",
+"TRP":{"x":211.95,"y":423},
+"LP":"PO",
+"MX":[-1,0,0,1,160.3,277.3]
+}}]},{
+"I":516,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/sprites copy/sonic animations",
+"FF":152,
+"ST":"G",
+"TRP":{"x":211.95,"y":423},
+"LP":"PO",
+"MX":[-1,0,0,1,159.55,277.55]
+}}]},{
+"I":517,
+"DU":206,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/sprites copy/sonic animations",
+"FF":153,
+"ST":"G",
+"TRP":{"x":-54.9,"y":520.1},
+"LP":"PO",
+"MX":[-1,0,0,1,159.3,277.65]
+}}]},{
+"I":723,
+"DU":27,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/sprites/sonic idle dance",
+"FF":1,
+"ST":"G",
+"TRP":{"x":-55.65,"y":520.3},
+"LP":"LP",
+"MX":[-1,0,0,1,158.55,277.85]
+}}]}
+]}
+]}},
+"SD":{
+"S":[
+{
+"SN":"untitled folder 1/bomb fall",
+"TL":{
+"L":[
+{
+"LN":"Layer 1",
+"FR":[
+{
+"I":0,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/eggbomb",
+"FF":0,
+"ST":"G",
+"TRP":{"x":111.65,"y":-827.75},
+"LP":"LP",
+"MX":[0.558,0,0,0.961,111.65,-827.75]
+}}]},{
+"I":1,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/eggbomb",
+"FF":0,
+"ST":"G",
+"TRP":{"x":111.65,"y":-627.25},
+"LP":"LP",
+"MX":[0.308,0,0,1.142,111.65,-627.25]
+}}]},{
+"I":2,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/eggbomb",
+"FF":0,
+"ST":"G",
+"TRP":{"x":111.65,"y":-370.35},
+"LP":"LP",
+"MX":[0.263,0,0,1.142,111.65,-370.35]
+}}]},{
+"I":3,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/eggbomb",
+"FF":0,
+"ST":"G",
+"TRP":{"x":106.3,"y":-145.05},
+"LP":"LP",
+"MX":[0.687,0,0,0.613,106.3,-228.75]
+}}]},{
+"I":5,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/eggbomb",
+"FF":0,
+"ST":"G",
+"TRP":{"x":106.45,"y":-148.2},
+"LP":"LP",
+"MX":[0.603,-0.013,0.014,0.658,104.25,-242.6]
+}}]},{
+"I":7,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/eggbomb",
+"FF":0,
+"ST":"G",
+"TRP":{"x":106.45,"y":-149.45},
+"LP":"LP",
+"MX":[0.641,-0.004,0.004,0.641,105.8,-241.5]
+}}]},{
+"I":9,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/eggbomb",
+"FF":1,
+"ST":"G",
+"TRP":{"x":106.45,"y":-142.2},
+"LP":"LP",
+"MX":[0.641,-0.01,0.01,0.641,104.95,-234.25]
+}}]},{
+"I":11,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/eggbomb",
+"FF":0,
+"ST":"G",
+"TRP":{"x":106.45,"y":-140.95},
+"LP":"LP",
+"MX":[0.641,0.001,-0.001,0.641,106.5,-233.05]
+}}]},{
+"I":12,
+"DU":39,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/eggbomb",
+"FF":1,
+"ST":"G",
+"TRP":{"x":106.45,"y":-141.95},
+"LP":"LP",
+"MX":[0.641,0,0,0.641,106.3,-234]
+}}]}
+]}
+]}},{
+"SN":"export bs/mrcup sonic anims",
+"TL":{
+"L":[
+{
+"LN":"sonic idle dance",
+"FR":[
+{
+"I":0,
+"DU":12,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic idle dance copy 2",
+"FF":0,
+"ST":"G",
+"TRP":{"x":208.35,"y":242.65},
+"LP":"PO",
+"MX":[-1,0,0,1,455.1,0.25]
+}}]},{
+"I":12,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic idle dance copy 2",
+"FF":13,
+"ST":"G",
+"TRP":{"x":208.35,"y":242.65},
+"LP":"SF",
+"MX":[-1,0,0,1,455.1,0.25]
+}}]},{
+"I":14,
+"DU":11,
+"E":[
+{"SI":{
+"SN":"sonic scene full",
+"FF":0,
+"ST":"G",
+"TRP":{"x":157.1,"y":-164.9},
+"LP":"PO",
+"MX":[1,0,0,1,157.15,-164.9]
+}}]},{
+"I":25,
+"DU":5,
+"E":[
+{"SI":{
+"SN":"sonic scene full",
+"FF":9,
+"ST":"G",
+"TRP":{"x":157.1,"y":-164.9},
+"LP":"SF",
+"MX":[1,0,0,1,157.15,-164.9]
+}}]},{
+"I":30,
+"DU":156,
+"E":[
+{"SI":{
+"SN":"sonic scene full",
+"FF":12,
+"ST":"G",
+"TRP":{"x":157.1,"y":-164.9},
+"LP":"PO",
+"MX":[1,0,0,1,157.15,-164.9]
+}}]},{
+"I":186,
+"DU":24,
+"E":[
+{"SI":{
+"SN":"sonic scene full",
+"FF":168,
+"ST":"G",
+"TRP":{"x":157.1,"y":-164.9},
+"LP":"SF",
+"MX":[1,0,0,1,157.15,-164.9]
+}}]},{
+"I":210,
+"DU":133,
+"E":[
+{"SI":{
+"SN":"sonic scene full",
+"FF":169,
+"ST":"G",
+"TRP":{"x":157.1,"y":-164.9},
+"LP":"PO",
+"MX":[1,0,0,1,157.15,-164.9]
+}}]}
+]}
+]}},{
+"SN":"untitled folder 1/sprites/sonic idle dance",
+"TL":{
+"L":[
+{
+"LN":"sonic mic arm",
+"FR":[
+{
+"I":0,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic mic arm",
+"FF":0,
+"ST":"G",
+"TRP":{"x":270.65,"y":231.1},
+"LP":"LP",
+"MX":[0.998,-0.07,0.07,0.998,264.9,225.65]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic mic hand",
+"FF":0,
+"ST":"G",
+"TRP":{"x":308.2,"y":349.15},
+"LP":"LP",
+"MX":[0.998,-0.07,0.07,0.998,236.4,291.25]
+}}]},{
+"I":2,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic mic arm",
+"FF":0,
+"ST":"G",
+"TRP":{"x":299.7,"y":282.1},
+"LP":"LP",
+"MX":[0.999,0.052,-0.052,0.999,263.25,224.25]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic mic hand",
+"FF":0,
+"ST":"G",
+"TRP":{"x":291.35,"y":352.05},
+"LP":"LP",
+"MX":[0.999,0.052,-0.052,0.999,227.05,285.9]
+}}]},{
+"I":4,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic mic arm",
+"FF":0,
+"ST":"G",
+"TRP":{"x":296.75,"y":279.6},
+"LP":"LP",
+"MX":[0.993,0.116,-0.116,0.993,264.2,219.35]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic mic hand",
+"FF":0,
+"ST":"G",
+"TRP":{"x":283.9,"y":348.75},
+"LP":"LP",
+"MX":[0.993,0.116,-0.116,0.993,224.1,278.6]
+}}]},{
+"I":6,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic mic arm",
+"FF":0,
+"ST":"G",
+"TRP":{"x":303,"y":276.65},
+"LP":"LP",
+"MX":[0.999,0.043,-0.043,0.999,266.15,219.05]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic mic hand",
+"FF":0,
+"ST":"G",
+"TRP":{"x":295.25,"y":346.65},
+"LP":"LP",
+"MX":[0.999,0.043,-0.043,0.999,230.45,281]
+}}]},{
+"I":8,
+"DU":5,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic mic arm",
+"FF":0,
+"ST":"G",
+"TRP":{"x":305.25,"y":276.15},
+"LP":"LP",
+"MX":[1,0.014,-0.014,1,266.75,219.6]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic mic hand",
+"FF":0,
+"ST":"G",
+"TRP":{"x":232.85,"y":282.65},
+"LP":"LP",
+"MX":[1,0.014,-0.014,1,232.85,282.65]
+}}]},{
+"I":13,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic mic arm",
+"FF":1,
+"ST":"G",
+"TRP":{"x":305.25,"y":276.15},
+"LP":"LP",
+"MX":[1,0.014,-0.014,1,266.75,219.6]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic mic hand",
+"FF":1,
+"ST":"G",
+"TRP":{"x":299.6,"y":346.25},
+"LP":"LP",
+"MX":[1,0.014,-0.014,1,232.85,282.65]
+}}]}
+]},{
+"LN":"sonic idle head",
+"FR":[
+{
+"I":0,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"symbols shitfart/sonic idle head",
+"FF":0,
+"ST":"G",
+"TRP":{"x":265.4,"y":119.7},
+"LP":"LP",
+"MX":[1,0.018,-0.018,1,106.95,2.8]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic idle face",
+"FF":0,
+"ST":"G",
+"TRP":{"x":211.8,"y":167},
+"LP":"LP",
+"MX":[1,0.018,0.014,1,126.05,105.15]
+}}]},{
+"I":2,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"symbols shitfart/sonic idle head",
+"FF":0,
+"ST":"G",
+"TRP":{"x":261.4,"y":119.75},
+"LP":"LP",
+"MX":[0.998,-0.056,0.056,0.998,94.8,14.85]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic idle face",
+"FF":0,
+"ST":"G",
+"TRP":{"x":211.45,"y":170.85},
+"LP":"LP",
+"MX":[0.998,-0.056,0.088,0.997,121.4,115.45]
+}}]},{
+"I":4,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"symbols shitfart/sonic idle head",
+"FF":0,
+"ST":"G",
+"TRP":{"x":264.55,"y":116.5},
+"LP":"LP",
+"MX":[0.999,-0.034,0.034,0.999,100.3,8]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic idle face",
+"FF":0,
+"ST":"G",
+"TRP":{"x":213.45,"y":166.5},
+"LP":"LP",
+"MX":[0.999,-0.034,0.066,0.998,124.65,109.2]
+}}]},{
+"I":6,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"symbols shitfart/sonic idle head",
+"FF":0,
+"ST":"G",
+"TRP":{"x":266.9,"y":114.1},
+"LP":"LP",
+"MX":[1,-0.012,0.012,1,105.05,2]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic idle face",
+"FF":0,
+"ST":"G",
+"TRP":{"x":214.8,"y":162.95},
+"LP":"LP",
+"MX":[1,-0.012,0.045,1,127.2,103.7]
+}}]},{
+"I":8,
+"DU":5,
+"E":[
+{"SI":{
+"SN":"symbols shitfart/sonic idle head",
+"FF":0,
+"ST":"G",
+"TRP":{"x":266.9,"y":114.1},
+"LP":"LP",
+"MX":[1,-0.005,0.005,1,105.95,0.75]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic idle face",
+"FF":0,
+"ST":"G",
+"TRP":{"x":214.45,"y":162.55},
+"LP":"LP",
+"MX":[1,-0.005,0.037,1,127.3,102.6]
+}}]},{
+"I":13,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"symbols shitfart/sonic idle head",
+"FF":0,
+"ST":"G",
+"TRP":{"x":266.9,"y":114.1},
+"LP":"LP",
+"MX":[1,-0.005,0.005,1,105.95,0.75]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic idle face",
+"FF":0,
+"ST":"G",
+"TRP":{"x":214.45,"y":162.55},
+"LP":"LP",
+"MX":[1,-0.005,0.037,1,127.3,102.6]
+}}]}
+]},{
+"LN":"sonic ring necklace",
+"FR":[
+{
+"I":0,
+"DU":13,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic ring necklace loop",
+"FF":0,
+"ST":"G",
+"TRP":{"x":232.6,"y":228.25},
+"LP":"LP",
+"MX":[0.997,0.162,-0.159,0.982,176.55,211.75]
+}}]},{
+"I":13,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic ring necklace loop",
+"FF":13,
+"ST":"G",
+"TRP":{"x":232.6,"y":228.25},
+"LP":"LP",
+"MX":[0.997,0.162,-0.159,0.982,176.55,211.75]
+}}]}
+]},{
+"LN":"sonic body",
+"FR":[
+{
+"I":0,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic body",
+"FF":0,
+"ST":"G",
+"TRP":{"x":259.85,"y":342.55},
+"LP":"LP",
+"MX":[1.02,0,0,0.992,95.8,200.2]
+}}]},{
+"I":2,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic body",
+"FF":0,
+"ST":"G",
+"TRP":{"x":259.85,"y":342.15},
+"LP":"LP",
+"MX":[1.01,0,0,0.994,97.4,199.4]
+}}]},{
+"I":4,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic body",
+"FF":0,
+"ST":"G",
+"TRP":{"x":259.85,"y":341.35},
+"LP":"LP",
+"MX":[1,0,0,1,99,197.8]
+}}]},{
+"I":6,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic body",
+"FF":0,
+"ST":"G",
+"TRP":{"x":259.85,"y":341.35},
+"LP":"LP",
+"MX":[1,0,0,1,99,197.8]
+}}]},{
+"I":8,
+"DU":5,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic body",
+"FF":0,
+"ST":"G",
+"TRP":{"x":259.85,"y":341.35},
+"LP":"LP",
+"MX":[1,0,0,1,99,197.8]
+}}]},{
+"I":13,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic body",
+"FF":0,
+"ST":"G",
+"TRP":{"x":259.85,"y":341.35},
+"LP":"LP",
+"MX":[1,0,0,1,99,197.8]
+}}]}
+]},{
+"LN":"sonic snap arm",
+"FR":[
+{
+"I":0,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic snap arm",
+"FF":0,
+"ST":"G",
+"TRP":{"x":161.2,"y":294.2},
+"LP":"LP",
+"MX":[0.996,0.091,-0.091,0.996,114.65,233.45]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic snap hand",
+"FF":0,
+"ST":"G",
+"TRP":{"x":140.3,"y":320.4},
+"LP":"LP",
+"MX":[0.964,0.266,-0.266,0.964,27.3,195.9]
+}}]},{
+"I":2,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic snap arm",
+"FF":0,
+"ST":"G",
+"TRP":{"x":157.8,"y":292.3},
+"LP":"LP",
+"MX":[0.999,0.048,-0.048,0.999,108.65,233.65]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic snap hand",
+"FF":2,
+"ST":"G",
+"TRP":{"x":133.8,"y":323.4},
+"LP":"SF",
+"MX":[0.976,0.22,-0.22,0.976,19.65,200.8]
+}}]},{
+"I":4,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic snap arm",
+"FF":0,
+"ST":"G",
+"TRP":{"x":158.65,"y":292.5},
+"LP":"LP",
+"MX":[0.999,0.039,-0.039,0.999,108.95,234.15]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic snap hand",
+"FF":2,
+"ST":"G",
+"TRP":{"x":81.8,"y":281.1},
+"LP":"SF",
+"MX":[0.994,0.113,-0.113,0.994,8.15,214.25]
+}}]},{
+"I":6,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic snap arm",
+"FF":0,
+"ST":"G",
+"TRP":{"x":162,"y":288.7},
+"LP":"LP",
+"MX":[1,0,0,1,110.1,232.4]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic snap hand",
+"FF":5,
+"ST":"G",
+"TRP":{"x":150.3,"y":309.15},
+"LP":"SF",
+"MX":[1.012,-0.101,0.101,1.012,-7.95,241.05]
+}}]},{
+"I":8,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic snap arm",
+"FF":0,
+"ST":"G",
+"TRP":{"x":162.4,"y":288.05},
+"LP":"LP",
+"MX":[1,0.021,-0.021,1,111.75,230.65]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic snap hand",
+"FF":3,
+"ST":"G",
+"TRP":{"x":142.35,"y":310.05},
+"LP":"SF",
+"MX":[0.996,0.087,-0.087,0.996,9.85,213.5]
+}}]},{
+"I":10,
+"DU":3,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic snap arm",
+"FF":0,
+"ST":"G",
+"TRP":{"x":162.4,"y":288.05},
+"LP":"LP",
+"MX":[1,0.021,-0.021,1,111.75,230.65]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic snap hand",
+"FF":3,
+"ST":"G",
+"TRP":{"x":142.35,"y":310.05},
+"LP":"SF",
+"MX":[0.995,0.099,-0.099,0.995,11.05,211.85]
+}}]},{
+"I":13,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic snap arm",
+"FF":0,
+"ST":"G",
+"TRP":{"x":162.4,"y":288.05},
+"LP":"LP",
+"MX":[1,0.021,-0.021,1,111.75,230.65]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic snap hand",
+"FF":3,
+"ST":"G",
+"TRP":{"x":142.35,"y":310.05},
+"LP":"SF",
+"MX":[0.995,0.099,-0.099,0.995,11.05,211.85]
+}}]}
+]}
+]}},{
+"SN":"untitled folder 1/CHARS/SONIC/sprites copy/sonic animations",
+"TL":{
+"L":[
+{
+"LN":"sonic mic arm",
+"FR":[
+{
+"I":0,
+"DU":5,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic mic arm",
+"FF":1,
+"ST":"G",
+"TRP":{"x":305.25,"y":276.15},
+"LP":"LP",
+"MX":[1,0.014,-0.014,1,266.75,219.6]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic mic hand",
+"FF":1,
+"ST":"G",
+"TRP":{"x":299.6,"y":346.25},
+"LP":"LP",
+"MX":[1,0.014,-0.014,1,232.85,282.65]
+}}]},{
+"I":5,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic mic arm",
+"FF":0,
+"ST":"G",
+"TRP":{"x":302.1,"y":276},
+"LP":"LP",
+"MX":[0.999,-0.051,0.051,0.999,260,222.1]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic mic hand",
+"FF":0,
+"ST":"G",
+"TRP":{"x":301.05,"y":346.3},
+"LP":"LP",
+"MX":[0.999,-0.051,0.051,0.999,230.25,287.2]
+}}]},{
+"I":6,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic mic arm",
+"FF":1,
+"ST":"G",
+"TRP":{"x":292.3,"y":282.5},
+"LP":"LP",
+"MX":[0.969,-0.245,0.245,0.969,240.5,237.8]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic mic hand",
+"FF":1,
+"ST":"G",
+"TRP":{"x":305,"y":351.65},
+"LP":"LP",
+"MX":[0.969,-0.245,0.245,0.969,224.05,307.5]
+}}]},{
+"I":8,
+"DU":2,
+"E":[]
+},{
+"I":10,
+"DU":3,
+"E":[]
+},{
+"I":13,
+"DU":37,
+"E":[]
+},{
+"I":50,
+"DU":51,
+"E":[]
+},{
+"I":101,
+"DU":20,
+"E":[]
+},{
+"I":121,
+"DU":285,
+"E":[]
+}
+]},{
+"LN":"Layer 2",
+"FR":[
+{
+"I":0,
+"DU":5,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic idle face",
+"FF":0,
+"ST":"G",
+"TRP":{"x":214.45,"y":162.55},
+"LP":"LP",
+"MX":[1,-0.005,0.037,1,127.3,102.6]
+}}]},{
+"I":5,
+"DU":1,
+"E":[
+{"ASI":{
+"MX":[1,0,0,1,125.6,104.35],
+"N":"6"
+}}]},{
+"I":6,
+"DU":2,
+"E":[
+{"ASI":{
+"MX":[1,0,0,1,91,125.2],
+"N":"7"
+}}]},{
+"I":8,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic idle face copy 2",
+"FF":0,
+"ST":"G",
+"TRP":{"x":160.25,"y":210.55},
+"LP":"LP",
+"MX":[0.991,0.133,-0.101,0.995,82.2,139.05]
+}}]},{
+"I":10,
+"DU":3,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic idle face copy 2",
+"FF":1,
+"ST":"G",
+"TRP":{"x":166.7,"y":206.75},
+"LP":"LP",
+"MX":[0.997,0.082,-0.049,0.999,85.1,139.4]
+}}]},{
+"I":13,
+"DU":34,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic idle face copy 2",
+"FF":0,
+"ST":"G",
+"TRP":{"x":167.5,"y":205.95},
+"LP":"LP",
+"MX":[0.997,0.082,-0.049,0.999,85.9,138.6]
+}}]},{
+"I":47,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic idle face copy 2",
+"FF":0,
+"ST":"G",
+"TRP":{"x":170.45,"y":206.7},
+"LP":"LP",
+"MX":[0.999,0.043,-0.01,1,86.3,142.6]
+}}]},{
+"I":48,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic idle face copy 2",
+"FF":1,
+"ST":"G",
+"TRP":{"x":207.05,"y":198.7},
+"LP":"LP",
+"MX":[1,-0.013,0.046,0.999,119.45,139.45]
+}}]},{
+"I":50,
+"DU":51,
+"E":[]
+},{
+"I":101,
+"DU":20,
+"E":[]
+},{
+"I":121,
+"DU":285,
+"E":[]
+}
+]},{
+"LN":"sonic idle head",
+"FR":[
+{
+"I":0,
+"DU":5,
+"E":[
+{"SI":{
+"SN":"symbols shitfart/sonic idle head",
+"FF":0,
+"ST":"G",
+"TRP":{"x":266.9,"y":114.1},
+"LP":"LP",
+"MX":[1,-0.005,0.005,1,105.95,0.75]
+}}]},{
+"I":5,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"symbols shitfart/sonic idle head",
+"FF":1,
+"ST":"G",
+"TRP":{"x":265.65,"y":115.5},
+"LP":"LP",
+"MX":[0.999,0.035,-0.035,0.999,109.25,-4.1]
+}}]},{
+"I":6,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"symbols shitfart/sonic idle head",
+"FF":0,
+"ST":"G",
+"TRP":{"x":239.4,"y":139.2},
+"LP":"LP",
+"MX":[0.99,0.139,-0.139,0.99,96.3,3.95]
+}}]},{
+"I":8,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"symbols shitfart/sonic idle head copy",
+"FF":0,
+"ST":"G",
+"TRP":{"x":218.9,"y":169.7},
+"LP":"PO",
+"MX":[0.991,0.133,-0.133,0.991,74.9,35.2]
+}}]},{
+"I":10,
+"DU":3,
+"E":[
+{"SI":{
+"SN":"symbols shitfart/sonic idle head copy",
+"FF":5,
+"ST":"G",
+"TRP":{"x":223.2,"y":162.9},
+"LP":"PO",
+"MX":[0.997,0.082,-0.082,0.997,72.45,36.05]
+}}]},{
+"I":13,
+"DU":34,
+"E":[
+{"SI":{
+"SN":"symbols shitfart/sonic idle head copy",
+"FF":2,
+"ST":"G",
+"TRP":{"x":224,"y":162.1},
+"LP":"PO",
+"MX":[0.997,0.082,-0.082,0.997,73.25,35.25]
+}}]},{
+"I":47,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"symbols shitfart/sonic idle head copy",
+"FF":21,
+"ST":"G",
+"TRP":{"x":225.25,"y":160.7},
+"LP":"PO",
+"MX":[0.999,0.043,-0.043,0.999,69.65,39.8]
+}}]},{
+"I":48,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"symbols shitfart/sonic idle head copy",
+"FF":21,
+"ST":"G",
+"TRP":{"x":259.1,"y":149.7},
+"LP":"PO",
+"MX":[1,-0.013,0.013,1,97.05,37.7]
+}}]},{
+"I":50,
+"DU":51,
+"E":[]
+},{
+"I":101,
+"DU":20,
+"E":[]
+},{
+"I":121,
+"DU":285,
+"E":[]
+}
+]},{
+"LN":"sonic mic arm",
+"FR":[
+{
+"I":0,
+"DU":8,
+"E":[]
+},{
+"I":8,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"ioijkl",
+"ST":"MC",
+"TRP":{"x":249.55,"y":257.4},
+"MX":[0.999,-0.039,0.039,0.999,241.2,247]
+}}]},{
+"I":10,
+"DU":3,
+"E":[
+{"SI":{
+"SN":"ioijkl",
+"ST":"MC",
+"TRP":{"x":250.35,"y":263},
+"MX":[1,0,0,1,242.4,252.3]
+}}]},{
+"I":13,
+"DU":34,
+"E":[
+{"SI":{
+"SN":"ioijkl",
+"ST":"MC",
+"TRP":{"x":249.55,"y":263.8},
+"MX":[1,0,0,1,241.6,253.1]
+}}]},{
+"I":47,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"ioijkl",
+"ST":"MC",
+"TRP":{"x":250.35,"y":263},
+"MX":[1,0.021,-0.021,1,242.65,252.15]
+}}]},{
+"I":48,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"ioijkl",
+"ST":"MC",
+"TRP":{"x":272.75,"y":256.6},
+"MX":[0.996,0.087,-0.087,0.996,265.75,245.25]
+}}]},{
+"I":50,
+"DU":356,
+"E":[]
+}
+]},{
+"LN":"sonic ring necklace",
+"FR":[
+{
+"I":0,
+"DU":5,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic ring necklace loop",
+"FF":13,
+"ST":"G",
+"TRP":{"x":232.6,"y":228.25},
+"LP":"SF",
+"MX":[0.997,0.162,-0.159,0.982,176.55,211.75]
+}}]},{
+"I":5,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic ring necklace loop",
+"FF":13,
+"ST":"G",
+"TRP":{"x":231,"y":228.25},
+"LP":"SF",
+"MX":[0.997,0.162,-0.159,0.982,174.95,211.75]
+}}]},{
+"I":6,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic ring necklace loop",
+"FF":13,
+"ST":"G",
+"TRP":{"x":198.75,"y":243.45},
+"LP":"SF",
+"MX":[0.921,0.414,-0.408,0.907,148.9,213.05]
+}}]},{
+"I":8,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"opiiuo;i",
+"ST":"MC",
+"TRP":{"x":198.4,"y":237.45},
+"MX":[0.991,0.13,-0.213,0.981,167.2,209.3]
+}}]},{
+"I":10,
+"DU":3,
+"E":[
+{"SI":{
+"SN":"opiiuo;i",
+"ST":"MC",
+"TRP":{"x":192.8,"y":278.85},
+"MX":[1,0,0,1,160.85,216.75]
+}}]},{
+"I":13,
+"DU":34,
+"E":[
+{"SI":{
+"SN":"opiiuo;i",
+"ST":"MC",
+"TRP":{"x":192.8,"y":278.05},
+"MX":[1,0,0,1,160.85,215.95]
+}}]},{
+"I":47,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"opiiuo;i",
+"ST":"MC",
+"TRP":{"x":192.8,"y":278.05},
+"MX":[1,0,0,1,160.85,215.95]
+}}]},{
+"I":48,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"opiiuo;i",
+"ST":"MC",
+"TRP":{"x":187.2,"y":278.05},
+"MX":[0.866,0.5,-0.5,0.866,190.6,208.25]
+}}]},{
+"I":50,
+"DU":51,
+"E":[]
+},{
+"I":101,
+"DU":20,
+"E":[]
+},{
+"I":121,
+"DU":285,
+"E":[]
+}
+]},{
+"LN":"sonic body",
+"FR":[
+{
+"I":0,
+"DU":5,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic body",
+"FF":0,
+"ST":"G",
+"TRP":{"x":259.85,"y":341.35},
+"LP":"LP",
+"MX":[1,0,0,1,99,197.8]
+}}]},{
+"I":5,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic body",
+"FF":1,
+"ST":"G",
+"TRP":{"x":258.2,"y":341.35},
+"LP":"LP",
+"MX":[1,0,0.011,1,95.7,197.8]
+}}]},{
+"I":6,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic body",
+"FF":0,
+"ST":"G",
+"TRP":{"x":228.65,"y":461.35},
+"LP":"LP",
+"MX":[1,0,0.075,1,79.25,197.8]
+}}]},{
+"I":8,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic body copy",
+"FF":0,
+"ST":"G",
+"TRP":{"x":259.75,"y":343.95},
+"LP":"LP",
+"MX":[1.041,0,0,0.982,92.4,203]
+}}]},{
+"I":10,
+"DU":3,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic body copy",
+"FF":1,
+"ST":"G",
+"TRP":{"x":259.85,"y":341.35},
+"LP":"LP",
+"MX":[1,0,0,1,99,197.8]
+}}]},{
+"I":13,
+"DU":34,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic body copy",
+"FF":0,
+"ST":"G",
+"TRP":{"x":259.85,"y":341.35},
+"LP":"LP",
+"MX":[1,0,0,1,99,197.8]
+}}]},{
+"I":47,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic body copy",
+"FF":0,
+"ST":"G",
+"TRP":{"x":261.15,"y":341.35},
+"LP":"LP",
+"MX":[1,0,-0.009,1,101.6,197.8]
+}}]},{
+"I":48,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic body copy",
+"FF":1,
+"ST":"G",
+"TRP":{"x":272.3,"y":339.6},
+"LP":"LP",
+"MX":[0.976,0,-0.085,1.012,127.6,194.3]
+}}]},{
+"I":50,
+"DU":51,
+"E":[]
+},{
+"I":101,
+"DU":20,
+"E":[]
+},{
+"I":121,
+"DU":285,
+"E":[]
+}
+]},{
+"LN":"sonic snap arm",
+"FR":[
+{
+"I":0,
+"DU":5,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic snap arm",
+"FF":0,
+"ST":"G",
+"TRP":{"x":162.4,"y":288.05},
+"LP":"LP",
+"MX":[1,0.021,-0.021,1,111.75,230.65]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic snap hand",
+"FF":3,
+"ST":"G",
+"TRP":{"x":142.35,"y":310.05},
+"LP":"SF",
+"MX":[0.995,0.099,-0.099,0.995,11.05,211.85]
+}}]},{
+"I":5,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic snap arm",
+"FF":1,
+"ST":"G",
+"TRP":{"x":160.8,"y":288.85},
+"LP":"LP",
+"MX":[1,0.021,-0.021,1,110.15,231.45]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic snap hand",
+"FF":3,
+"ST":"G",
+"TRP":{"x":140.75,"y":310.85},
+"LP":"SF",
+"MX":[0.993,0.116,-0.099,0.995,9.7,210.3]
+}}]},{
+"I":6,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic snap arm",
+"FF":0,
+"ST":"G",
+"TRP":{"x":144.25,"y":279.25},
+"LP":"LP",
+"MX":[0.986,0.168,-0.168,0.986,102.55,215.05]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic snap hand",
+"FF":3,
+"ST":"G",
+"TRP":{"x":125.55,"y":305.25},
+"LP":"SF",
+"MX":[1.015,-0.092,0.28,0.96,-40.7,236.9]
+}}]},{
+"I":8,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"oihklj",
+"ST":"MC",
+"TRP":{"x":91.2,"y":328.45},
+"MX":[0.996,0.091,-0.091,0.996,17.3,250.7]
+}}]},{
+"I":10,
+"DU":3,
+"E":[
+{"SI":{
+"SN":"oihklj",
+"ST":"MC",
+"TRP":{"x":92.8,"y":339.65},
+"MX":[1,0,0,1,12.15,268.95]
+}}]},{
+"I":13,
+"DU":34,
+"E":[
+{"SI":{
+"SN":"oihklj",
+"ST":"MC",
+"TRP":{"x":93.6,"y":340.45},
+"MX":[1,0,0,1,12.95,269.75]
+}}]},{
+"I":47,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"oihklj",
+"ST":"MC",
+"TRP":{"x":95.2,"y":338.85},
+"MX":[1,0,0,1,14.55,268.15]
+}}]},{
+"I":48,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"oihklj",
+"ST":"MC",
+"TRP":{"x":105.05,"y":316.9},
+"MX":[1.03,0.097,-0.104,0.916,29.4,244.3]
+}}]},{
+"I":50,
+"DU":3,
+"E":[
+{"SI":{
+"SN":"symbols shitfart/sonic arm hip 2",
+"FF":0,
+"ST":"G",
+"TRP":{"x":179.25,"y":268},
+"LP":"LP",
+"MX":[0.259,-1.002,-0.841,-0.107,262.7,328]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic foot tap ground",
+"FF":0,
+"ST":"G",
+"TRP":{"x":170.3,"y":315.6},
+"LP":"LP",
+"MX":[1.065,0,-0.029,0.983,65.1,294.4]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic face forward head",
+"FF":0,
+"ST":"G",
+"TRP":{"x":279.9,"y":236.4},
+"LP":"LP",
+"MX":[1.012,-0.131,0.119,0.973,101.85,37.2]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic lean body",
+"FF":0,
+"ST":"G",
+"TRP":{"x":294.2,"y":234.25},
+"LP":"LP",
+"MX":[1.048,0,-0.146,0.983,243.75,197.6]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic dead chain",
+"FF":0,
+"ST":"G",
+"TRP":{"x":274.05,"y":232.4},
+"LP":"LP",
+"MX":[1.035,-0.041,-0.222,0.975,254.35,216.15]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic hand hip 2 copy",
+"FF":0,
+"ST":"G",
+"TRP":{"x":148.15,"y":265.95},
+"LP":"LP",
+"MX":[0.256,-1.011,-0.957,-0.126,204.4,353.6]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic face forward copy 2",
+"FF":0,
+"ST":"G",
+"TRP":{"x":249.5,"y":174.9},
+"LP":"LP",
+"MX":[1.004,-0.156,0.153,1.004,163.6,117.95]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic mic hip",
+"FF":0,
+"ST":"G",
+"TRP":{"x":358.6,"y":283.4},
+"LP":"LP",
+"MX":[0.975,0.224,-0.224,0.975,319.05,252.6]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic arm hip",
+"FF":0,
+"ST":"G",
+"TRP":{"x":337.95,"y":224.7},
+"LP":"LP",
+"MX":[0.994,0.113,0.02,0.98,310.4,205.4]
+}}]},{
+"I":53,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"symbols shitfart/sonic arm hip 2",
+"FF":0,
+"ST":"G",
+"TRP":{"x":179.25,"y":268},
+"LP":"LP",
+"MX":[0.259,-1.002,-0.841,-0.107,262.7,328]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic foot tap ground",
+"FF":0,
+"ST":"G",
+"TRP":{"x":166.95,"y":315.6},
+"LP":"LP",
+"MX":[1.065,0,-0.01,0.983,61.35,294.4]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic face forward head",
+"FF":0,
+"ST":"G",
+"TRP":{"x":271.65,"y":235.75},
+"LP":"LP",
+"MX":[1.015,-0.109,0.098,0.976,97.9,32.8]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic lean body",
+"FF":0,
+"ST":"G",
+"TRP":{"x":289.3,"y":234.25},
+"LP":"LP",
+"MX":[1.048,0,-0.127,0.983,238.15,197.6]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic dead chain",
+"FF":0,
+"ST":"G",
+"TRP":{"x":284.5,"y":232.4},
+"LP":"LP",
+"MX":[1.035,-0.041,-0.057,0.969,261.85,216.25]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic hand hip 2 copy",
+"FF":3,
+"ST":"G",
+"TRP":{"x":143.45,"y":265.95},
+"LP":"LP",
+"MX":[0.321,-0.992,-0.947,-0.188,193.85,357.05]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic face forward copy 2",
+"FF":3,
+"ST":"G",
+"TRP":{"x":242.5,"y":173.6},
+"LP":"LP",
+"MX":[1.007,-0.134,0.132,1.007,157.9,114.8]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic mic hip",
+"FF":0,
+"ST":"G",
+"TRP":{"x":364.45,"y":283.9},
+"LP":"LP",
+"MX":[0.989,0.151,-0.151,0.989,322.65,256.1]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic arm hip",
+"FF":0,
+"ST":"G",
+"TRP":{"x":339.4,"y":226.9},
+"LP":"LP",
+"MX":[0.999,0.039,0.093,0.976,310.55,209.7]
+}}]},{
+"I":55,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"symbols shitfart/sonic arm hip 2",
+"FF":0,
+"ST":"G",
+"TRP":{"x":179.25,"y":268},
+"LP":"LP",
+"MX":[0.259,-1.002,-0.841,-0.107,262.7,328]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic foot tap ground",
+"FF":0,
+"ST":"G",
+"TRP":{"x":166,"y":315.6},
+"LP":"LP",
+"MX":[1.065,0,-0.004,0.983,60.25,294.4]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic face forward head",
+"FF":0,
+"ST":"G",
+"TRP":{"x":269,"y":235.8},
+"LP":"LP",
+"MX":[1.017,-0.087,0.077,0.978,99.65,29.2]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic lean body",
+"FF":0,
+"ST":"G",
+"TRP":{"x":287.9,"y":234.25},
+"LP":"LP",
+"MX":[1.048,0,-0.121,0.983,236.55,197.6]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic dead chain",
+"FF":0,
+"ST":"G",
+"TRP":{"x":290.1,"y":232.45},
+"LP":"LP",
+"MX":[1.035,-0.041,0.052,0.965,265.55,216.35]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic hand hip 2 copy",
+"FF":5,
+"ST":"G",
+"TRP":{"x":141.85,"y":265.95},
+"LP":"LP",
+"MX":[0.321,-0.992,-0.947,-0.188,192.25,357.05]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic face forward copy 2",
+"FF":5,
+"ST":"G",
+"TRP":{"x":241.25,"y":173.05},
+"LP":"LP",
+"MX":[1.01,-0.112,0.11,1.01,157.9,112.5]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic mic hip",
+"FF":0,
+"ST":"G",
+"TRP":{"x":366.05,"y":283.45},
+"LP":"LP",
+"MX":[0.994,0.113,-0.113,0.994,323.25,257.3]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic arm hip",
+"FF":0,
+"ST":"G",
+"TRP":{"x":338.85,"y":227.45},
+"LP":"LP",
+"MX":[1,0,0.131,0.972,309.35,211.4]
+}}]},{
+"I":57,
+"DU":10,
+"E":[
+{"SI":{
+"SN":"symbols shitfart/sonic arm hip 2",
+"FF":0,
+"ST":"G",
+"TRP":{"x":179.25,"y":268},
+"LP":"LP",
+"MX":[0.259,-1.002,-0.841,-0.107,262.7,328]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic foot tap ground",
+"FF":0,
+"ST":"G",
+"TRP":{"x":166,"y":315.6},
+"LP":"LP",
+"MX":[1.065,0,-0.004,0.983,60.25,294.4]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic face forward head",
+"FF":0,
+"ST":"G",
+"TRP":{"x":269,"y":235.8},
+"LP":"LP",
+"MX":[1.017,-0.087,0.077,0.978,99.65,29.2]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic lean body",
+"FF":0,
+"ST":"G",
+"TRP":{"x":287.9,"y":234.25},
+"LP":"LP",
+"MX":[1.048,0,-0.121,0.983,236.55,197.6]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic dead chain",
+"FF":0,
+"ST":"G",
+"TRP":{"x":289.3,"y":233.25},
+"LP":"LP",
+"MX":[1.035,-0.041,0.052,0.965,264.75,217.15]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic hand hip 2 copy",
+"FF":7,
+"ST":"G",
+"TRP":{"x":141.85,"y":265.95},
+"LP":"LP",
+"MX":[0.321,-0.992,-0.947,-0.188,192.25,357.05]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic face forward copy 2",
+"FF":7,
+"ST":"G",
+"TRP":{"x":241.25,"y":173.05},
+"LP":"LP",
+"MX":[1.01,-0.112,0.11,1.01,157.9,112.5]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic mic hip",
+"FF":0,
+"ST":"G",
+"TRP":{"x":366.05,"y":283.45},
+"LP":"LP",
+"MX":[0.994,0.113,-0.113,0.994,323.25,257.3]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic arm hip",
+"FF":0,
+"ST":"G",
+"TRP":{"x":338.85,"y":227.45},
+"LP":"LP",
+"MX":[1,0,0.131,0.972,309.35,211.4]
+}}]},{
+"I":67,
+"DU":31,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic waiting idle",
+"FF":0,
+"ST":"G",
+"TRP":{"x":270.65,"y":244.25},
+"LP":"LP",
+"MX":[1,0,0,1,79.15,-3.55]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic arm hip 2",
+"FF":0,
+"ST":"G",
+"TRP":{"x":179.25,"y":268},
+"LP":"LP",
+"MX":[0.259,-1.002,-0.841,-0.107,262.7,328]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic face forward head",
+"FF":0,
+"ST":"G",
+"TRP":{"x":269,"y":235.8},
+"LP":"LP",
+"MX":[1.017,-0.087,0.077,0.978,99.65,29.2]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic lean body",
+"FF":0,
+"ST":"G",
+"TRP":{"x":287.9,"y":234.25},
+"LP":"LP",
+"MX":[1.048,0,-0.121,0.983,236.55,197.6]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic dead chain",
+"FF":0,
+"ST":"G",
+"TRP":{"x":289.3,"y":233.25},
+"LP":"LP",
+"MX":[1.035,-0.041,0.052,0.965,264.75,217.15]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic hand hip 2 copy",
+"FF":9,
+"ST":"G",
+"TRP":{"x":141.85,"y":265.95},
+"LP":"LP",
+"MX":[0.321,-0.992,-0.947,-0.188,192.25,357.05]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic face forward copy 2",
+"FF":9,
+"ST":"G",
+"TRP":{"x":241.25,"y":173.05},
+"LP":"LP",
+"MX":[1.01,-0.112,0.11,1.01,157.9,112.5]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic mic hip",
+"FF":0,
+"ST":"G",
+"TRP":{"x":366.05,"y":283.45},
+"LP":"LP",
+"MX":[0.994,0.113,-0.113,0.994,323.25,257.3]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic arm hip",
+"FF":0,
+"ST":"G",
+"TRP":{"x":338.85,"y":227.45},
+"LP":"LP",
+"MX":[1,0,0.131,0.972,309.35,211.4]
+}}]},{
+"I":98,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic waiting idle",
+"FF":7,
+"ST":"G",
+"TRP":{"x":270.65,"y":245.85},
+"LP":"LP",
+"MX":[1,0,0,1,79.15,-1.95]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic arm hip 2",
+"FF":0,
+"ST":"G",
+"TRP":{"x":179.25,"y":268},
+"LP":"LP",
+"MX":[0.259,-1.002,-0.841,-0.107,262.7,328]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic face forward head",
+"FF":0,
+"ST":"G",
+"TRP":{"x":270.6,"y":236.6},
+"LP":"LP",
+"MX":[1.017,-0.087,0.077,0.978,101.25,30]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic lean body",
+"FF":0,
+"ST":"G",
+"TRP":{"x":287.9,"y":234.25},
+"LP":"LP",
+"MX":[1.048,0,-0.121,0.983,236.55,197.6]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic dead chain",
+"FF":0,
+"ST":"G",
+"TRP":{"x":289.05,"y":233.25},
+"LP":"LP",
+"MX":[1.035,-0.041,0.037,0.965,264.75,217.15]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic hand hip 2 copy",
+"FF":0,
+"ST":"G",
+"TRP":{"x":143.45,"y":265.95},
+"LP":"LP",
+"MX":[0.321,-0.992,-0.947,-0.188,193.85,357.05]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic face forward copy 2",
+"FF":0,
+"ST":"G",
+"TRP":{"x":242.85,"y":173.85},
+"LP":"LP",
+"MX":[1.01,-0.112,0.11,1.01,159.5,113.3]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic mic hip",
+"FF":0,
+"ST":"G",
+"TRP":{"x":367.65,"y":281.05},
+"LP":"LP",
+"MX":[0.994,0.113,-0.113,0.994,324.85,254.9]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic arm hip",
+"FF":0,
+"ST":"G",
+"TRP":{"x":340.45,"y":226.65},
+"LP":"LP",
+"MX":[1,0,0.131,0.972,310.95,210.6]
+}}]},{
+"I":99,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic waiting idle",
+"FF":0,
+"ST":"G",
+"TRP":{"x":268.25,"y":241.15},
+"LP":"LP",
+"MX":[1,0.017,0,1,76.75,-9.85]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic arm hip 2",
+"FF":0,
+"ST":"G",
+"TRP":{"x":174.45,"y":267.9},
+"LP":"LP",
+"MX":[0.246,-0.926,-0.841,-0.107,258.5,324.35]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic face forward head",
+"FF":0,
+"ST":"G",
+"TRP":{"x":298.75,"y":239.35},
+"LP":"LP",
+"MX":[1.02,0.037,-0.042,0.98,155.75,13.7]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic lean body",
+"FF":0,
+"ST":"G",
+"TRP":{"x":292.3,"y":234.25},
+"LP":"LP",
+"MX":[1.048,0,-0.003,0.983,236.55,197.6]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic dead chain",
+"FF":0,
+"ST":"G",
+"TRP":{"x":289.3,"y":233.25},
+"LP":"LP",
+"MX":[1.01,0.229,-0.2,0.945,269.75,211.35]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic hand hip 2 copy",
+"FF":1,
+"ST":"G",
+"TRP":{"x":131.35,"y":262.75},
+"LP":"LP",
+"MX":[0.321,-0.992,-0.947,-0.188,181.75,353.85]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic face forward copy 2",
+"FF":1,
+"ST":"G",
+"TRP":{"x":278.8,"y":173.65},
+"LP":"LP",
+"MX":[1.016,0.011,-0.013,1.016,203.5,103.45]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic mic hip",
+"FF":0,
+"ST":"G",
+"TRP":{"x":388.1,"y":269.75},
+"LP":"LP",
+"MX":[0.994,0.113,-0.491,0.951,353.35,244.5]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic arm hip",
+"FF":0,
+"ST":"G",
+"TRP":{"x":371.65,"y":227.45},
+"LP":"LP",
+"MX":[0.997,0.078,0.055,0.979,343.5,209.15]
+}}]},{
+"I":101,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"oiujhkjk;k'lk;lk",
+"ST":"MC",
+"TRP":{"x":261.4,"y":252.95},
+"MX":[0.998,0.056,-0.056,0.998,138.4,238.15]
+}}]},{
+"I":103,
+"DU":3,
+"E":[
+{"SI":{
+"SN":"oiujhkjk;k'lk;lk",
+"ST":"MC",
+"TRP":{"x":267,"y":258.55},
+"MX":[1,0,0,1,143.4,250.75]
+}}]},{
+"I":106,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"oiujhkjk;k'lk;lk",
+"ST":"MC",
+"TRP":{"x":264.85,"y":256.95},
+"MX":[1,0.021,-0.021,1,141.45,246.5]
+}}]},{
+"I":108,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"oiujhkjk;k'lk;lk",
+"ST":"MC",
+"TRP":{"x":267.25,"y":263.35},
+"MX":[0.999,-0.043,0.043,0.999,143.4,260.9]
+}}]},{
+"I":109,
+"DU":2,
+"E":[
+{"ASI":{
+"MX":[1,0,0,1,-4.8,12.5],
+"N":"11"
+}}]},{
+"I":111,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"oihklj",
+"ST":"MC",
+"TRP":{"x":145.9,"y":268.25},
+"MX":[0.903,-0.429,0.429,0.903,-1.3,325.8]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic left body",
+"FF":0,
+"ST":"G",
+"TRP":{"x":212.15,"y":467.35},
+"LP":"SF",
+"MX":[0.981,0,0.131,1.025,-31.2,204.75]
+}},
+{"SI":{
+"SN":"ioijkl",
+"ST":"MC",
+"TRP":{"x":238.45,"y":253.6},
+"MX":[1,0.092,-0.183,0.983,232.4,242.45]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic ring necklace loop",
+"FF":13,
+"ST":"G",
+"TRP":{"x":163,"y":234.95},
+"LP":"SF",
+"MX":[0.025,-1.01,0.994,0.025,154.25,292.7]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic scream side top half",
+"FF":0,
+"ST":"G",
+"TRP":{"x":161.4,"y":146.05},
+"LP":"SF",
+"MX":[0.979,0.152,-0.156,1.005,41.4,-13.65]
+}}]},{
+"I":113,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"oihklj",
+"ST":"MC",
+"TRP":{"x":141.1,"y":266.7},
+"MX":[0.937,-0.35,0.35,0.937,-10.45,311.25]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic left body",
+"FF":0,
+"ST":"G",
+"TRP":{"x":212.15,"y":467.35},
+"LP":"SF",
+"MX":[1,0,0.117,1,-31.8,211.1]
+}},
+{"SI":{
+"SN":"ioijkl",
+"ST":"MC",
+"TRP":{"x":232.4,"y":259.45},
+"MX":[0.993,0.148,-0.238,0.971,226.9,247.95]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic ring necklace loop",
+"FF":13,
+"ST":"G",
+"TRP":{"x":135.45,"y":229.2},
+"LP":"SF",
+"MX":[0.167,-1.004,0.954,0.281,118.75,284.65]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic scream side top half",
+"FF":0,
+"ST":"G",
+"TRP":{"x":170.7,"y":152.1},
+"LP":"SF",
+"MX":[0.993,0.115,-0.115,0.993,43.15,-0.65]
+}}]},{
+"I":115,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"oihklj",
+"ST":"MC",
+"TRP":{"x":140.3,"y":268.3},
+"MX":[0.943,-0.334,0.334,0.943,-12.05,310.2]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic left body",
+"FF":0,
+"ST":"G",
+"TRP":{"x":212.15,"y":467.35},
+"LP":"SF",
+"MX":[1,0,0.114,1,-30.9,211.1]
+}},
+{"SI":{
+"SN":"ioijkl",
+"ST":"MC",
+"TRP":{"x":230.75,"y":261.05},
+"MX":[0.99,0.17,-0.259,0.966,225.55,249.45]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic ring necklace loop",
+"FF":13,
+"ST":"G",
+"TRP":{"x":135.4,"y":229.2},
+"LP":"SF",
+"MX":[0.465,-0.905,0.823,0.558,102.65,277]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic scream side top half",
+"FF":0,
+"ST":"G",
+"TRP":{"x":173.9,"y":152.1},
+"LP":"SF",
+"MX":[0.996,0.094,-0.094,0.996,43.1,2.1]
+}}]},{
+"I":117,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"oihklj",
+"ST":"MC",
+"TRP":{"x":140.3,"y":268.3},
+"MX":[0.943,-0.334,0.334,0.943,-12.05,310.2]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic left body",
+"FF":0,
+"ST":"G",
+"TRP":{"x":212.15,"y":467.35},
+"LP":"SF",
+"MX":[1,0,0.114,1,-30.9,211.1]
+}},
+{"SI":{
+"SN":"ioijkl",
+"ST":"MC",
+"TRP":{"x":230.75,"y":261.05},
+"MX":[0.99,0.17,-0.259,0.966,225.55,249.45]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic ring necklace loop",
+"FF":13,
+"ST":"G",
+"TRP":{"x":135.45,"y":229.2},
+"LP":"SF",
+"MX":[0.511,-0.88,0.793,0.6,100.15,275.15]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic scream side top half",
+"FF":0,
+"ST":"G",
+"TRP":{"x":173.9,"y":152.1},
+"LP":"SF",
+"MX":[0.996,0.094,-0.094,0.996,43.1,2.1]
+}}]},{
+"I":119,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"oihklj",
+"ST":"MC",
+"TRP":{"x":137.5,"y":266.1},
+"MX":[0.958,-0.288,0.288,0.958,-16.7,300.65]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic left body",
+"FF":0,
+"ST":"G",
+"TRP":{"x":212.15,"y":467.35},
+"LP":"SF",
+"MX":[1,0,0.101,1,-27.5,211.1]
+}},
+{"SI":{
+"SN":"ioijkl",
+"ST":"MC",
+"TRP":{"x":226.45,"y":260.25},
+"MX":[0.983,0.204,-0.292,0.956,221.75,248.5]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic ring necklace loop",
+"FF":13,
+"ST":"G",
+"TRP":{"x":135.45,"y":229.2},
+"LP":"SF",
+"MX":[0.6,-0.822,0.726,0.679,95.6,271.25]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic scream side top half",
+"FF":0,
+"ST":"G",
+"TRP":{"x":175.7,"y":153.1},
+"LP":"SF",
+"MX":[0.997,0.081,-0.081,0.997,43.05,4.7]
+}}]},{
+"I":120,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"oihklj",
+"ST":"MC",
+"TRP":{"x":161.1,"y":233.85},
+"MX":[0.97,0.242,-0.242,0.97,10.9,184.75]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic left body",
+"FF":0,
+"ST":"G",
+"TRP":{"x":213.05,"y":453.2},
+"LP":"SF",
+"MX":[0.995,0.08,-0.062,1,16.25,179.9]
+}},
+{"SI":{
+"SN":"ioijkl",
+"ST":"MC",
+"TRP":{"x":228.35,"y":230.65},
+"MX":[0.805,0.601,-0.669,0.743,228.95,218]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic ring necklace loop",
+"FF":13,
+"ST":"G",
+"TRP":{"x":161.05,"y":229.2},
+"LP":"SF",
+"MX":[1.012,0.109,-0.226,0.968,104.65,215.7]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic scream side top half",
+"FF":0,
+"ST":"G",
+"TRP":{"x":217.25,"y":147.15},
+"LP":"SF",
+"MX":[1.042,0.039,-0.036,0.953,71.85,10.9]
+}}]},{
+"I":121,
+"DU":193,
+"E":[
+{"SI":{
+"SN":"sonic caught up",
+"FF":4,
+"ST":"G",
+"TRP":{"x":207.5,"y":242.85},
+"LP":"PO",
+"MX":[-1,0,0,1,421.7,0.4]
+}}]},{
+"I":314,
+"DU":92,
+"E":[
+{"SI":{
+"SN":"sonic caught up copy",
+"FF":0,
+"ST":"G",
+"TRP":{"x":207.5,"y":242.85},
+"LP":"PO",
+"MX":[-1,0,0,1,421.7,0.4]
+}}]}
+]},{
+"LN":"sonic snap arm",
+"FR":[
+{
+"I":0,
+"DU":101,
+"E":[]
+},{
+"I":101,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic body copy 2",
+"FF":0,
+"ST":"G",
+"TRP":{"x":263.55,"y":341.35},
+"LP":"LP",
+"MX":[1,0,-0.028,1,106.75,197.8]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic ring necklace loop",
+"FF":13,
+"ST":"G",
+"TRP":{"x":340.55,"y":294.8},
+"LP":"SF",
+"MX":[0.127,-1.027,-0.99,0.095,340.55,353.05]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic idle head copy 2",
+"FF":0,
+"ST":"G",
+"TRP":{"x":339.2,"y":191.65},
+"LP":"LP",
+"MX":[-1.038,0.044,0.044,1.038,500.75,66.1]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic idle face copy 3",
+"FF":0,
+"ST":"G",
+"TRP":{"x":394.9,"y":238.35},
+"LP":"LP",
+"MX":[-1.053,0.045,0.011,1.054,483.55,170.85]
+}}]},{
+"I":103,
+"DU":3,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic body copy 2",
+"FF":0,
+"ST":"G",
+"TRP":{"x":259.85,"y":341.35},
+"LP":"LP",
+"MX":[1,0,0,1,99,197.8]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic ring necklace loop",
+"FF":13,
+"ST":"G",
+"TRP":{"x":345.3,"y":297.6},
+"LP":"SF",
+"MX":[-0.819,-0.591,-0.581,0.807,396.55,325.6]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic idle head copy 2",
+"FF":0,
+"ST":"G",
+"TRP":{"x":332.95,"y":190.45},
+"LP":"LP",
+"MX":[-1.022,-0.005,-0.005,1.022,497.6,74.65]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic idle face copy 3",
+"FF":2,
+"ST":"G",
+"TRP":{"x":385.5,"y":238.95},
+"LP":"PO",
+"MX":[-1.037,-0.005,-0.039,1.037,475.8,176.8]
+}}]},{
+"I":106,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic body copy 2",
+"FF":1,
+"ST":"G",
+"TRP":{"x":258.9,"y":341.35},
+"LP":"LP",
+"MX":[1,0,0.007,1,97.05,197.8]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic ring necklace loop",
+"FF":13,
+"ST":"G",
+"TRP":{"x":347.75,"y":300.4},
+"LP":"SF",
+"MX":[-0.944,-0.358,-0.353,0.93,404.55,314.15]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic idle head copy 2",
+"FF":1,
+"ST":"G",
+"TRP":{"x":331.8,"y":190.1},
+"LP":"LP",
+"MX":[-1.022,-0.027,-0.027,1.022,498.9,77.9]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic idle face copy 3",
+"FF":2,
+"ST":"G",
+"TRP":{"x":383.3,"y":239.75},
+"LP":"PO",
+"MX":[-1.036,-0.028,-0.061,1.036,474.95,179.5]
+}}]},{
+"I":107,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic body copy 2",
+"FF":0,
+"ST":"G",
+"TRP":{"x":258.9,"y":341.35},
+"LP":"LP",
+"MX":[1,0,0.007,1,97.05,197.8]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic ring necklace loop",
+"FF":13,
+"ST":"G",
+"TRP":{"x":348.15,"y":300},
+"LP":"SF",
+"MX":[-0.959,-0.317,-0.312,0.944,405.5,311.3]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic idle head copy 2",
+"FF":0,
+"ST":"G",
+"TRP":{"x":331.8,"y":190.1},
+"LP":"LP",
+"MX":[-1.022,-0.027,-0.027,1.022,498.9,77.9]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic idle face copy 3",
+"FF":2,
+"ST":"G",
+"TRP":{"x":383.3,"y":239.75},
+"LP":"PO",
+"MX":[-1.036,-0.028,-0.061,1.036,474.95,179.5]
+}}]},{
+"I":108,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic body copy 2",
+"FF":1,
+"ST":"G",
+"TRP":{"x":254.7,"y":341.35},
+"LP":"LP",
+"MX":[1,0,0.039,1,88.3,197.8]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic ring necklace loop",
+"FF":13,
+"ST":"G",
+"TRP":{"x":348.15,"y":300},
+"LP":"SF",
+"MX":[-0.959,-0.317,-0.312,0.944,405.5,311.3]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic idle head copy 2",
+"FF":1,
+"ST":"G",
+"TRP":{"x":321.95,"y":189.6},
+"LP":"LP",
+"MX":[-1.088,-0.026,-0.029,0.99,499.85,80.95]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic idle face copy 3",
+"FF":2,
+"ST":"G",
+"TRP":{"x":376.8,"y":237.7},
+"LP":"PO",
+"MX":[-1.103,-0.027,-0.065,1.003,474.35,179.35]
+}}]},{
+"I":109,
+"DU":2,
+"E":[]
+},{
+"I":111,
+"DU":295,
+"E":[]
+}
+]},{
+"LN":"Layer 7",
+"FR":[
+{
+"I":0,
+"DU":101,
+"E":[]
+},{
+"I":101,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"kjljjkkl",
+"ST":"MC",
+"TRP":{"x":495.1,"y":260.25},
+"MX":[0.993,-0.117,0.117,0.993,398.85,208.05]
+}}]},{
+"I":103,
+"DU":3,
+"E":[
+{"SI":{
+"SN":"kjljjkkl",
+"ST":"MC",
+"TRP":{"x":487.9,"y":269.05},
+"MX":[1,0,0,1,398.4,205.95]
+}}]},{
+"I":106,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"kjljjkkl",
+"ST":"MC",
+"TRP":{"x":486.55,"y":270.6},
+"MX":[1,0.021,-0.021,1,398.4,205.55]
+}}]},{
+"I":108,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"kjljjkkl",
+"ST":"MC",
+"TRP":{"x":490.55,"y":282.6},
+"MX":[0.997,0.082,-0.082,0.997,406.5,212.4]
+}}]},{
+"I":109,
+"DU":2,
+"E":[]
+},{
+"I":111,
+"DU":8,
+"E":[]
+},{
+"I":119,
+"DU":287,
+"E":[]
+}
+]}
+]}},{
+"SN":"untitled folder 1/eggbomb",
+"TL":{
+"L":[
+{
+"LN":"Layer 2",
+"FR":[
+{
+"I":0,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"_bta_asi_15",
+"ST":"MC",
+"TRP":{"x":-1.95,"y":-135.25},
+"MX":[1,0,0,1,-1.9,-135.2],
+"B":12
+}}]},{
+"I":1,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"_bta_asi_16",
+"ST":"MC",
+"TRP":{"x":-0.9,"y":-134.25},
+"C":{
+"M":"CA",
+"AM":0.72
+},
+"MX":[1,0,0,1,-0.9,-134.2],
+"B":12
+}}]}
+]},{
+"LN":"Layer 1",
+"FR":[
+{
+"I":0,
+"DU":1,
+"E":[
+{"ASI":{
+"MX":[1.456,0,0,0.875,-132.25,-151.15],
+"N":"17"
+}}]},{
+"I":1,
+"DU":1,
+"E":[
+{"ASI":{
+"MX":[1.456,0,0,0.875,-132.25,-151.15],
+"N":"18"
+}}]}
+]}
+]}},{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic idle dance copy 2",
+"TL":{
+"L":[
+{
+"LN":"sonic mic arm",
+"FR":[
+{
+"I":0,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic mic arm copy 3",
+"FF":0,
+"ST":"G",
+"TRP":{"x":270.65,"y":231.1},
+"LP":"LP",
+"MX":[0.998,-0.07,0.07,0.998,264.9,225.65]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic mic hand copy 3",
+"FF":0,
+"ST":"G",
+"TRP":{"x":308.2,"y":349.15},
+"LP":"LP",
+"MX":[0.998,-0.07,0.07,0.998,236.4,291.25]
+}}]},{
+"I":2,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic mic arm copy 3",
+"FF":0,
+"ST":"G",
+"TRP":{"x":299.7,"y":282.1},
+"LP":"LP",
+"MX":[0.999,0.052,-0.052,0.999,263.25,224.25]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic mic hand copy 3",
+"FF":0,
+"ST":"G",
+"TRP":{"x":291.35,"y":352.05},
+"LP":"LP",
+"MX":[0.999,0.052,-0.052,0.999,227.05,285.9]
+}}]},{
+"I":4,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic mic arm copy 3",
+"FF":0,
+"ST":"G",
+"TRP":{"x":296.75,"y":279.6},
+"LP":"LP",
+"MX":[0.993,0.116,-0.116,0.993,264.2,219.35]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic mic hand copy 3",
+"FF":0,
+"ST":"G",
+"TRP":{"x":283.9,"y":348.75},
+"LP":"LP",
+"MX":[0.993,0.116,-0.116,0.993,224.1,278.6]
+}}]},{
+"I":6,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic mic arm copy 3",
+"FF":0,
+"ST":"G",
+"TRP":{"x":303,"y":276.65},
+"LP":"LP",
+"MX":[0.999,0.043,-0.043,0.999,266.15,219.05]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic mic hand copy 3",
+"FF":0,
+"ST":"G",
+"TRP":{"x":295.25,"y":346.65},
+"LP":"LP",
+"MX":[0.999,0.043,-0.043,0.999,230.45,281]
+}}]},{
+"I":8,
+"DU":5,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic mic arm copy 3",
+"FF":0,
+"ST":"G",
+"TRP":{"x":305.25,"y":276.15},
+"LP":"LP",
+"MX":[1,0.014,-0.014,1,266.75,219.6]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic mic hand copy 3",
+"FF":0,
+"ST":"G",
+"TRP":{"x":299.6,"y":346.25},
+"LP":"LP",
+"MX":[1,0.014,-0.014,1,232.85,282.65]
+}}]},{
+"I":13,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic mic arm copy 3",
+"FF":1,
+"ST":"G",
+"TRP":{"x":305.25,"y":276.15},
+"LP":"LP",
+"MX":[1,0.014,-0.014,1,266.75,219.6]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic mic hand copy 3",
+"FF":1,
+"ST":"G",
+"TRP":{"x":299.6,"y":346.25},
+"LP":"LP",
+"MX":[1,0.014,-0.014,1,232.85,282.65]
+}}]}
+]},{
+"LN":"sonic idle head",
+"FR":[
+{
+"I":0,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic idle head copy 2",
+"FF":0,
+"ST":"G",
+"TRP":{"x":265.4,"y":119.7},
+"LP":"LP",
+"MX":[1,0.018,-0.018,1,106.95,2.8]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic idle face copy 2",
+"FF":0,
+"ST":"G",
+"TRP":{"x":211.8,"y":167},
+"LP":"LP",
+"MX":[1,0.018,0.014,1,126.05,105.15]
+}}]},{
+"I":2,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic idle head copy 2",
+"FF":0,
+"ST":"G",
+"TRP":{"x":261.4,"y":119.75},
+"LP":"LP",
+"MX":[0.998,-0.056,0.056,0.998,94.8,14.85]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic idle face copy 2",
+"FF":0,
+"ST":"G",
+"TRP":{"x":211.45,"y":170.85},
+"LP":"LP",
+"MX":[0.998,-0.056,0.088,0.997,121.4,115.45]
+}}]},{
+"I":4,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic idle head copy 2",
+"FF":0,
+"ST":"G",
+"TRP":{"x":264.55,"y":116.5},
+"LP":"LP",
+"MX":[0.999,-0.034,0.034,0.999,100.3,8]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic idle face copy 2",
+"FF":0,
+"ST":"G",
+"TRP":{"x":213.45,"y":166.5},
+"LP":"LP",
+"MX":[0.999,-0.034,0.066,0.998,124.65,109.2]
+}}]},{
+"I":6,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic idle head copy 2",
+"FF":0,
+"ST":"G",
+"TRP":{"x":266.9,"y":114.1},
+"LP":"LP",
+"MX":[1,-0.012,0.012,1,105.05,2]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic idle face copy 2",
+"FF":0,
+"ST":"G",
+"TRP":{"x":214.8,"y":162.95},
+"LP":"LP",
+"MX":[1,-0.012,0.045,1,127.2,103.7]
+}}]},{
+"I":8,
+"DU":5,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic idle head copy 2",
+"FF":0,
+"ST":"G",
+"TRP":{"x":266.9,"y":114.1},
+"LP":"LP",
+"MX":[1,-0.005,0.005,1,105.95,0.75]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic idle face copy 2",
+"FF":0,
+"ST":"G",
+"TRP":{"x":214.45,"y":162.55},
+"LP":"LP",
+"MX":[1,-0.005,0.037,1,127.3,102.6]
+}}]},{
+"I":13,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic idle head copy 2",
+"FF":0,
+"ST":"G",
+"TRP":{"x":266.9,"y":114.1},
+"LP":"LP",
+"MX":[1,-0.005,0.005,1,105.95,0.75]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic idle face copy 2",
+"FF":0,
+"ST":"G",
+"TRP":{"x":214.45,"y":162.55},
+"LP":"LP",
+"MX":[1,-0.005,0.037,1,127.3,102.6]
+}}]}
+]},{
+"LN":"sonic ring necklace",
+"FR":[
+{
+"I":0,
+"DU":13,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic ring necklace loop copy 3",
+"FF":0,
+"ST":"G",
+"TRP":{"x":232.6,"y":228.25},
+"LP":"LP",
+"MX":[0.997,0.162,-0.159,0.982,176.55,211.75]
+}}]},{
+"I":13,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic ring necklace loop copy 3",
+"FF":13,
+"ST":"G",
+"TRP":{"x":232.6,"y":228.25},
+"LP":"LP",
+"MX":[0.997,0.162,-0.159,0.982,176.55,211.75]
+}}]}
+]},{
+"LN":"sonic body",
+"FR":[
+{
+"I":0,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic body copy 3",
+"FF":0,
+"ST":"G",
+"TRP":{"x":259.85,"y":342.55},
+"LP":"LP",
+"MX":[1.02,0,0,0.992,95.8,200.2]
+}}]},{
+"I":2,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic body copy 3",
+"FF":0,
+"ST":"G",
+"TRP":{"x":259.85,"y":342.15},
+"LP":"LP",
+"MX":[1.01,0,0,0.994,97.4,199.4]
+}}]},{
+"I":4,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic body copy 3",
+"FF":0,
+"ST":"G",
+"TRP":{"x":259.85,"y":341.35},
+"LP":"LP",
+"MX":[1,0,0,1,99,197.8]
+}}]},{
+"I":6,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic body copy 3",
+"FF":0,
+"ST":"G",
+"TRP":{"x":259.85,"y":341.35},
+"LP":"LP",
+"MX":[1,0,0,1,99,197.8]
+}}]},{
+"I":8,
+"DU":5,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic body copy 3",
+"FF":0,
+"ST":"G",
+"TRP":{"x":259.85,"y":341.35},
+"LP":"LP",
+"MX":[1,0,0,1,99,197.8]
+}}]},{
+"I":13,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic body copy 3",
+"FF":0,
+"ST":"G",
+"TRP":{"x":259.85,"y":341.35},
+"LP":"LP",
+"MX":[1,0,0,1,99,197.8]
+}}]}
+]},{
+"LN":"sonic snap arm",
+"FR":[
+{
+"I":0,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic snap arm copy 3",
+"FF":0,
+"ST":"G",
+"TRP":{"x":161.2,"y":294.2},
+"LP":"LP",
+"MX":[0.996,0.091,-0.091,0.996,114.65,233.45]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic snap hand copy 2",
+"FF":0,
+"ST":"G",
+"TRP":{"x":140.3,"y":320.4},
+"LP":"LP",
+"MX":[0.964,0.266,-0.266,0.964,27.3,195.9]
+}}]},{
+"I":2,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic snap arm copy 3",
+"FF":0,
+"ST":"G",
+"TRP":{"x":157.8,"y":292.3},
+"LP":"LP",
+"MX":[0.999,0.048,-0.048,0.999,108.65,233.65]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic snap hand copy 2",
+"FF":2,
+"ST":"G",
+"TRP":{"x":133.8,"y":323.4},
+"LP":"SF",
+"MX":[0.976,0.22,-0.22,0.976,19.65,200.8]
+}}]},{
+"I":4,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic snap arm copy 3",
+"FF":0,
+"ST":"G",
+"TRP":{"x":158.65,"y":292.5},
+"LP":"LP",
+"MX":[0.999,0.039,-0.039,0.999,108.95,234.15]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic snap hand copy 2",
+"FF":2,
+"ST":"G",
+"TRP":{"x":81.8,"y":281.1},
+"LP":"SF",
+"MX":[0.994,0.113,-0.113,0.994,8.15,214.25]
+}}]},{
+"I":6,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic snap arm copy 3",
+"FF":0,
+"ST":"G",
+"TRP":{"x":162,"y":288.7},
+"LP":"LP",
+"MX":[1,0,0,1,110.1,232.4]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic snap hand copy 2",
+"FF":5,
+"ST":"G",
+"TRP":{"x":150.3,"y":309.15},
+"LP":"SF",
+"MX":[1.012,-0.101,0.101,1.012,-7.95,241.05]
+}}]},{
+"I":8,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic snap arm copy 3",
+"FF":0,
+"ST":"G",
+"TRP":{"x":162.4,"y":288.05},
+"LP":"LP",
+"MX":[1,0.021,-0.021,1,111.75,230.65]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic snap hand copy 2",
+"FF":3,
+"ST":"G",
+"TRP":{"x":142.35,"y":310.05},
+"LP":"SF",
+"MX":[0.996,0.087,-0.087,0.996,9.85,213.5]
+}}]},{
+"I":10,
+"DU":3,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic snap arm copy 3",
+"FF":0,
+"ST":"G",
+"TRP":{"x":162.4,"y":288.05},
+"LP":"LP",
+"MX":[1,0.021,-0.021,1,111.75,230.65]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic snap hand copy 2",
+"FF":3,
+"ST":"G",
+"TRP":{"x":142.35,"y":310.05},
+"LP":"SF",
+"MX":[0.995,0.099,-0.099,0.995,11.05,211.85]
+}}]},{
+"I":13,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic snap arm copy 3",
+"FF":0,
+"ST":"G",
+"TRP":{"x":162.4,"y":288.05},
+"LP":"LP",
+"MX":[1,0.021,-0.021,1,111.75,230.65]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic snap hand copy 2",
+"FF":3,
+"ST":"G",
+"TRP":{"x":142.35,"y":310.05},
+"LP":"SF",
+"MX":[0.995,0.099,-0.099,0.995,11.05,211.85]
+}}]}
+]}
+]}},{
+"SN":"sonic scene full",
+"TL":{
+"L":[
+{
+"LN":"Layer 1",
+"FR":[
+{
+"I":0,
+"DU":26,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/sprites/sonic hey!!",
+"FF":0,
+"ST":"G",
+"TRP":{"x":-4.25,"y":364.6},
+"LP":"PO",
+"MX":[-1,0,0,1,212.6,80.2]
+}}]},{
+"I":26,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic snap arm copy 2",
+"FF":0,
+"ST":"G",
+"TRP":{"x":86.85,"y":378.1},
+"LP":"LP",
+"MX":[-0.247,-0.969,0.969,-0.247,69.35,479.6]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic hand hip",
+"FF":0,
+"ST":"G",
+"TRP":{"x":149,"y":469.35},
+"LP":"LP",
+"MX":[-1.06,-0.454,-0.454,1.06,209.2,448.45]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic body copy 2",
+"FF":1,
+"ST":"G",
+"TRP":{"x":-65.05,"y":644.65},
+"LP":"LP",
+"MX":[-1,0,-0.057,1,212.6,361.9]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic ring necklace loop copy 2",
+"FF":12,
+"ST":"G",
+"TRP":{"x":62.2,"y":377.95},
+"LP":"SF",
+"MX":[-0.997,0.162,0.159,0.982,118.25,361.45]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic cs head",
+"FF":0,
+"ST":"G",
+"TRP":{"x":6,"y":280.35},
+"LP":"LP",
+"MX":[-0.958,0.496,0.496,0.958,93.9,83.05]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic cs face",
+"FF":2,
+"ST":"G",
+"TRP":{"x":49.25,"y":312.95},
+"LP":"SF",
+"MX":[-0.984,0.535,0.585,0.957,87.35,213.2]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic hey hand",
+"FF":0,
+"ST":"G",
+"TRP":{"x":-13.9,"y":428.2},
+"LP":"LP",
+"MX":[-0.998,0.059,0.059,0.998,86.8,330.15]
+}}]},{
+"I":28,
+"DU":3,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic snap arm copy 2",
+"FF":0,
+"ST":"G",
+"TRP":{"x":84.4,"y":390.3},
+"LP":"LP",
+"MX":[-0.127,-0.992,0.992,-0.127,54.6,488.9]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic hand hip",
+"FF":0,
+"ST":"G",
+"TRP":{"x":118.5,"y":469.05},
+"LP":"LP",
+"MX":[-1.052,-0.473,-0.473,1.052,197.4,466.95]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic body copy 2",
+"FF":1,
+"ST":"G",
+"TRP":{"x":-64.9,"y":644.65},
+"LP":"LP",
+"MX":[-1,0,-0.086,1,221.15,361.9]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic ring necklace loop copy 2",
+"FF":12,
+"ST":"G",
+"TRP":{"x":70.25,"y":377.95},
+"LP":"SF",
+"MX":[-1.002,0.162,0.13,0.982,126.85,361.45]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic cs head",
+"FF":0,
+"ST":"G",
+"TRP":{"x":33.45,"y":278.65},
+"LP":"LP",
+"MX":[-0.986,0.437,0.437,0.986,133.2,87.15]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic cs face copy",
+"FF":1,
+"ST":"G",
+"TRP":{"x":74.7,"y":313.9},
+"LP":"SF",
+"MX":[-1.015,0.475,0.526,0.991,118.75,216.65]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic snap arm",
+"FF":0,
+"ST":"G",
+"TRP":{"x":29.3,"y":406.65},
+"LP":"LP",
+"MX":[1.007,0.535,-0.535,1.007,-61.3,343.85]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic hey hand copy",
+"FF":0,
+"ST":"G",
+"TRP":{"x":-94.45,"y":384.85},
+"LP":"LP",
+"MX":[-0.468,0.883,0.883,0.468,-124.3,251.05]
+}}]},{
+"I":31,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic snap arm copy 2",
+"FF":1,
+"ST":"G",
+"TRP":{"x":85.4,"y":387.3},
+"LP":"LP",
+"MX":[-0.127,-0.992,0.992,-0.127,55.6,485.9]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic hand hip",
+"FF":0,
+"ST":"G",
+"TRP":{"x":135.95,"y":485.5},
+"LP":"LP",
+"MX":[-0.997,-0.58,-0.58,0.997,198.2,472.1]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic body copy 2",
+"FF":0,
+"ST":"G",
+"TRP":{"x":-64.95,"y":644.65},
+"LP":"LP",
+"MX":[-1,0,-0.072,1,217.1,361.9]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic ring necklace loop copy 2",
+"FF":12,
+"ST":"G",
+"TRP":{"x":66.45,"y":377.95},
+"LP":"SF",
+"MX":[-0.999,0.162,0.144,0.982,122.8,361.45]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic cs head",
+"FF":0,
+"ST":"G",
+"TRP":{"x":29.75,"y":278.55},
+"LP":"LP",
+"MX":[-0.993,0.421,0.421,0.993,132.65,88.7]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic cs face copy",
+"FF":0,
+"ST":"G",
+"TRP":{"x":70.4,"y":314.45},
+"LP":"SF",
+"MX":[-1.022,0.458,0.51,0.999,116.05,217.95]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic snap arm",
+"FF":1,
+"ST":"G",
+"TRP":{"x":31.8,"y":406.7},
+"LP":"LP",
+"MX":[1.029,0.491,-0.491,1.029,-61.45,347.75]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic hey hand copy",
+"FF":0,
+"ST":"G",
+"TRP":{"x":-84.45,"y":468.3},
+"LP":"LP",
+"MX":[-0.507,0.862,0.862,0.507,-109.8,249.85]
+}}]},{
+"I":33,
+"DU":26,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic snap arm copy 2",
+"FF":1,
+"ST":"G",
+"TRP":{"x":85.4,"y":387.3},
+"LP":"LP",
+"MX":[-0.127,-0.992,0.992,-0.127,55.6,485.9]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic hand hip",
+"FF":0,
+"ST":"G",
+"TRP":{"x":135.95,"y":485.5},
+"LP":"LP",
+"MX":[-0.997,-0.58,-0.58,0.997,198.2,472.1]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic body copy 2",
+"FF":0,
+"ST":"G",
+"TRP":{"x":-64.95,"y":644.65},
+"LP":"LP",
+"MX":[-1,0,-0.072,1,217.1,361.9]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic ring necklace loop copy 2",
+"FF":12,
+"ST":"G",
+"TRP":{"x":66.45,"y":377.95},
+"LP":"SF",
+"MX":[-0.999,0.162,0.144,0.982,122.8,361.45]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic cs head",
+"FF":0,
+"ST":"G",
+"TRP":{"x":29.75,"y":278.55},
+"LP":"LP",
+"MX":[-0.993,0.421,0.421,0.993,132.65,88.7]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic cs face copy",
+"FF":0,
+"ST":"G",
+"TRP":{"x":70.4,"y":314.45},
+"LP":"SF",
+"MX":[-1.022,0.458,0.51,0.999,116.05,217.95]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic snap arm",
+"FF":1,
+"ST":"G",
+"TRP":{"x":32.8,"y":406.7},
+"LP":"LP",
+"MX":[1.029,0.491,-0.491,1.029,-60.45,347.75]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic hey hand copy",
+"FF":0,
+"ST":"G",
+"TRP":{"x":-83.45,"y":384.85},
+"LP":"LP",
+"MX":[-0.521,0.854,0.854,0.521,-105.2,249.5]
+}}]},{
+"I":59,
+"DU":3,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic snap arm copy 2",
+"FF":1,
+"ST":"G",
+"TRP":{"x":81.4,"y":381.8},
+"LP":"LP",
+"MX":[-0.182,-0.983,0.983,-0.182,57.15,481.9]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic hand hip",
+"FF":0,
+"ST":"G",
+"TRP":{"x":144.95,"y":448.55},
+"LP":"LP",
+"MX":[-0.907,-0.713,-0.713,0.907,198.45,472.25]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic body copy 2",
+"FF":0,
+"ST":"G",
+"TRP":{"x":-66.75,"y":644.65},
+"LP":"LP",
+"MX":[-1.009,0,-0.078,0.994,219.15,363.7]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic ring necklace loop copy 2",
+"FF":12,
+"ST":"G",
+"TRP":{"x":67.1,"y":379.65},
+"LP":"SF",
+"MX":[-1.009,0.161,0.141,0.975,124,363.25]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic cs head",
+"FF":0,
+"ST":"G",
+"TRP":{"x":31.05,"y":279.2},
+"LP":"LP",
+"MX":[-0.997,0.413,0.413,0.997,135.4,90.1]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic cs face copy",
+"FF":0,
+"ST":"G",
+"TRP":{"x":71.4,"y":315.35},
+"LP":"SF",
+"MX":[-1.026,0.45,0.502,1.003,117.8,219.2]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic snap arm",
+"FF":1,
+"ST":"G",
+"TRP":{"x":34.25,"y":406.7},
+"LP":"LP",
+"MX":[1.046,0.455,-0.455,1.046,-60.95,351.05]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic hey hand copy",
+"FF":0,
+"ST":"G",
+"TRP":{"x":-74.45,"y":455.3},
+"LP":"LP",
+"MX":[-0.593,0.805,0.805,0.593,-83.2,253.5]
+}}]},{
+"I":62,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic snap arm copy 2",
+"FF":0,
+"ST":"G",
+"TRP":{"x":81.4,"y":381.8},
+"LP":"LP",
+"MX":[-0.182,-0.983,0.983,-0.182,57.15,481.9]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic body copy 2",
+"FF":1,
+"ST":"G",
+"TRP":{"x":-66.75,"y":644.65},
+"LP":"LP",
+"MX":[-1.009,0,-0.078,0.994,219.15,363.7]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic ring necklace loop copy 2",
+"FF":12,
+"ST":"G",
+"TRP":{"x":67.1,"y":379.65},
+"LP":"SF",
+"MX":[-1.009,0.161,0.141,0.975,124,363.25]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic cs head",
+"FF":0,
+"ST":"G",
+"TRP":{"x":31.05,"y":279.2},
+"LP":"LP",
+"MX":[-0.997,0.413,0.413,0.997,135.4,90.1]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic cs face copy",
+"FF":0,
+"ST":"G",
+"TRP":{"x":71.4,"y":315.35},
+"LP":"SF",
+"MX":[-1.026,0.45,0.502,1.003,117.8,219.2]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic snap arm",
+"FF":0,
+"ST":"G",
+"TRP":{"x":34.25,"y":406.7},
+"LP":"LP",
+"MX":[1.023,0.504,-0.504,1.023,-58.2,346.6]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic hey hand copy",
+"FF":0,
+"ST":"G",
+"TRP":{"x":-61.9,"y":468.3},
+"LP":"LP",
+"MX":[-0.899,0.437,0.437,0.899,24.1,285.55]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic hand copy",
+"FF":0,
+"ST":"G",
+"TRP":{"x":103.3,"y":484.95},
+"LP":"LP",
+"MX":[-1.104,-0.331,-0.337,1.058,190.25,429.1]
+}}]},{
+"I":63,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic body copy 2",
+"FF":0,
+"ST":"G",
+"TRP":{"x":-68.35,"y":644.7},
+"LP":"LP",
+"MX":[-1.035,0,-0.081,0.972,225.35,370]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic ring necklace loop copy 2",
+"FF":12,
+"ST":"G",
+"TRP":{"x":69.4,"y":385.55},
+"LP":"SF",
+"MX":[-1.035,0.157,0.143,0.954,127.75,369.55]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic cs head",
+"FF":0,
+"ST":"G",
+"TRP":{"x":46,"y":291.7},
+"LP":"LP",
+"MX":[-1.018,0.356,0.356,1.018,160.9,108.9]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic cs face copy 2",
+"FF":3,
+"ST":"G",
+"TRP":{"x":92.85,"y":385.2},
+"LP":"SF",
+"MX":[-1.068,0.399,0.435,1.01,138.6,238.3]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic hand copy",
+"FF":0,
+"ST":"G",
+"TRP":{"x":115.3,"y":457.95},
+"LP":"LP",
+"MX":[-0.981,-0.606,-0.599,0.935,213.7,426.5]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic mic hip",
+"FF":0,
+"ST":"G",
+"TRP":{"x":4.85,"y":466.7},
+"LP":"LP",
+"MX":[-0.999,0.035,0.035,0.999,49.5,443.95]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic arm hip",
+"FF":0,
+"ST":"G",
+"TRP":{"x":29.85,"y":410.75},
+"LP":"LP",
+"MX":[-0.999,0.039,-0.093,0.976,58.65,393.55]
+}}]},{
+"I":65,
+"DU":3,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic body copy 2",
+"FF":1,
+"ST":"G",
+"TRP":{"x":-66.75,"y":644.7},
+"LP":"LP",
+"MX":[-1.022,0,-0.075,0.981,221.9,367.3]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic ring necklace loop copy 2",
+"FF":12,
+"ST":"G",
+"TRP":{"x":67.95,"y":383.05},
+"LP":"SF",
+"MX":[-1.022,0.159,0.145,0.963,125.55,366.85]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic cs head",
+"FF":0,
+"ST":"G",
+"TRP":{"x":43.15,"y":286.75},
+"LP":"LP",
+"MX":[-1.011,0.377,0.377,1.011,154.15,101.55]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic cs face copy 2",
+"FF":0,
+"ST":"G",
+"TRP":{"x":82.25,"y":324.4},
+"LP":"SF",
+"MX":[-1.041,0.413,0.466,1.02,132,229.95]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic hand copy",
+"FF":0,
+"ST":"G",
+"TRP":{"x":149.2,"y":431.95},
+"LP":"LP",
+"MX":[-0.971,-0.622,-0.622,0.971,212,421.2]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic mic hip",
+"FF":0,
+"ST":"G",
+"TRP":{"x":0.25,"y":464.2},
+"LP":"LP",
+"MX":[-0.996,0.091,0.091,0.996,43.65,438.95]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic arm hip",
+"FF":0,
+"ST":"G",
+"TRP":{"x":27.45,"y":408.2},
+"LP":"LP",
+"MX":[-1,0.021,-0.11,0.974,56.6,391.55]
+}}]},{
+"I":68,
+"DU":25,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic body copy 2",
+"FF":1,
+"ST":"G",
+"TRP":{"x":-66.75,"y":644.7},
+"LP":"LP",
+"MX":[-1.022,0,-0.075,0.981,221.9,367.3]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic ring necklace loop copy 2",
+"FF":12,
+"ST":"G",
+"TRP":{"x":67.95,"y":383.05},
+"LP":"SF",
+"MX":[-1.022,0.159,0.145,0.963,125.55,366.85]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic cs head",
+"FF":0,
+"ST":"G",
+"TRP":{"x":42.9,"y":285.75},
+"LP":"LP",
+"MX":[-1.011,0.377,0.377,1.011,153.9,100.55]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic cs face copy 2",
+"FF":0,
+"ST":"G",
+"TRP":{"x":82,"y":323.4},
+"LP":"SF",
+"MX":[-1.041,0.413,0.466,1.02,131.75,228.95]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic hand copy",
+"FF":0,
+"ST":"G",
+"TRP":{"x":148.95,"y":430.95},
+"LP":"LP",
+"MX":[-0.971,-0.622,-0.622,0.971,211.75,420.2]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic mic hip",
+"FF":0,
+"ST":"G",
+"TRP":{"x":0.25,"y":464.2},
+"LP":"LP",
+"MX":[-0.994,0.113,0.113,0.994,43.05,438.05]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic arm hip",
+"FF":0,
+"ST":"G",
+"TRP":{"x":27.45,"y":408.2},
+"LP":"LP",
+"MX":[-1,0,-0.131,0.972,56.95,392.15]
+}}]},{
+"I":93,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic body copy 2",
+"FF":0,
+"ST":"G",
+"TRP":{"x":-66.75,"y":644.7},
+"LP":"LP",
+"MX":[-1.022,0,-0.08,0.981,223.25,367.3]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic ring necklace loop copy 2",
+"FF":12,
+"ST":"G",
+"TRP":{"x":69.2,"y":383.05},
+"LP":"SF",
+"MX":[-1.022,0.159,0.141,0.963,126.9,366.85]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic cs head",
+"FF":0,
+"ST":"G",
+"TRP":{"x":46.05,"y":285.35},
+"LP":"LP",
+"MX":[-1.015,0.365,0.365,1.015,159.35,101.5]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic cs face copy 2",
+"FF":0,
+"ST":"G",
+"TRP":{"x":84.7,"y":323.4},
+"LP":"SF",
+"MX":[-1.046,0.4,0.453,1.026,135.6,229.65]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic hand copy",
+"FF":0,
+"ST":"G",
+"TRP":{"x":223,"y":441.4},
+"LP":"LP",
+"MX":[-0.994,-0.585,-0.585,0.994,221.9,417.75]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic mic hip",
+"FF":0,
+"ST":"G",
+"TRP":{"x":3.25,"y":468.2},
+"LP":"LP",
+"MX":[-0.983,0.185,0.185,0.983,44.05,438.95]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic arm hip",
+"FF":0,
+"ST":"G",
+"TRP":{"x":27.45,"y":408.2},
+"LP":"LP",
+"MX":[-0.999,0.048,-0.086,1.002,56.25,390.3]
+}}]},{
+"I":95,
+"DU":3,
+"E":[
+{"SI":{
+"SN":"symbols shitfart/sonic left arm",
+"FF":0,
+"ST":"G",
+"TRP":{"x":100.05,"y":388.2},
+"LP":"LP",
+"MX":[-0.993,-0.117,0.117,-0.993,274.25,438.45]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic body copy 2",
+"FF":0,
+"ST":"G",
+"TRP":{"x":-66.6,"y":644.55},
+"LP":"LP",
+"MX":[-1.022,0,-0.106,1.014,230.5,357.85]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic ring necklace loop copy 2",
+"FF":12,
+"ST":"G",
+"TRP":{"x":76.1,"y":374.15},
+"LP":"SF",
+"MX":[-1.026,0.164,0.116,0.995,134.15,357.4]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic cs head",
+"FF":0,
+"ST":"G",
+"TRP":{"x":51.85,"y":279.65},
+"LP":"LP",
+"MX":[-0.958,0.496,0.496,0.958,139.8,82.4]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic cs face copy 3",
+"FF":3,
+"ST":"G",
+"TRP":{"x":95.2,"y":312.3},
+"LP":"SF",
+"MX":[-0.984,0.535,0.585,0.957,133.2,212.55]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic hand copy 2",
+"FF":0,
+"ST":"G",
+"TRP":{"x":159.85,"y":430.15},
+"LP":"LP",
+"MX":[-1.113,-0.561,-0.561,1.113,226.2,411.6]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic mic arm copy 2",
+"FF":1,
+"ST":"G",
+"TRP":{"x":36.4,"y":408.65},
+"LP":"LP",
+"MX":[-0.998,0.065,0.065,0.998,40.2,402.9]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic mic hand copy 2",
+"FF":1,
+"ST":"G",
+"TRP":{"x":-12.4,"y":486.7},
+"LP":"LP",
+"MX":[-0.981,-0.194,-0.194,0.981,78.4,491.95]
+}}]},{
+"I":98,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"symbols shitfart/sonic left arm",
+"FF":0,
+"ST":"G",
+"TRP":{"x":94.05,"y":390.7},
+"LP":"LP",
+"MX":[-0.988,-0.152,0.152,-0.988,266.35,447]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic body copy 2",
+"FF":1,
+"ST":"G",
+"TRP":{"x":-66.65,"y":644.6},
+"LP":"LP",
+"MX":[-1.022,0,-0.093,1.003,226.85,361]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic ring necklace loop copy 2",
+"FF":12,
+"ST":"G",
+"TRP":{"x":72.65,"y":377.1},
+"LP":"SF",
+"MX":[-1.024,0.162,0.128,0.985,130.5,360.55]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic cs head",
+"FF":0,
+"ST":"G",
+"TRP":{"x":48.5,"y":281.3},
+"LP":"LP",
+"MX":[-0.968,0.476,0.476,0.968,140.65,85.95]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic cs face copy 3",
+"FF":0,
+"ST":"G",
+"TRP":{"x":91.1,"y":314.85},
+"LP":"SF",
+"MX":[-0.995,0.514,0.565,0.969,131.3,215.95]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic hand copy 2",
+"FF":0,
+"ST":"G",
+"TRP":{"x":208.25,"y":409.05},
+"LP":"LP",
+"MX":[-1.064,-0.65,-0.65,1.064,214.8,420.3]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic mic arm copy 2",
+"FF":0,
+"ST":"G",
+"TRP":{"x":1.45,"y":458.15},
+"LP":"LP",
+"MX":[-1,0.014,0.014,1,39.95,401.6]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic mic hand copy 2",
+"FF":0,
+"ST":"G",
+"TRP":{"x":-17.5,"y":479.85},
+"LP":"LP",
+"MX":[-0.986,-0.168,-0.168,0.986,75.95,485.1]
+}}]},{
+"I":100,
+"DU":29,
+"E":[
+{"SI":{
+"SN":"symbols shitfart/sonic left arm",
+"FF":0,
+"ST":"G",
+"TRP":{"x":93.55,"y":390.7},
+"LP":"LP",
+"MX":[-0.986,-0.169,0.169,-0.986,264.85,449.95]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic body copy 2",
+"FF":1,
+"ST":"G",
+"TRP":{"x":-66.65,"y":644.6},
+"LP":"LP",
+"MX":[-1.022,0,-0.093,1.003,226.85,361]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic ring necklace loop copy 2",
+"FF":12,
+"ST":"G",
+"TRP":{"x":72.65,"y":377.1},
+"LP":"SF",
+"MX":[-1.024,0.162,0.128,0.985,130.5,360.55]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic cs head",
+"FF":0,
+"ST":"G",
+"TRP":{"x":48.5,"y":281.3},
+"LP":"LP",
+"MX":[-0.968,0.476,0.476,0.968,140.65,85.95]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic cs face copy 3",
+"FF":0,
+"ST":"G",
+"TRP":{"x":91.1,"y":314.85},
+"LP":"SF",
+"MX":[-0.995,0.514,0.565,0.969,131.3,215.95]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic hand copy 2",
+"FF":0,
+"ST":"G",
+"TRP":{"x":145.85,"y":433.05},
+"LP":"LP",
+"MX":[-1.049,-0.673,-0.673,1.049,213.8,421.4]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic mic arm copy 2",
+"FF":0,
+"ST":"G",
+"TRP":{"x":1.45,"y":457.15},
+"LP":"LP",
+"MX":[-1,0.014,0.014,1,39.95,400.6]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic mic hand copy 2",
+"FF":0,
+"ST":"G",
+"TRP":{"x":-1.35,"y":534.3},
+"LP":"LP",
+"MX":[-0.989,-0.151,-0.151,0.989,75,482.55]
+}}]},{
+"I":129,
+"DU":3,
+"E":[
+{"SI":{
+"SN":"symbols shitfart/sonic left arm",
+"FF":0,
+"ST":"G",
+"TRP":{"x":93.55,"y":395.5},
+"LP":"LP",
+"MX":[-0.986,-0.169,0.169,-0.986,264.85,454.75]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic body copy 2",
+"FF":0,
+"ST":"G",
+"TRP":{"x":-66.65,"y":644.6},
+"LP":"LP",
+"MX":[-1.022,0,-0.093,1.003,226.85,361]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic ring necklace loop copy 2",
+"FF":12,
+"ST":"G",
+"TRP":{"x":72.65,"y":377.1},
+"LP":"SF",
+"MX":[-1.024,0.162,0.128,0.985,130.5,360.55]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic cs head",
+"FF":0,
+"ST":"G",
+"TRP":{"x":48.5,"y":278.1},
+"LP":"LP",
+"MX":[-0.968,0.476,0.476,0.968,140.65,82.75]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic cs face copy 4",
+"FF":3,
+"ST":"G",
+"TRP":{"x":91.1,"y":311.65},
+"LP":"SF",
+"MX":[-0.995,0.514,0.565,0.969,131.3,212.75]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic hand copy 2",
+"FF":0,
+"ST":"G",
+"TRP":{"x":145.85,"y":437.85},
+"LP":"LP",
+"MX":[-1.049,-0.673,-0.673,1.049,213.8,426.2]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic mic arm copy 2",
+"FF":1,
+"ST":"G",
+"TRP":{"x":1.45,"y":460.35},
+"LP":"LP",
+"MX":[-1,0.014,0.014,1,39.95,403.8]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic mic hand copy 2",
+"FF":1,
+"ST":"G",
+"TRP":{"x":-1.35,"y":537.5},
+"LP":"LP",
+"MX":[-0.989,-0.151,-0.151,0.989,75,485.75]
+}}]},{
+"I":132,
+"DU":69,
+"E":[
+{"SI":{
+"SN":"symbols shitfart/sonic left arm",
+"FF":0,
+"ST":"G",
+"TRP":{"x":93.55,"y":393.9},
+"LP":"LP",
+"MX":[-0.986,-0.169,0.169,-0.986,264.85,453.15]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic body copy 2",
+"FF":1,
+"ST":"G",
+"TRP":{"x":-66.65,"y":644.6},
+"LP":"LP",
+"MX":[-1.022,0,-0.093,1.003,226.85,361]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic ring necklace loop copy 2",
+"FF":12,
+"ST":"G",
+"TRP":{"x":72.65,"y":377.1},
+"LP":"SF",
+"MX":[-1.024,0.162,0.128,0.985,130.5,360.55]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic cs head",
+"FF":0,
+"ST":"G",
+"TRP":{"x":48.5,"y":281.3},
+"LP":"LP",
+"MX":[-0.968,0.476,0.476,0.968,140.65,85.95]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic cs face copy 4",
+"FF":0,
+"ST":"G",
+"TRP":{"x":91.1,"y":314.85},
+"LP":"SF",
+"MX":[-0.995,0.514,0.565,0.969,131.3,215.95]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic hand copy 2",
+"FF":0,
+"ST":"G",
+"TRP":{"x":145.85,"y":436.25},
+"LP":"LP",
+"MX":[-1.049,-0.673,-0.673,1.049,213.8,424.6]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic mic arm copy 2",
+"FF":0,
+"ST":"G",
+"TRP":{"x":1.45,"y":458.75},
+"LP":"LP",
+"MX":[-1,0.014,0.014,1,39.95,402.2]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic mic hand copy 2",
+"FF":0,
+"ST":"G",
+"TRP":{"x":-1.35,"y":535.9},
+"LP":"LP",
+"MX":[-0.989,-0.151,-0.151,0.989,75,484.15]
+}}]},{
+"I":201,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"symbols shitfart/sonic left arm",
+"FF":0,
+"ST":"G",
+"TRP":{"x":90.55,"y":393.9},
+"LP":"LP",
+"MX":[-0.951,-0.201,0.207,-0.978,254.45,458.7]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic body copy 2",
+"FF":0,
+"ST":"G",
+"TRP":{"x":-66.65,"y":644.6},
+"LP":"LP",
+"MX":[-1.022,0,-0.088,0.995,225.5,363.25]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic ring necklace loop copy 2",
+"FF":12,
+"ST":"G",
+"TRP":{"x":71.4,"y":379.2},
+"LP":"SF",
+"MX":[-1.024,0.161,0.133,0.977,129.15,362.8]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic cs head",
+"FF":0,
+"ST":"G",
+"TRP":{"x":50.2,"y":282.75},
+"LP":"LP",
+"MX":[-0.974,0.464,0.464,0.974,144.75,88.55]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic cs face copy 4",
+"FF":0,
+"ST":"G",
+"TRP":{"x":92.35,"y":316.8},
+"LP":"SF",
+"MX":[-1.001,0.502,0.553,0.976,133.8,218.4]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic hand copy 2",
+"FF":0,
+"ST":"G",
+"TRP":{"x":178.8,"y":430.3},
+"LP":"LP",
+"MX":[-1.116,-0.556,-0.556,1.116,211.65,428.5]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic mic arm copy 2",
+"FF":1,
+"ST":"G",
+"TRP":{"x":37.95,"y":404.7},
+"LP":"LP",
+"MX":[-1,-0.029,-0.029,1,40.15,399.8]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic mic hand copy 2",
+"FF":1,
+"ST":"G",
+"TRP":{"x":-5.25,"y":530.4},
+"LP":"LP",
+"MX":[-0.974,-0.228,-0.228,0.974,75,484.75]
+}}]},{
+"I":203,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"symbols shitfart/sonic left arm",
+"FF":0,
+"ST":"G",
+"TRP":{"x":90.55,"y":393.9},
+"LP":"LP",
+"MX":[-0.951,-0.201,0.207,-0.978,254.45,458.7]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic body copy 2",
+"FF":0,
+"ST":"G",
+"TRP":{"x":-66.65,"y":644.6},
+"LP":"LP",
+"MX":[-1.022,0,-0.088,0.995,225.5,363.25]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic ring necklace loop copy 2",
+"FF":12,
+"ST":"G",
+"TRP":{"x":71.4,"y":379.2},
+"LP":"SF",
+"MX":[-1.024,0.161,0.133,0.977,129.15,362.8]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic cs head",
+"FF":0,
+"ST":"G",
+"TRP":{"x":50.2,"y":282.75},
+"LP":"LP",
+"MX":[-0.974,0.464,0.464,0.974,144.75,88.55]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic cs face copy 4",
+"FF":0,
+"ST":"G",
+"TRP":{"x":92.35,"y":316.8},
+"LP":"SF",
+"MX":[-1.001,0.502,0.553,0.976,133.8,218.4]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic mic arm copy 2",
+"FF":1,
+"ST":"G",
+"TRP":{"x":37.95,"y":404.7},
+"LP":"LP",
+"MX":[-1,-0.029,-0.029,1,40.15,399.8]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic mic hand copy 2",
+"FF":1,
+"ST":"G",
+"TRP":{"x":-5.25,"y":530.4},
+"LP":"LP",
+"MX":[-0.974,-0.228,-0.228,0.974,75,484.75]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic cs nose hand",
+"FF":0,
+"ST":"G",
+"TRP":{"x":202.95,"y":384.1},
+"LP":"LP",
+"MX":[-0.789,-0.8,-0.8,0.789,291.35,398.4]
+}}]},{
+"I":204,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"symbols shitfart/sonic punch arm bg 1",
+"FF":0,
+"ST":"G",
+"TRP":{"x":101.95,"y":405.3},
+"LP":"LP",
+"MX":[-0.997,0.384,0.36,0.933,222.15,346.8]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic body copy 2",
+"FF":1,
+"ST":"G",
+"TRP":{"x":-72.2,"y":644.85},
+"LP":"LP",
+"MX":[-1.06,0,-0.084,0.963,228.5,372.4]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic ring necklace loop copy 2",
+"FF":12,
+"ST":"G",
+"TRP":{"x":68.85,"y":387.85},
+"LP":"SF",
+"MX":[-1.06,0.156,0.146,0.946,128.55,372]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic cs head",
+"FF":0,
+"ST":"G",
+"TRP":{"x":65.45,"y":287.75},
+"LP":"LP",
+"MX":[-1.052,0.238,0.238,1.052,200.3,119]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic cs face copy 5",
+"FF":0,
+"ST":"G",
+"TRP":{"x":121.1,"y":405},
+"LP":"SF",
+"MX":[-1.116,0.277,0.314,1.038,164.75,247.5]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic cs nose hand",
+"FF":0,
+"ST":"G",
+"TRP":{"x":236.4,"y":406.35},
+"LP":"LP",
+"MX":[-1.044,0.416,0.416,1.044,250.65,333.45]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic mic hip",
+"FF":0,
+"ST":"G",
+"TRP":{"x":0.25,"y":453.7},
+"LP":"LP",
+"MX":[-0.999,0.044,0.044,0.999,44.75,430.6]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic arm hip",
+"FF":0,
+"ST":"G",
+"TRP":{"x":27.5,"y":398.7},
+"LP":"LP",
+"MX":[-0.998,-0.069,-0.142,0.964,57.05,384.65]
+}}]},{
+"I":206,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"symbols shitfart/sonic punch arm bg 1",
+"FF":0,
+"ST":"G",
+"TRP":{"x":105.95,"y":401.75},
+"LP":"LP",
+"MX":[-1.014,0.337,0.315,0.949,228.8,349.05]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic body copy 2",
+"FF":1,
+"ST":"G",
+"TRP":{"x":-68.9,"y":644.75},
+"LP":"LP",
+"MX":[-1.038,0,-0.082,0.982,225.65,367]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic ring necklace loop copy 2",
+"FF":12,
+"ST":"G",
+"TRP":{"x":69.25,"y":382.75},
+"LP":"SF",
+"MX":[-1.038,0.159,0.143,0.964,127.75,366.55]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic cs head",
+"FF":0,
+"ST":"G",
+"TRP":{"x":62.25,"y":284},
+"LP":"LP",
+"MX":[-1.047,0.261,0.261,1.047,193.5,112.45]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic cs face copy 5",
+"FF":0,
+"ST":"G",
+"TRP":{"x":96.85,"y":325.8},
+"LP":"SF",
+"MX":[-1.081,0.293,0.348,1.066,157,237.65]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic cs nose hand",
+"FF":0,
+"ST":"G",
+"TRP":{"x":208.5,"y":406.6},
+"LP":"LP",
+"MX":[-1.074,0.328,0.328,1.074,262.1,334.9]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic mic hip",
+"FF":0,
+"ST":"G",
+"TRP":{"x":0.25,"y":457.2},
+"LP":"LP",
+"MX":[-0.994,0.113,0.113,0.994,43.05,431.05]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic arm hip",
+"FF":0,
+"ST":"G",
+"TRP":{"x":27.45,"y":401.2},
+"LP":"LP",
+"MX":[-1,0,-0.131,0.972,56.95,385.15]
+}}]},{
+"I":208,
+"DU":58,
+"E":[
+{"SI":{
+"SN":"symbols shitfart/sonic punch arm bg 1",
+"FF":0,
+"ST":"G",
+"TRP":{"x":106.95,"y":401.75},
+"LP":"LP",
+"MX":[-1.014,0.337,0.315,0.949,229.8,349.05]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic body copy 2",
+"FF":1,
+"ST":"G",
+"TRP":{"x":-68.9,"y":644.75},
+"LP":"LP",
+"MX":[-1.038,0,-0.082,0.982,225.65,367]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic ring necklace loop copy 2",
+"FF":12,
+"ST":"G",
+"TRP":{"x":69.25,"y":382.75},
+"LP":"SF",
+"MX":[-1.038,0.159,0.143,0.964,127.75,366.55]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic cs head",
+"FF":0,
+"ST":"G",
+"TRP":{"x":62.25,"y":284},
+"LP":"LP",
+"MX":[-1.047,0.261,0.261,1.047,193.5,112.45]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic cs face copy 5",
+"FF":0,
+"ST":"G",
+"TRP":{"x":96.85,"y":325.8},
+"LP":"SF",
+"MX":[-1.081,0.293,0.348,1.066,157,237.65]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic cs nose hand",
+"FF":0,
+"ST":"G",
+"TRP":{"x":209.5,"y":406.6},
+"LP":"LP",
+"MX":[-1.074,0.328,0.328,1.074,263.1,334.9]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic mic hip",
+"FF":0,
+"ST":"G",
+"TRP":{"x":0.25,"y":458.2},
+"LP":"LP",
+"MX":[-0.994,0.113,0.113,0.994,43.05,432.05]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic arm hip",
+"FF":0,
+"ST":"G",
+"TRP":{"x":27.45,"y":402.2},
+"LP":"LP",
+"MX":[-1,0,-0.131,0.972,56.95,386.15]
+}}]},{
+"I":266,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"symbols shitfart/sonic punch arm bg 1",
+"FF":0,
+"ST":"G",
+"TRP":{"x":106.95,"y":404.95},
+"LP":"LP",
+"MX":[-1.029,0.288,0.27,0.963,232.15,358.2]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic body copy 2",
+"FF":1,
+"ST":"G",
+"TRP":{"x":-69.25,"y":644.7},
+"LP":"LP",
+"MX":[-1.028,0,-0.07,0.986,219.45,365.9]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic ring necklace loop copy 2",
+"FF":12,
+"ST":"G",
+"TRP":{"x":64.65,"y":381.7},
+"LP":"SF",
+"MX":[-1.027,0.159,0.152,0.968,122.45,365.45]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic cs head",
+"FF":0,
+"ST":"G",
+"TRP":{"x":59.9,"y":283.85},
+"LP":"LP",
+"MX":[-1.042,0.278,0.278,1.042,188.25,110.2]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic cs face copy 5",
+"FF":0,
+"ST":"G",
+"TRP":{"x":95.2,"y":325.15},
+"LP":"SF",
+"MX":[-1.076,0.311,0.365,1.06,153.9,235.95]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic cs nose hand",
+"FF":0,
+"ST":"G",
+"TRP":{"x":225.4,"y":428.2},
+"LP":"LP",
+"MX":[-1.108,0.186,0.186,1.108,271.55,347.4]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic mic hip",
+"FF":0,
+"ST":"G",
+"TRP":{"x":3.05,"y":460.2},
+"LP":"LP",
+"MX":[-0.983,0.182,0.182,0.983,43.9,431.1]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic arm hip",
+"FF":0,
+"ST":"G",
+"TRP":{"x":27.5,"y":402.25},
+"LP":"LP",
+"MX":[-0.999,0.052,-0.083,1.014,56.15,384]
+}}]},{
+"I":268,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic snap arm copy 3",
+"FF":0,
+"ST":"G",
+"TRP":{"x":81.4,"y":418.75},
+"LP":"LP",
+"MX":[-0.997,0.073,0.073,0.997,184.6,387.5]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic snap hand copy 2",
+"FF":3,
+"ST":"G",
+"TRP":{"x":155.5,"y":470},
+"LP":"SF",
+"MX":[-0.981,0.194,0.194,0.981,276.8,359.7]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic body copy 3",
+"FF":0,
+"ST":"G",
+"TRP":{"x":39.65,"y":506.45},
+"LP":"LP",
+"MX":[-1.004,0,-0.008,1,202.25,362.9]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic ring necklace loop copy 3",
+"FF":13,
+"ST":"G",
+"TRP":{"x":67.9,"y":393.35},
+"LP":"SF",
+"MX":[-1.002,0.162,0.152,0.982,124.3,376.85]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic idle head copy 2",
+"FF":0,
+"ST":"G",
+"TRP":{"x":34.5,"y":280.95},
+"LP":"LP",
+"MX":[-1,-0.021,-0.021,1,197.3,170.35]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic idle face copy 2",
+"FF":0,
+"ST":"G",
+"TRP":{"x":86.15,"y":330.3},
+"LP":"LP",
+"MX":[-1,-0.021,-0.053,0.999,174.3,271.8]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic mic arm copy 3",
+"FF":1,
+"ST":"G",
+"TRP":{"x":22.35,"y":395.5},
+"LP":"LP",
+"MX":[-1,0.014,0.014,1,27.95,387.75]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic mic hand copy 3",
+"FF":1,
+"ST":"G",
+"TRP":{"x":-30.3,"y":493.4},
+"LP":"LP",
+"MX":[-1,-0.025,-0.025,1,64.2,454.2]
+}}]},{
+"I":270,
+"DU":3,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic snap arm copy 3",
+"FF":0,
+"ST":"G",
+"TRP":{"x":96.2,"y":425.2},
+"LP":"LP",
+"MX":[-0.999,0.036,0.025,1,185.9,394.4]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic snap hand copy 2",
+"FF":3,
+"ST":"G",
+"TRP":{"x":155.3,"y":474.95},
+"LP":"SF",
+"MX":[-0.994,0.112,0.112,0.994,285.4,375.1]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic body copy 3",
+"FF":0,
+"ST":"G",
+"TRP":{"x":38,"y":506.45},
+"LP":"LP",
+"MX":[-1,0,0,1,198.85,362.9]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic ring necklace loop copy 3",
+"FF":13,
+"ST":"G",
+"TRP":{"x":65.25,"y":393.35},
+"LP":"SF",
+"MX":[-0.997,0.162,0.159,0.982,121.3,376.85]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic idle head copy 2",
+"FF":0,
+"ST":"G",
+"TRP":{"x":31.5,"y":279.2},
+"LP":"LP",
+"MX":[-1,-0.01,-0.01,1,193.1,166.75]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic idle face copy 2",
+"FF":0,
+"ST":"G",
+"TRP":{"x":83.7,"y":327.95},
+"LP":"LP",
+"MX":[-1,-0.01,-0.042,1,171.15,268.5]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic mic arm copy 3",
+"FF":1,
+"ST":"G",
+"TRP":{"x":-8.2,"y":442.05},
+"LP":"LP",
+"MX":[-1,0.014,0.014,1,30.3,385.5]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic mic hand copy 3",
+"FF":1,
+"ST":"G",
+"TRP":{"x":-21.6,"y":469},
+"LP":"LP",
+"MX":[-1,-0.003,-0.003,1,64.55,450.8]
+}}]},{
+"I":273,
+"DU":7,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic idle dance copy 2",
+"FF":13,
+"ST":"G",
+"TRP":{"x":51.1,"y":407.5},
+"LP":"PO",
+"MX":[-1,0,0,1,297.85,165.1]
+}}]}
+]}
+]}},{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic mic arm",
+"TL":{
+"L":[
+{"LN":"Layer 1",
+"FR":[
+{"I":0,
+"DU":2,
+"E":[
+{"ASI":{
+"MX":[1,0,0,1,0,0],
+"N":"0"
+}}]}]}]}},{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic mic hand",
+"TL":{
+"L":[
+{"LN":"Layer 1",
+"FR":[
+{"I":0,
+"DU":2,
+"E":[
+{"ASI":{
+"MX":[1,0,0,1,-27.5,7.45],
+"N":"1"
+}}]}]}]}},{
+"SN":"symbols shitfart/sonic idle head",
+"TL":{
+"L":[
+{"LN":"Layer 1",
+"FR":[
+{"I":0,
+"DU":2,
+"E":[
+{"ASI":{
+"MX":[1,0,0,1,3,0.5],
+"N":"2"
+}}]}]}]}},{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic idle face",
+"TL":{
+"L":[
+{"LN":"Layer 1",
+"FR":[
+{"I":0,
+"DU":2,
+"E":[
+{"ASI":{
+"MX":[1,0,0,0.999,-0.8,1.9],
+"N":"3"
+}}]}]}]}},{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic ring necklace loop",
+"TL":{
+"L":[
+{
+"LN":"Layer 1",
+"FR":[
+{
+"I":0,
+"DU":2,
+"E":[
+{"ASI":{
+"MX":[0.967,0,0,1.006,-10.3,-19.45],
+"N":"32"
+}}]},{
+"I":2,
+"DU":2,
+"E":[
+{"ASI":{
+"MX":[0.967,0,0,1.006,-11.65,-26.3],
+"N":"33"
+}}]},{
+"I":4,
+"DU":2,
+"E":[
+{"ASI":{
+"MX":[0.967,0,0,1.006,-1.7,-36.1],
+"N":"34"
+}}]},{
+"I":6,
+"DU":2,
+"E":[
+{"ASI":{
+"MX":[0.967,0,0,1.006,0,-31.25],
+"N":"35"
+}}]},{
+"I":8,
+"DU":6,
+"E":[
+{"ASI":{
+"MX":[0.967,0,0,1.006,0.5,-32],
+"N":"36"
+}}]}
+]}
+]}},{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic body",
+"TL":{
+"L":[
+{"LN":"Layer 1",
+"FR":[
+{"I":0,
+"DU":2,
+"E":[
+{"ASI":{
+"MX":[0.981,0,0,0.997,-31.1,7.4],
+"N":"4"
+}}]}]}]}},{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic snap arm",
+"TL":{
+"L":[
+{"LN":"Layer 1",
+"FR":[
+{"I":0,
+"DU":2,
+"E":[
+{"ASI":{
+"MX":[1,0,0,1,0,0],
+"N":"5"
+}}]}]}]}},{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic snap hand",
+"TL":{
+"L":[
+{
+"LN":"Layer 1",
+"FR":[
+{
+"I":0,
+"DU":2,
+"E":[
+{"ASI":{
+"MX":[0.981,0,0,0.983,40,4.25],
+"N":"37"
+}}]},{
+"I":2,
+"DU":1,
+"E":[
+{"ASI":{
+"MX":[0.981,0,0,0.983,40,1.75],
+"N":"38"
+}}]},{
+"I":3,
+"DU":2,
+"E":[
+{"ASI":{
+"MX":[0.981,0,0,0.983,0,0],
+"N":"39"
+}}]},{
+"I":5,
+"DU":1,
+"E":[
+{"ASI":{
+"MX":[0.981,0,0,0.983,2.5,-1.05],
+"N":"40"
+}}]}
+]}
+]}},{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic idle face copy 2",
+"TL":{
+"L":[
+{"LN":"Layer 1",
+"FR":[
+{"I":0,
+"DU":2,
+"E":[
+{"ASI":{
+"MX":[1,0,0,0.999,3,-6.4],
+"N":"8"
+}}]}]}]}},{
+"SN":"symbols shitfart/sonic idle head copy",
+"TL":{
+"L":[
+{
+"LN":"Layer 1",
+"FR":[
+{
+"I":0,
+"DU":1,
+"E":[
+{"ASI":{
+"MX":[1,0,0,1,12.5,0.5],
+"N":"41"
+}}]},{
+"I":1,
+"DU":3,
+"E":[
+{"ASI":{
+"MX":[1,0,0,1,-2.8,0.5],
+"N":"42"
+}}]},{
+"I":4,
+"DU":3,
+"E":[
+{"ASI":{
+"MX":[1,0,0,1,3,0.5],
+"N":"43"
+}}]},{
+"I":7,
+"DU":1,
+"E":[
+{"ASI":{
+"MX":[1,0,0,1,12.5,0.5],
+"N":"44"
+}}]},{
+"I":8,
+"DU":3,
+"E":[
+{"ASI":{
+"MX":[1,0,0,1,-2.8,0.5],
+"N":"45"
+}}]},{
+"I":11,
+"DU":11,
+"E":[
+{"ASI":{
+"MX":[1,0,0,1,3,0.5],
+"N":"46"
+}}]}
+]}
+]}},{
+"SN":"ioijkl",
+"TL":{
+"L":[
+{
+"LN":"Layer 1",
+"FR":[
+{
+"I":0,
+"DU":1,
+"E":[
+{"ASI":{
+"MX":[0.996,0,0,1,-23.8,-6.05],
+"N":"47"
+}}]}
+]}
+]}},{
+"SN":"opiiuo;i",
+"TL":{
+"L":[
+{
+"LN":"Layer 1",
+"FR":[
+{
+"I":0,
+"DU":1,
+"E":[
+{"ASI":{
+"MX":[1,0,0,0.997,0,0],
+"N":"48"
+}}]}
+]}
+]}},{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic body copy",
+"TL":{
+"L":[
+{"LN":"Layer 1",
+"FR":[
+{"I":0,
+"DU":2,
+"E":[
+{"ASI":{
+"MX":[0.961,0,0,0.985,-35.2,23.25],
+"N":"9"
+}}]}]}]}},{
+"SN":"oihklj",
+"TL":{
+"L":[
+{
+"LN":"Layer 1",
+"FR":[
+{
+"I":0,
+"DU":1,
+"E":[
+{"ASI":{
+"MX":[0.967,0,0,1,0,0],
+"N":"49"
+}}]}
+]}
+]}},{
+"SN":"symbols shitfart/sonic arm hip 2",
+"TL":{
+"L":[
+{
+"LN":"Layer 2",
+"FR":[
+{
+"I":0,
+"DU":1,
+"E":[
+{"ASI":{
+"MX":[0.966,0,0,1.179,17.15,10.15],
+"N":"50"
+}}]}
+]}
+]}},{
+"SN":"symbols shitfart/sonic foot tap ground",
+"TL":{
+"L":[
+{
+"LN":"Layer 1",
+"FR":[
+{
+"I":0,
+"DU":1,
+"E":[
+{"ASI":{
+"MX":[0.939,0,0,1.017,11.65,0],
+"N":"51"
+}}]}
+]}
+]}},{
+"SN":"symbols shitfart/sonic face forward head",
+"TL":{
+"L":[
+{
+"LN":"Layer 2",
+"FR":[
+{
+"I":0,
+"DU":1,
+"E":[
+{"ASI":{
+"MX":[0.98,0,0,1.02,-0.15,-2.7],
+"N":"52"
+}}]}
+]}
+]}},{
+"SN":"symbols shitfart/sonic lean body",
+"TL":{
+"L":[
+{
+"LN":"Layer 2",
+"FR":[
+{
+"I":0,
+"DU":1,
+"E":[
+{"ASI":{
+"MX":[0.954,0,0,1.006,19.15,0.2],
+"N":"53"
+}}]}
+]}
+]}},{
+"SN":"symbols shitfart/sonic dead chain",
+"TL":{
+"L":[
+{
+"LN":"Layer 1",
+"FR":[
+{
+"I":0,
+"DU":1,
+"E":[
+{"ASI":{
+"MX":[0.966,0,0,1,0,0],
+"N":"54"
+}}]}
+]}
+]}},{
+"SN":"symbols shitfart/sonic hand hip 2 copy",
+"TL":{
+"L":[
+{
+"LN":"Layer 2",
+"FR":[
+{
+"I":0,
+"DU":5,
+"E":[
+{"ASI":{
+"MX":[0.959,0,0,1.036,23.4,-56.8],
+"N":"55"
+}}]},{
+"I":5,
+"DU":5,
+"E":[
+{"ASI":{
+"MX":[0.959,0,0,1.036,21.9,-58.7],
+"N":"56"
+}}]}
+]}
+]}},{
+"SN":"symbols shitfart/sonic face forward copy 2",
+"TL":{
+"L":[
+{
+"LN":"Layer 2",
+"FR":[
+{
+"I":0,
+"DU":5,
+"E":[
+{"ASI":{
+"MX":[0.984,0,0,0.984,-4.65,35.9],
+"N":"57"
+}}]},{
+"I":5,
+"DU":5,
+"E":[
+{"ASI":{
+"MX":[0.984,0,0,0.984,-5.9,33.5],
+"N":"58"
+}}]}
+]}
+]}},{
+"SN":"symbols shitfart/sonic mic hip",
+"TL":{
+"L":[
+{
+"LN":"Layer 2",
+"FR":[
+{
+"I":0,
+"DU":1,
+"E":[
+{"ASI":{
+"MX":[1,0,0,0.935,20.8,22.75],
+"N":"59"
+}}]}
+]}
+]}},{
+"SN":"symbols shitfart/sonic arm hip",
+"TL":{
+"L":[
+{
+"LN":"Layer 2",
+"FR":[
+{
+"I":0,
+"DU":1,
+"E":[
+{"ASI":{
+"MX":[1,0,0,1.02,14.85,13.95],
+"N":"60"
+}}]}
+]}
+]}},{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic waiting idle",
+"TL":{
+"L":[
+{
+"LN":"Layer 1",
+"FR":[
+{
+"I":0,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic foot tap ground",
+"FF":0,
+"ST":"G",
+"TRP":{"x":87.05,"y":319.7},
+"LP":"LP",
+"MX":[1.065,0,-0.004,0.983,-18.7,298.5]
+}}]},{
+"I":2,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic foot tap ground",
+"FF":0,
+"ST":"G",
+"TRP":{"x":85.75,"y":316.75},
+"LP":"LP",
+"MX":[1.038,0,0.016,1,-17.7,295.15]
+}}]},{
+"I":4,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic foot tap",
+"FF":0,
+"ST":"G",
+"TRP":{"x":169,"y":306.1},
+"LP":"LP",
+"MX":[0.999,0.048,-0.054,0.999,-14.9,289.75]
+}}]},{
+"I":6,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic foot tap",
+"FF":0,
+"ST":"G",
+"TRP":{"x":169.05,"y":305.8},
+"LP":"LP",
+"MX":[0.998,0.058,-0.054,0.999,-14.8,287.75]
+}}]}
+]}
+]}},{
+"SN":"oiujhkjk;k'lk;lk",
+"TL":{
+"L":[
+{"LN":"Layer 1",
+"FR":[
+{"I":0,
+"DU":1,
+"E":[
+{"ASI":{
+"MX":[1,0,0,1,-72.15,-72.4],
+"N":"10"
+}}]}]}]}},{
+"SN":"symbols shitfart/sonic left body",
+"TL":{
+"L":[
+{
+"LN":"Layer 1",
+"FR":[
+{
+"I":0,
+"DU":2,
+"E":[
+{"ASI":{
+"MX":[1,0,0,0.968,-0.2,-1.5],
+"N":"61"
+}}]},{
+"I":2,
+"DU":2,
+"E":[
+{"ASI":{
+"MX":[1,0,0,0.968,0,0],
+"N":"62"
+}}]}
+]}
+]}},{
+"SN":"symbols shitfart/sonic scream side top half",
+"TL":{
+"L":[
+{
+"LN":"Layer 1",
+"FR":[
+{
+"I":0,
+"DU":1,
+"E":[
+{"ASI":{
+"MX":[0.959,0,0,0.983,-26.2,0],
+"N":"63"
+}}]}
+]}
+]}},{
+"SN":"sonic caught up",
+"TL":{
+"L":[
+{
+"LN":"sonic mic arm",
+"FR":[
+{
+"I":0,
+"DU":100,
+"E":[]
+}
+]},{
+"LN":"sonic idle head",
+"FR":[
+{
+"I":0,
+"DU":100,
+"E":[]
+}
+]},{
+"LN":"sonic ring necklace",
+"FR":[
+{
+"I":0,
+"DU":100,
+"E":[]
+}
+]},{
+"LN":"sonic body",
+"FR":[
+{
+"I":0,
+"DU":100,
+"E":[]
+}
+]},{
+"LN":"sonic snap arm",
+"FR":[
+{
+"I":0,
+"DU":100,
+"E":[]
+}
+]},{
+"LN":"sonic shake up Layer",
+"FR":[
+{
+"I":0,
+"DU":4,
+"E":[]
+},{
+"I":4,
+"DU":48,
+"E":[
+{"SI":{
+"SN":"sonic shake up",
+"FF":0,
+"ST":"G",
+"TRP":{"x":0.35,"y":0.35},
+"LP":"PO",
+"MX":[1,0,0,1,0.35,0.35]
+}}]},{
+"I":52,
+"DU":48,
+"E":[]
+}
+]},{
+"LN":"sonic mic arm",
+"FR":[
+{
+"I":0,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic mic arm",
+"FF":1,
+"ST":"G",
+"TRP":{"x":116.45,"y":276.15},
+"LP":"LP",
+"MX":[-1,0.014,0.014,1,154.95,219.6]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic mic hand",
+"FF":1,
+"ST":"G",
+"TRP":{"x":122.1,"y":346.25},
+"LP":"LP",
+"MX":[-1,0.014,0.014,1,188.85,282.65]
+}}]},{
+"I":1,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"sonic grab arm",
+"FF":0,
+"ST":"G",
+"TRP":{"x":65.7,"y":254.4},
+"LP":"LP",
+"MX":[-0.957,-0.29,-0.29,0.957,134.45,216.05]
+}},
+{"SI":{
+"SN":"sonic grab mic ",
+"FF":0,
+"ST":"G",
+"TRP":{"x":66.85,"y":285.4},
+"LP":"LP",
+"MX":[-0.225,-0.974,-0.974,0.225,167.1,320.9]
+}}]},{
+"I":3,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"sonic grab arm",
+"FF":0,
+"ST":"G",
+"TRP":{"x":58.9,"y":249.8},
+"LP":"LP",
+"MX":[-0.943,-0.334,-0.334,0.943,129.35,214.75]
+}},
+{"SI":{
+"SN":"sonic grab mic ",
+"FF":0,
+"ST":"G",
+"TRP":{"x":58.6,"y":280.9},
+"LP":"LP",
+"MX":[-0.11,-0.994,-0.994,0.11,153.95,327.8]
+}}]},{
+"I":4,
+"DU":48,
+"E":[]
+},{
+"I":52,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"sonic grab arm",
+"FF":0,
+"ST":"G",
+"TRP":{"x":75.35,"y":279.15},
+"LP":"LP",
+"MX":[-1,-0.018,-0.018,1,131.05,223.45]
+}},
+{"SI":{
+"SN":"sonic mic grab frame",
+"FF":0,
+"ST":"G",
+"TRP":{"x":65.65,"y":311.65},
+"LP":"LP",
+"MX":[-0.897,-0.441,-0.441,0.897,161.25,291.15]
+}},
+{"SI":{
+"SN":"sonic mic",
+"FF":0,
+"ST":"G",
+"TRP":{"x":106.05,"y":462.65},
+"LP":"LP",
+"MX":[0.998,0.056,-0.056,0.998,17.3,411.6]
+}}]},{
+"I":54,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"sonic mic",
+"FF":0,
+"ST":"G",
+"TRP":{"x":106.05,"y":462.65},
+"LP":"LP",
+"MX":[0.998,0.056,-0.056,0.998,17.3,411.6]
+}},
+{"SI":{
+"SN":"sonic grab arm",
+"FF":0,
+"ST":"G",
+"TRP":{"x":117.8,"y":294.55},
+"LP":"LP",
+"MX":[-0.873,0.487,0.487,0.873,137.95,218.4]
+}},
+{"SI":{
+"SN":"sonic mic grab frame",
+"FF":0,
+"ST":"G",
+"TRP":{"x":138.6,"y":303.8},
+"LP":"LP",
+"MX":[-0.93,0.367,0.367,0.93,187.8,219.3]
+}}]}
+]},{
+"LN":"sonic idle head",
+"FR":[
+{
+"I":0,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic idle head",
+"FF":1,
+"ST":"G",
+"TRP":{"x":154.8,"y":114.1},
+"LP":"LP",
+"MX":[-1,-0.005,-0.005,1,315.75,0.75]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic idle face",
+"FF":1,
+"ST":"G",
+"TRP":{"x":207.25,"y":162.55},
+"LP":"LP",
+"MX":[-1,-0.005,-0.037,1,294.4,102.6]
+}}]},{
+"I":1,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic idle head",
+"FF":0,
+"ST":"G",
+"TRP":{"x":141.65,"y":114.3},
+"LP":"LP",
+"MX":[-0.981,-0.194,-0.194,0.981,321.15,33.6]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic scrunch face",
+"FF":0,
+"ST":"G",
+"TRP":{"x":178.75,"y":191.35},
+"LP":"LP",
+"MX":[-0.981,-0.194,-0.226,0.975,275.65,149.05]
+}}]},{
+"I":3,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic idle head",
+"FF":0,
+"ST":"G",
+"TRP":{"x":133.45,"y":114.35},
+"LP":"LP",
+"MX":[-0.976,-0.22,-0.22,0.976,315,38.35]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic scrunch face",
+"FF":0,
+"ST":"G",
+"TRP":{"x":167.35,"y":194.95},
+"LP":"LP",
+"MX":[-1.023,-0.23,-0.233,0.897,268.15,160.4]
+}}]},{
+"I":4,
+"DU":48,
+"E":[]
+},{
+"I":52,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic idle head",
+"FF":0,
+"ST":"G",
+"TRP":{"x":110.95,"y":126.4},
+"LP":"LP",
+"MX":[-0.998,0.07,0.07,0.998,263.05,1.45]
+}},
+{"SI":{
+"SN":"sonic shock face",
+"FF":0,
+"ST":"G",
+"TRP":{"x":162.35,"y":153.55},
+"LP":"LP",
+"MX":[0.965,-0.262,0.262,0.965,63,102.25]
+}}]},{
+"I":54,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic idle head",
+"FF":0,
+"ST":"G",
+"TRP":{"x":125.85,"y":124.5},
+"LP":"LP",
+"MX":[-0.999,0.052,0.052,0.999,280.05,2.2]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic scrunch face",
+"FF":0,
+"ST":"G",
+"TRP":{"x":175.5,"y":208.4},
+"LP":"LP",
+"MX":[-0.998,-0.061,-0.061,0.998,262.4,138]
+}}]}
+]},{
+"LN":"sonic body",
+"FR":[
+{
+"I":0,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic body",
+"FF":0,
+"ST":"G",
+"TRP":{"x":161.85,"y":341.35},
+"LP":"LP",
+"MX":[-1,0,0,1,322.7,197.8]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic ring necklace loop",
+"FF":13,
+"ST":"G",
+"TRP":{"x":189.1,"y":228.25},
+"LP":"SF",
+"MX":[-0.997,0.162,0.159,0.982,245.15,211.75]
+}}]},{
+"I":1,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic body",
+"FF":1,
+"ST":"G",
+"TRP":{"x":152.25,"y":341.35},
+"LP":"LP",
+"MX":[-1,0,0.067,1,303.45,197.8]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic ring necklace loop",
+"FF":13,
+"ST":"G",
+"TRP":{"x":171.9,"y":228.35},
+"LP":"SF",
+"MX":[-1.032,0.046,0.378,0.957,228.3,218.6]
+}}]},{
+"I":3,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic body",
+"FF":1,
+"ST":"G",
+"TRP":{"x":149.15,"y":341.35},
+"LP":"LP",
+"MX":[-1,0,0.089,1,297.25,197.8]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic ring necklace loop",
+"FF":13,
+"ST":"G",
+"TRP":{"x":166.45,"y":228.3},
+"LP":"SF",
+"MX":[-1.08,-0.036,0.573,0.949,224.1,223.35]
+}}]},{
+"I":4,
+"DU":48,
+"E":[]
+},{
+"I":52,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"sonic kickback leg",
+"FF":0,
+"ST":"G",
+"TRP":{"x":238,"y":306.7},
+"LP":"LP",
+"MX":[-0.94,-0.19,-0.19,0.94,445.5,247.6]
+}},
+{"SI":{
+"SN":"sonic kickback bod",
+"FF":0,
+"ST":"G",
+"TRP":{"x":131.3,"y":485.4},
+"LP":"LP",
+"MX":[-0.996,0,-0.017,0.937,239.9,207.45]
+}}]},{
+"I":54,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"sonic kickback leg",
+"FF":0,
+"ST":"G",
+"TRP":{"x":237.3,"y":319.6},
+"LP":"LP",
+"MX":[-0.797,-0.522,-0.504,0.824,448.6,338.7]
+}},
+{"SI":{
+"SN":"sonic kickback bod",
+"FF":0,
+"ST":"G",
+"TRP":{"x":131.3,"y":485.4},
+"LP":"LP",
+"MX":[-0.996,0,-0.043,0.937,247.6,207.45]
+}}]}
+]},{
+"LN":"sonic snap arm",
+"FR":[
+{
+"I":0,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic snap arm",
+"FF":0,
+"ST":"G",
+"TRP":{"x":259.3,"y":288.05},
+"LP":"LP",
+"MX":[-1,0.021,0.021,1,309.95,230.65]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic snap hand",
+"FF":3,
+"ST":"G",
+"TRP":{"x":279.35,"y":310.05},
+"LP":"SF",
+"MX":[-0.995,0.099,0.099,0.995,410.65,211.85]
+}}]},{
+"I":1,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic snap arm",
+"FF":1,
+"ST":"G",
+"TRP":{"x":257.05,"y":270.7},
+"LP":"LP",
+"MX":[-0.94,0.341,0.341,0.94,286.65,200.1]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic hand raise",
+"FF":0,
+"ST":"G",
+"TRP":{"x":282.75,"y":264.75},
+"LP":"LP",
+"MX":[0.151,0.988,0.988,-0.151,206.45,210.85]
+}}]},{
+"I":3,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic snap arm",
+"FF":1,
+"ST":"G",
+"TRP":{"x":251.55,"y":273.5},
+"LP":"LP",
+"MX":[-0.921,0.389,0.389,0.921,277.45,201.5]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic hand raise",
+"FF":0,
+"ST":"G",
+"TRP":{"x":276.9,"y":266.25},
+"LP":"LP",
+"MX":[0.202,0.979,0.979,-0.202,197.95,216.3]
+}}]},{
+"I":4,
+"DU":48,
+"E":[]
+},{
+"I":52,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"sonic sway hand",
+"FF":0,
+"ST":"G",
+"TRP":{"x":227.85,"y":211.65},
+"LP":"LP",
+"MX":[0.907,0.656,-0.656,0.907,210.3,124.85]
+}}]},{
+"I":54,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"sonic sway hand",
+"FF":0,
+"ST":"G",
+"TRP":{"x":216.95,"y":254.6},
+"LP":"LP",
+"MX":[0.907,0.656,-0.656,0.907,199.4,167.8]
+}}]}
+]},{
+"LN":"sonic coughing Layer",
+"FR":[
+{
+"I":0,
+"DU":55,
+"E":[]
+},{
+"I":55,
+"DU":15,
+"E":[
+{"SI":{
+"SN":"sonic coughing",
+"FF":0,
+"ST":"G",
+"TRP":{"x":0.35,"y":0.35},
+"LP":"LP",
+"MX":[1,0,0,1,0.35,0.35]
+}}]},{
+"I":70,
+"DU":11,
+"E":[
+{"SI":{
+"SN":"sonic coughing",
+"FF":1,
+"ST":"G",
+"TRP":{"x":0.35,"y":0.35},
+"LP":"PO",
+"MX":[1,0,0,1,0.35,0.35]
+}}]},{
+"I":81,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"sonic cough arm bg",
+"FF":0,
+"ST":"G",
+"TRP":{"x":340.3,"y":259.8},
+"LP":"LP",
+"MX":[0.992,0.126,-0.126,0.992,279.1,194.1]
+}},
+{"SI":{
+"SN":"sonic left body",
+"FF":2,
+"ST":"G",
+"TRP":{"x":220.75,"y":347.15},
+"LP":"SF",
+"MX":[-1,0,0.04,1,411.15,211]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic ring necklace loop",
+"FF":3,
+"ST":"G",
+"TRP":{"x":256.55,"y":248.55},
+"LP":"LP",
+"MX":[-0.99,0.162,-0.584,1.109,317.6,231.05]
+}},
+{"SI":{
+"SN":"sonic cough head",
+"FF":0,
+"ST":"G",
+"TRP":{"x":242.75,"y":134.2},
+"LP":"LP",
+"MX":[0.994,0.113,-0.125,0.992,98.3,1.15]
+}},
+{"SI":{
+"SN":"sonic cough arm",
+"FF":0,
+"ST":"G",
+"TRP":{"x":159.5,"y":237.05},
+"LP":"LP",
+"MX":[0.991,-0.137,0.137,0.991,101.35,208.95]
+}},
+{"SI":{
+"SN":"sonic cough hand",
+"FF":0,
+"ST":"G",
+"TRP":{"x":108.85,"y":277},
+"LP":"LP",
+"MX":[0.991,-0.137,0.137,0.991,17.3,242.05]
+}},
+{"SI":{
+"SN":"sonic coughing tongue",
+"FF":0,
+"ST":"G",
+"TRP":{"x":263.65,"y":220.9},
+"LP":"LP",
+"MX":[1.002,0.094,0.037,1.002,210.15,204.55]
+}},
+{"SI":{
+"SN":"sonic cough fist",
+"FF":0,
+"ST":"G",
+"TRP":{"x":351.7,"y":282.55},
+"LP":"LP",
+"MX":[0.971,0.241,-0.241,0.971,315.05,229.35]
+}},
+{"SI":{
+"SN":"sonic mic",
+"FF":0,
+"ST":"G",
+"TRP":{"x":106.4,"y":463},
+"LP":"LP",
+"MX":[0.998,0.056,-0.056,0.998,17.65,411.95]
+}}]},{
+"I":83,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"sonic cough arm bg",
+"FF":0,
+"ST":"G",
+"TRP":{"x":287.5,"y":258.6},
+"LP":"LP",
+"MX":[0.942,0.336,-0.336,0.942,241.8,181.25]
+}},
+{"SI":{
+"SN":"sonic left body",
+"FF":2,
+"ST":"G",
+"TRP":{"x":74.6,"y":480.5},
+"LP":"SF",
+"MX":[-1,0,0.08,1,400.15,211]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic ring necklace loop",
+"FF":3,
+"ST":"G",
+"TRP":{"x":253.35,"y":248.55},
+"LP":"LP",
+"MX":[-0.988,0.162,-0.569,1.109,314.2,231.05]
+}},
+{"SI":{
+"SN":"sonic cough head",
+"FF":0,
+"ST":"G",
+"TRP":{"x":236.55,"y":13.7},
+"LP":"LP",
+"MX":[0.983,0.185,-0.191,0.952,78.25,-17.95]
+}},
+{"SI":{
+"SN":"sonic cough arm",
+"FF":0,
+"ST":"G",
+"TRP":{"x":173.75,"y":237},
+"LP":"LP",
+"MX":[0.911,-0.412,0.412,0.911,110,226.5]
+}},
+{"SI":{
+"SN":"sonic cough hand",
+"FF":0,
+"ST":"G",
+"TRP":{"x":136.35,"y":289.65},
+"LP":"LP",
+"MX":[0.911,-0.412,0.412,0.911,38.75,281.95]
+}},
+{"SI":{
+"SN":"sonic coughing tongue",
+"FF":0,
+"ST":"G",
+"TRP":{"x":237.3,"y":210.05},
+"LP":"LP",
+"MX":[0.669,0.113,-0.029,0.8,202.2,195]
+}},
+{"SI":{
+"SN":"sonic cough fist",
+"FF":0,
+"ST":"G",
+"TRP":{"x":293.75,"y":283.2},
+"LP":"LP",
+"MX":[0.896,0.443,-0.443,0.896,269.4,223.4]
+}},
+{"SI":{
+"SN":"sonic mic",
+"FF":0,
+"ST":"G",
+"TRP":{"x":106.4,"y":463},
+"LP":"LP",
+"MX":[0.998,0.056,-0.056,0.998,17.65,411.95]
+}}]}
+]},{
+"LN":"Layer 11",
+"FR":[
+{
+"I":0,
+"DU":84,
+"E":[]
+},{
+"I":84,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic body",
+"FF":0,
+"ST":"G",
+"TRP":{"x":192.9,"y":483.8},
+"LP":"LP",
+"MX":[-1.032,0,-0.07,0.991,347,200.4]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic ring necklace loop",
+"FF":13,
+"ST":"G",
+"TRP":{"x":223.65,"y":228.25},
+"LP":"SF",
+"MX":[-1.019,0.162,0.027,0.982,281.95,211.75]
+}},
+{"SI":{
+"SN":"sonic angry arm bg",
+"FF":0,
+"ST":"G",
+"TRP":{"x":236.35,"y":248.85},
+"LP":"LP",
+"MX":[0.977,0.211,-0.211,0.977,209.4,223.1]
+}},
+{"SI":{
+"SN":"sonic angry head",
+"FF":0,
+"ST":"G",
+"TRP":{"x":5.9,"y":116.4},
+"LP":"LP",
+"MX":[-0.947,-0.048,-0.052,1.026,330.1,11.35]
+}},
+{"SI":{
+"SN":"sonic face angry",
+"FF":0,
+"ST":"G",
+"TRP":{"x":192.35,"y":231.1},
+"LP":"LP",
+"MX":[-0.91,-0.07,-0.081,1.06,285.5,96]
+}},
+{"SI":{
+"SN":"sonic angry cuff",
+"FF":0,
+"ST":"G",
+"TRP":{"x":189.15,"y":235.35},
+"LP":"LP",
+"MX":[0.994,0.107,-0.107,0.994,155.8,202.85]
+}},
+{"SI":{
+"SN":"sonic angry arm",
+"FF":0,
+"ST":"G",
+"TRP":{"x":161.75,"y":235.1},
+"LP":"LP",
+"MX":[1.105,0.035,0.027,1.115,142.35,206.1]
+}},
+{"SI":{
+"SN":"sonic angry hand",
+"FF":0,
+"ST":"G",
+"TRP":{"x":156.25,"y":229.1},
+"LP":"LP",
+"MX":[1.054,-0.006,0.007,1.099,106.75,186.75]
+}},
+{"SI":{
+"SN":"sonic mic",
+"FF":0,
+"ST":"G",
+"TRP":{"x":106.05,"y":462.65},
+"LP":"LP",
+"MX":[0.998,0.056,-0.056,0.998,17.3,411.6]
+}}]},{
+"I":86,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic body",
+"FF":0,
+"ST":"G",
+"TRP":{"x":181.2,"y":341.35},
+"LP":"LP",
+"MX":[-1,0,-0.135,1,361.35,197.8]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic ring necklace loop",
+"FF":13,
+"ST":"G",
+"TRP":{"x":223.65,"y":228.25},
+"LP":"SF",
+"MX":[-1.019,0.162,0.027,0.982,281.95,211.75]
+}},
+{"SI":{
+"SN":"sonic angry arm bg",
+"FF":0,
+"ST":"G",
+"TRP":{"x":236.35,"y":248.85},
+"LP":"LP",
+"MX":[0.977,0.211,-0.211,0.977,209.4,223.1]
+}},
+{"SI":{
+"SN":"sonic angry head",
+"FF":0,
+"ST":"G",
+"TRP":{"x":20.15,"y":133.85},
+"LP":"LP",
+"MX":[-0.947,0.046,0.05,1.026,332.5,-2.55]
+}},
+{"SI":{
+"SN":"sonic face angry",
+"FF":0,
+"ST":"G",
+"TRP":{"x":299.85,"y":158},
+"LP":"LP",
+"MX":[-0.9,0.05,0.057,1.008,294.7,90.55]
+}},
+{"SI":{
+"SN":"sonic angry cuff",
+"FF":0,
+"ST":"G",
+"TRP":{"x":202.6,"y":231.7},
+"LP":"LP",
+"MX":[1,0.021,-0.021,1,166.55,202.25]
+}},
+{"SI":{
+"SN":"sonic angry cuff",
+"FF":0,
+"ST":"G",
+"TRP":{"x":202.6,"y":231.7},
+"LP":"LP",
+"MX":[1,0.021,-0.021,1,166.55,202.25]
+}},
+{"SI":{
+"SN":"sonic angry arm",
+"FF":0,
+"ST":"G",
+"TRP":{"x":286.75,"y":267},
+"LP":"LP",
+"MX":[1.108,0.056,-0.056,1.108,158.75,207.8]
+}},
+{"SI":{
+"SN":"sonic angry hand",
+"FF":0,
+"ST":"G",
+"TRP":{"x":170.05,"y":231.45},
+"LP":"LP",
+"MX":[1.054,0.022,-0.023,1.099,121.7,187.8]
+}},
+{"SI":{
+"SN":"sonic mic",
+"FF":0,
+"ST":"G",
+"TRP":{"x":106.05,"y":462.65},
+"LP":"LP",
+"MX":[0.998,0.056,-0.056,0.998,17.3,411.6]
+}}]},{
+"I":88,
+"DU":12,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic body",
+"FF":0,
+"ST":"G",
+"TRP":{"x":192.05,"y":483.8},
+"LP":"LP",
+"MX":[-0.996,0,-0.137,1.002,361.6,197.15]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic ring necklace loop",
+"FF":13,
+"ST":"G",
+"TRP":{"x":223.65,"y":228.25},
+"LP":"SF",
+"MX":[-1.019,0.162,0.027,0.982,281.95,211.75]
+}},
+{"SI":{
+"SN":"sonic angry arm bg",
+"FF":0,
+"ST":"G",
+"TRP":{"x":236.35,"y":248.85},
+"LP":"LP",
+"MX":[0.977,0.211,-0.211,0.977,209.4,223.1]
+}},
+{"SI":{
+"SN":"sonic angry head",
+"FF":0,
+"ST":"G",
+"TRP":{"x":20.2,"y":134.75},
+"LP":"LP",
+"MX":[-0.947,0.051,0.055,1.026,331.8,-3.4]
+}},
+{"SI":{
+"SN":"sonic face angry",
+"FF":0,
+"ST":"G",
+"TRP":{"x":300,"y":157.35},
+"LP":"LP",
+"MX":[-0.899,0.055,0.062,1.008,294.5,89.9]
+}},
+{"SI":{
+"SN":"sonic angry cuff",
+"FF":0,
+"ST":"G",
+"TRP":{"x":202.6,"y":231.7},
+"LP":"LP",
+"MX":[1,0.021,-0.021,1,166.55,202.25]
+}},
+{"SI":{
+"SN":"sonic angry cuff",
+"FF":0,
+"ST":"G",
+"TRP":{"x":202.95,"y":231.5},
+"LP":"LP",
+"MX":[1,0.005,-0.005,1,166.45,202.65]
+}},
+{"SI":{
+"SN":"sonic angry arm",
+"FF":0,
+"ST":"G",
+"TRP":{"x":287.65,"y":265.4},
+"LP":"LP",
+"MX":[1.109,0.037,-0.037,1.109,158.75,208.3]
+}},
+{"SI":{
+"SN":"sonic angry hand",
+"FF":0,
+"ST":"G",
+"TRP":{"x":170.45,"y":231.8},
+"LP":"LP",
+"MX":[1.054,0.005,-0.005,1.099,121.35,188.95]
+}},
+{"SI":{
+"SN":"sonic mic",
+"FF":0,
+"ST":"G",
+"TRP":{"x":106.05,"y":462.65},
+"LP":"LP",
+"MX":[0.998,0.056,-0.056,0.998,17.3,411.6]
+}}]}
+]}
+]}},{
+"SN":"sonic caught up copy",
+"TL":{
+"L":[
+{
+"LN":"sonic snap arm",
+"FR":[
+{
+"I":0,
+"DU":3,
+"E":[]
+},{
+"I":3,
+"DU":6,
+"E":[]
+},{
+"I":9,
+"DU":4,
+"E":[]
+},{
+"I":13,
+"DU":8,
+"E":[]
+}
+]},{
+"LN":"Layer 4",
+"FR":[
+{
+"I":0,
+"DU":3,
+"E":[]
+},{
+"I":3,
+"DU":3,
+"E":[]
+},{
+"I":6,
+"DU":1,
+"E":[]
+},{
+"I":7,
+"DU":2,
+"E":[]
+},{
+"I":9,
+"DU":3,
+"E":[
+{"SI":{
+"SN":"jklhljkhkhkj",
+"FF":0,
+"ST":"G",
+"TRP":{"x":170.9,"y":308.05},
+"LP":"LP",
+"MX":[1,0,0.029,1,4.05,296.65]
+}}]},{
+"I":12,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"jklhljkhkhkj",
+"FF":0,
+"ST":"G",
+"TRP":{"x":169.45,"y":311.6},
+"LP":"LP",
+"MX":[0.999,-0.034,0.072,0.998,2.2,305.9]
+}}]},{
+"I":14,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"jklhljkhkhkj",
+"FF":0,
+"ST":"G",
+"TRP":{"x":169.45,"y":311.6},
+"LP":"LP",
+"MX":[0.999,-0.042,0.08,0.998,2.15,307.2]
+}}]},{
+"I":16,
+"DU":7,
+"E":[]
+},{
+"I":23,
+"DU":17,
+"E":[]
+}
+]},{
+"LN":"Layer 2",
+"FR":[
+{
+"I":0,
+"DU":6,
+"E":[]
+},{
+"I":6,
+"DU":1,
+"E":[]
+},{
+"I":7,
+"DU":2,
+"E":[]
+},{
+"I":9,
+"DU":3,
+"E":[
+{"SI":{
+"SN":"sonic mic",
+"FF":0,
+"ST":"G",
+"TRP":{"x":106.05,"y":462.65},
+"LP":"LP",
+"MX":[0.998,0.056,-0.056,0.998,17.3,411.6]
+}}]},{
+"I":12,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"sonic mic",
+"FF":0,
+"ST":"G",
+"TRP":{"x":106.05,"y":462.65},
+"LP":"LP",
+"MX":[0.998,0.056,-0.056,0.998,17.3,411.6]
+}}]},{
+"I":14,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"sonic mic",
+"FF":0,
+"ST":"G",
+"TRP":{"x":106.05,"y":462.65},
+"LP":"LP",
+"MX":[0.998,0.056,-0.056,0.998,17.3,411.6]
+}}]},{
+"I":16,
+"DU":24,
+"E":[]
+}
+]},{
+"LN":"Layer 11",
+"FR":[
+{
+"I":0,
+"DU":6,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic body",
+"FF":0,
+"ST":"G",
+"TRP":{"x":192.05,"y":483.8},
+"LP":"LP",
+"MX":[-0.996,0,-0.137,1.002,361.6,197.15]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic ring necklace loop",
+"FF":13,
+"ST":"G",
+"TRP":{"x":223.65,"y":228.25},
+"LP":"SF",
+"MX":[-1.019,0.162,0.027,0.982,281.95,211.75]
+}},
+{"SI":{
+"SN":"sonic angry arm bg",
+"FF":0,
+"ST":"G",
+"TRP":{"x":236.35,"y":248.85},
+"LP":"LP",
+"MX":[0.977,0.211,-0.211,0.977,209.4,223.1]
+}},
+{"SI":{
+"SN":"sonic angry head",
+"FF":0,
+"ST":"G",
+"TRP":{"x":20.2,"y":134.75},
+"LP":"LP",
+"MX":[-0.947,0.051,0.055,1.026,331.8,-3.4]
+}},
+{"SI":{
+"SN":"sonic face angry",
+"FF":0,
+"ST":"G",
+"TRP":{"x":300,"y":157.35},
+"LP":"LP",
+"MX":[-0.899,0.055,0.062,1.008,294.5,89.9]
+}},
+{"SI":{
+"SN":"sonic angry cuff",
+"FF":0,
+"ST":"G",
+"TRP":{"x":202.6,"y":231.7},
+"LP":"LP",
+"MX":[1,0.021,-0.021,1,166.55,202.25]
+}},
+{"SI":{
+"SN":"sonic angry cuff",
+"FF":0,
+"ST":"G",
+"TRP":{"x":202.95,"y":231.5},
+"LP":"LP",
+"MX":[1,0.005,-0.005,1,166.45,202.65]
+}},
+{"SI":{
+"SN":"sonic angry arm",
+"FF":0,
+"ST":"G",
+"TRP":{"x":287.65,"y":265.4},
+"LP":"LP",
+"MX":[1.109,0.037,-0.037,1.109,158.75,208.3]
+}},
+{"SI":{
+"SN":"sonic angry hand",
+"FF":0,
+"ST":"G",
+"TRP":{"x":170.45,"y":231.8},
+"LP":"LP",
+"MX":[1.054,0.005,-0.005,1.099,121.35,188.95]
+}},
+{"SI":{
+"SN":"sonic mic",
+"FF":0,
+"ST":"G",
+"TRP":{"x":106.05,"y":462.65},
+"LP":"LP",
+"MX":[0.998,0.056,-0.056,0.998,17.3,411.6]
+}}]},{
+"I":6,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic body",
+"FF":1,
+"ST":"G",
+"TRP":{"x":192,"y":483.8},
+"LP":"LP",
+"MX":[-0.996,0,-0.146,1.002,364.1,197.15]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic ring necklace loop",
+"FF":13,
+"ST":"G",
+"TRP":{"x":223.65,"y":228.25},
+"LP":"SF",
+"MX":[-1.019,0.162,0.027,0.982,281.95,211.75]
+}},
+{"SI":{
+"SN":"sonic angry arm bg",
+"FF":0,
+"ST":"G",
+"TRP":{"x":238,"y":248.7},
+"LP":"LP",
+"MX":[0.982,0.186,-0.186,0.982,210.45,223.65]
+}},
+{"SI":{
+"SN":"sonic angry head",
+"FF":0,
+"ST":"G",
+"TRP":{"x":21.9,"y":137.35},
+"LP":"LP",
+"MX":[-0.946,0.067,0.072,1.025,331.15,-5.95]
+}},
+{"SI":{
+"SN":"sonic face angry",
+"FF":0,
+"ST":"G",
+"TRP":{"x":302,"y":155.35},
+"LP":"LP",
+"MX":[-0.898,0.07,0.079,1.007,295.4,87.95]
+}},
+{"SI":{
+"SN":"sonic angry cuff",
+"FF":0,
+"ST":"G",
+"TRP":{"x":202.6,"y":231.7},
+"LP":"LP",
+"MX":[1,0.021,-0.021,1,166.55,202.25]
+}},
+{"SI":{
+"SN":"sonic angry cuff",
+"FF":0,
+"ST":"G",
+"TRP":{"x":200.75,"y":232},
+"LP":"LP",
+"MX":[1.021,-0.004,0.021,1,162.8,203.45]
+}},
+{"SI":{
+"SN":"sonic angry arm",
+"FF":0,
+"ST":"G",
+"TRP":{"x":289.7,"y":263.95},
+"LP":"LP",
+"MX":[1.109,0.009,-0.009,1.109,159.4,210.15]
+}},
+{"SI":{
+"SN":"sonic angry hand",
+"FF":0,
+"ST":"G",
+"TRP":{"x":167.55,"y":232.6},
+"LP":"LP",
+"MX":[1.076,-0.004,0.023,1.099,116.4,190.15]
+}},
+{"SI":{
+"SN":"sonic mic",
+"FF":0,
+"ST":"G",
+"TRP":{"x":106.05,"y":462.65},
+"LP":"LP",
+"MX":[0.998,0.056,-0.056,0.998,17.3,411.6]
+}}]},{
+"I":7,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic body",
+"FF":1,
+"ST":"G",
+"TRP":{"x":192.05,"y":483.8},
+"LP":"LP",
+"MX":[-1.027,0.012,-0.203,0.955,384.55,208.95]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic ring necklace loop",
+"FF":13,
+"ST":"G",
+"TRP":{"x":223.65,"y":228.25},
+"LP":"SF",
+"MX":[-1.019,0.162,0.027,0.982,281.95,211.75]
+}},
+{"SI":{
+"SN":"sonic angry arm bg",
+"FF":0,
+"ST":"G",
+"TRP":{"x":239.4,"y":259.65},
+"LP":"LP",
+"MX":[1.823,-0.358,0.192,0.981,177.8,251.9]
+}},
+{"SI":{
+"SN":"sonic angry head",
+"FF":0,
+"ST":"G",
+"TRP":{"x":54.25,"y":183.1},
+"LP":"LP",
+"MX":[-0.939,0.133,0.144,1.017,352.65,18.3]
+}},
+{"SI":{
+"SN":"sonic face angry",
+"FF":0,
+"ST":"G",
+"TRP":{"x":335,"y":181.15},
+"LP":"LP",
+"MX":[-0.891,0.134,0.15,0.999,323.55,114.5]
+}},
+{"SI":{
+"SN":"sonic angry cuff",
+"FF":0,
+"ST":"G",
+"TRP":{"x":175.4,"y":262.85},
+"LP":"LP",
+"MX":[1.042,0.047,-0.005,1,137.4,232.45]
+}},
+{"SI":{
+"SN":"sonic angry arm",
+"FF":0,
+"ST":"G",
+"TRP":{"x":336.15,"y":292.9},
+"LP":"LP",
+"MX":[1.102,-0.126,0.126,1.102,200.25,255.4]
+}},
+{"SI":{
+"SN":"sonic angry hand",
+"FF":0,
+"ST":"G",
+"TRP":{"x":144.05,"y":259.3},
+"LP":"LP",
+"MX":[1.078,0.219,-0.176,1.085,100.5,206.95]
+}},
+{"SI":{
+"SN":"sonic mic",
+"FF":0,
+"ST":"G",
+"TRP":{"x":106.05,"y":462.65},
+"LP":"LP",
+"MX":[0.998,0.056,-0.056,0.998,17.3,411.6]
+}}]},{
+"I":9,
+"DU":3,
+"E":[
+{"SI":{
+"SN":"aaarmmm",
+"FF":0,
+"ST":"G",
+"TRP":{"x":272.45,"y":293.5},
+"LP":"LP",
+"MX":[1.108,0,0,1.049,259.65,277.25]
+}},
+{"SI":{
+"SN":"torsooo",
+"FF":0,
+"ST":"G",
+"TRP":{"x":199.25,"y":479.35},
+"LP":"LP",
+"MX":[1.02,0,0,0.978,117.3,239.25]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic ring necklace loop",
+"FF":0,
+"ST":"G",
+"TRP":{"x":232.35,"y":308.5},
+"LP":"LP",
+"MX":[-0.922,0.387,0.387,0.922,287.55,292.5]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic idle head copy",
+"FF":2,
+"ST":"G",
+"TRP":{"x":206.2,"y":210.05},
+"LP":"SF",
+"MX":[-1,0,0,1,367.35,91.1]
+}}]},{
+"I":12,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"aaarmmm",
+"FF":0,
+"ST":"G",
+"TRP":{"x":272.45,"y":292.5},
+"LP":"LP",
+"MX":[1.107,-0.034,0.032,1.049,259.15,276.65]
+}},
+{"SI":{
+"SN":"torsooo",
+"FF":0,
+"ST":"G",
+"TRP":{"x":199.3,"y":479.45},
+"LP":"LP",
+"MX":[1.032,0,0.014,0.968,112.8,241.75]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic ring necklace loop",
+"FF":4,
+"ST":"G",
+"TRP":{"x":232.35,"y":308.5},
+"LP":"LP",
+"MX":[-0.978,0.209,0.209,0.978,289.5,303.05]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic idle head copy",
+"FF":2,
+"ST":"G",
+"TRP":{"x":202.2,"y":212.05},
+"LP":"SF",
+"MX":[-0.999,-0.038,-0.038,0.999,367.65,99.15]
+}}]},{
+"I":14,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"aaarmmm",
+"FF":0,
+"ST":"G",
+"TRP":{"x":272.45,"y":292.25},
+"LP":"LP",
+"MX":[1.107,-0.047,0.045,1.048,258.95,276.55]
+}},
+{"SI":{
+"SN":"torsooo",
+"FF":0,
+"ST":"G",
+"TRP":{"x":199.3,"y":479.5},
+"LP":"LP",
+"MX":[1.032,0,0.018,0.968,111.8,241.75]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic ring necklace loop",
+"FF":6,
+"ST":"G",
+"TRP":{"x":232.3,"y":308.55},
+"LP":"SF",
+"MX":[-0.951,-0.308,-0.314,0.95,284.5,332.4]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic idle head copy",
+"FF":2,
+"ST":"G",
+"TRP":{"x":201.7,"y":212.05},
+"LP":"SF",
+"MX":[-0.999,-0.038,-0.038,0.999,367.15,99.15]
+}}]},{
+"I":16,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"aaarmmm",
+"FF":0,
+"ST":"G",
+"TRP":{"x":267.25,"y":272.15},
+"LP":"LP",
+"MX":[1.113,0.311,-0.078,1.023,250.45,252.6]
+}},
+{"SI":{
+"SN":"torsooo",
+"FF":0,
+"ST":"G",
+"TRP":{"x":199.3,"y":479.7},
+"LP":"LP",
+"MX":[1.006,-0.002,0.05,1.023,106.15,228.6]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic ring necklace loop",
+"FF":6,
+"ST":"G",
+"TRP":{"x":226.45,"y":297.65},
+"LP":"SF",
+"MX":[-0.907,-0.169,-0.372,1.191,275.6,315.2]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic idle head copy",
+"FF":2,
+"ST":"G",
+"TRP":{"x":197.75,"y":173.25},
+"LP":"SF",
+"MX":[-0.983,-0.111,-0.1,1.048,368.05,66.4]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic mic arm",
+"FF":1,
+"ST":"G",
+"TRP":{"x":132.3,"y":334.05},
+"LP":"LP",
+"MX":[-1,0.014,-0.149,1.185,180,267.05]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic mic hand",
+"FF":1,
+"ST":"G",
+"TRP":{"x":122.8,"y":363.3},
+"LP":"LP",
+"MX":[-0.789,-0.615,-0.615,0.789,202.2,401.95]
+}}]},{
+"I":18,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic snap arm",
+"FF":0,
+"ST":"G",
+"TRP":{"x":258.8,"y":281.65},
+"LP":"LP",
+"MX":[-1,0.021,0.021,1,309.45,224.25]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic snap hand",
+"FF":3,
+"ST":"G",
+"TRP":{"x":278.85,"y":303.65},
+"LP":"SF",
+"MX":[-0.959,-0.284,-0.284,0.959,437.5,262.45]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic body",
+"FF":0,
+"ST":"G",
+"TRP":{"x":161.35,"y":343.85},
+"LP":"LP",
+"MX":[-1.021,0,0,0.983,325.55,202.75]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic ring necklace loop",
+"FF":13,
+"ST":"G",
+"TRP":{"x":203.8,"y":256.6},
+"LP":"SF",
+"MX":[-0.944,-0.358,-0.353,0.93,260.55,270.3]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic idle head",
+"FF":0,
+"ST":"G",
+"TRP":{"x":180.55,"y":128.3},
+"LP":"LP",
+"MX":[-0.993,-0.118,-0.118,0.993,353.3,33.9]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic idle face",
+"FF":0,
+"ST":"G",
+"TRP":{"x":227.25,"y":182.35},
+"LP":"LP",
+"MX":[-0.993,-0.118,-0.15,0.989,320.55,132.65]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic mic arm",
+"FF":1,
+"ST":"G",
+"TRP":{"x":115.4,"y":301},
+"LP":"LP",
+"MX":[-0.99,0.144,0.144,0.99,146.25,239.9]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic mic hand",
+"FF":1,
+"ST":"G",
+"TRP":{"x":125.35,"y":380.15},
+"LP":"LP",
+"MX":[-0.999,-0.038,-0.038,0.999,195.25,320.2]
+}}]},{
+"I":20,
+"DU":3,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic snap arm",
+"FF":0,
+"ST":"G",
+"TRP":{"x":259.6,"y":288.85},
+"LP":"LP",
+"MX":[-1,0.021,0.021,1,310.25,231.45]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic snap hand",
+"FF":3,
+"ST":"G",
+"TRP":{"x":279.65,"y":310.85},
+"LP":"SF",
+"MX":[-0.998,0.07,0.07,0.998,413.8,216.6]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic body",
+"FF":0,
+"ST":"G",
+"TRP":{"x":161.35,"y":341.8},
+"LP":"LP",
+"MX":[-1.002,0,0,0.997,322.55,198.6]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic ring necklace loop",
+"FF":13,
+"ST":"G",
+"TRP":{"x":188.6,"y":229.45},
+"LP":"SF",
+"MX":[-1.003,0.119,0.117,0.988,245.3,215.35]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic idle head",
+"FF":0,
+"ST":"G",
+"TRP":{"x":156.1,"y":115},
+"LP":"LP",
+"MX":[-1,-0.026,-0.026,1,319.5,5.15]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic idle face",
+"FF":0,
+"ST":"G",
+"TRP":{"x":207.5,"y":164.55},
+"LP":"LP",
+"MX":[-1,-0.026,-0.058,0.999,295.95,106.55]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic mic arm",
+"FF":1,
+"ST":"G",
+"TRP":{"x":116.9,"y":276.65},
+"LP":"LP",
+"MX":[-0.999,0.044,0.044,0.999,153.7,219]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic mic hand",
+"FF":1,
+"ST":"G",
+"TRP":{"x":124.8,"y":346.55},
+"LP":"LP",
+"MX":[-0.999,0.044,0.044,0.999,189.45,280.95]
+}}]},{
+"I":23,
+"DU":17,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic snap arm",
+"FF":0,
+"ST":"G",
+"TRP":{"x":258.8,"y":288.05},
+"LP":"LP",
+"MX":[-1,0.021,0.021,1,309.45,230.65]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic snap hand",
+"FF":3,
+"ST":"G",
+"TRP":{"x":278.85,"y":310.05},
+"LP":"SF",
+"MX":[-0.995,0.099,0.099,0.995,410.15,211.85]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic body",
+"FF":0,
+"ST":"G",
+"TRP":{"x":161.35,"y":341.35},
+"LP":"LP",
+"MX":[-1,0,0,1,322.2,197.8]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic ring necklace loop",
+"FF":13,
+"ST":"G",
+"TRP":{"x":188.6,"y":228.25},
+"LP":"SF",
+"MX":[-0.997,0.162,0.159,0.982,244.65,211.75]
+}},
+{"SI":{
+"SN":"symbols shitfart/sonic idle head",
+"FF":0,
+"ST":"G",
+"TRP":{"x":154.3,"y":114.1},
+"LP":"LP",
+"MX":[-1,-0.005,-0.005,1,315.25,0.75]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic idle face",
+"FF":0,
+"ST":"G",
+"TRP":{"x":206.75,"y":162.55},
+"LP":"LP",
+"MX":[-1,-0.005,-0.037,1,293.9,102.6]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic mic arm",
+"FF":1,
+"ST":"G",
+"TRP":{"x":115.95,"y":276.15},
+"LP":"LP",
+"MX":[-1,0.014,0.014,1,154.45,219.6]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic mic hand",
+"FF":1,
+"ST":"G",
+"TRP":{"x":121.6,"y":346.25},
+"LP":"LP",
+"MX":[-1,0.014,0.014,1,188.35,282.65]
+}}]}
+]}
+]}},{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic body copy 2",
+"TL":{
+"L":[
+{"LN":"Layer 1",
+"FR":[
+{"I":0,
+"DU":2,
+"E":[
+{"ASI":{
+"MX":[1,0,0,0.999,-31.4,48.5],
+"N":"12"
+}}]}]}]}},{
+"SN":"symbols shitfart/sonic idle head copy 2",
+"TL":{
+"L":[
+{"LN":"Layer 1",
+"FR":[
+{"I":0,
+"DU":2,
+"E":[
+{"ASI":{
+"MX":[0.919,0,0,0.963,15.3,-19.65],
+"N":"13"
+}}]}]}]}},{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic idle face copy 3",
+"TL":{
+"L":[
+{
+"LN":"Layer 1",
+"FR":[
+{
+"I":0,
+"DU":2,
+"E":[
+{"ASI":{
+"MX":[0.906,0,0,0.949,0.8,-34.2],
+"N":"67"
+}}]},{
+"I":2,
+"DU":1,
+"E":[
+{"ASI":{
+"MX":[0.906,0,0,0.949,3.7,-26.55],
+"N":"68"
+}}]}
+]}
+]}},{
+"SN":"kjljjkkl",
+"TL":{
+"L":[
+{"LN":"Layer 1",
+"FR":[
+{"I":0,
+"DU":2,
+"E":[
+{"ASI":{
+"MX":[1,0,0,1,0,26.5],
+"N":"14"
+}}]}]}]}},{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic mic arm copy 3",
+"TL":{
+"L":[
+{"LN":"Layer 1",
+"FR":[
+{"I":0,
+"DU":2,
+"E":[
+{"ASI":{
+"MX":[1,0,0,1,0,0],
+"N":"19"
+}}]}]}]}},{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic mic hand copy 3",
+"TL":{
+"L":[
+{"LN":"Layer 1",
+"FR":[
+{"I":0,
+"DU":2,
+"E":[
+{"ASI":{
+"MX":[1,0,0,1,-27.5,7.45],
+"N":"20"
+}}]}]}]}},{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic idle head copy 2",
+"TL":{
+"L":[
+{"LN":"Layer 1",
+"FR":[
+{"I":0,
+"DU":2,
+"E":[
+{"ASI":{
+"MX":[1,0,0,1,3,0.5],
+"N":"21"
+}}]}]}]}},{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic idle face copy 2",
+"TL":{
+"L":[
+{"LN":"Layer 1",
+"FR":[
+{"I":0,
+"DU":2,
+"E":[
+{"ASI":{
+"MX":[1,0,0,0.999,-0.8,1.9],
+"N":"22"
+}}]}]}]}},{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic ring necklace loop copy 3",
+"TL":{
+"L":[
+{
+"LN":"Layer 1",
+"FR":[
+{
+"I":0,
+"DU":2,
+"E":[
+{"ASI":{
+"MX":[0.985,0,0,1.006,-10.3,-19.45],
+"N":"69"
+}}]},{
+"I":2,
+"DU":2,
+"E":[
+{"ASI":{
+"MX":[0.985,0,0,1.006,-11.65,-26.3],
+"N":"70"
+}}]},{
+"I":4,
+"DU":2,
+"E":[
+{"ASI":{
+"MX":[0.985,0,0,1.006,-1.7,-36.1],
+"N":"71"
+}}]},{
+"I":6,
+"DU":2,
+"E":[
+{"ASI":{
+"MX":[0.985,0,0,1.006,0,-31.25],
+"N":"72"
+}}]},{
+"I":8,
+"DU":6,
+"E":[
+{"ASI":{
+"MX":[0.985,0,0,1.006,0.5,-32],
+"N":"73"
+}}]}
+]}
+]}},{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic body copy 3",
+"TL":{
+"L":[
+{"LN":"Layer 1",
+"FR":[
+{"I":0,
+"DU":2,
+"E":[
+{"ASI":{
+"MX":[0.981,0,0,1,-31.1,7.4],
+"N":"23"
+}}]}]}]}},{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic snap arm copy 3",
+"TL":{
+"L":[
+{"LN":"Layer 1",
+"FR":[
+{"I":0,
+"DU":2,
+"E":[
+{"ASI":{
+"MX":[1,0,0,1,0,0],
+"N":"24"
+}}]}]}]}},{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic snap hand copy 2",
+"TL":{
+"L":[
+{
+"LN":"Layer 1",
+"FR":[
+{
+"I":0,
+"DU":2,
+"E":[
+{"ASI":{
+"MX":[0.983,0,0,0.983,40,4.25],
+"N":"74"
+}}]},{
+"I":2,
+"DU":1,
+"E":[
+{"ASI":{
+"MX":[0.983,0,0,0.983,40,1.75],
+"N":"75"
+}}]},{
+"I":3,
+"DU":2,
+"E":[
+{"ASI":{
+"MX":[0.983,0,0,0.983,0,0],
+"N":"76"
+}}]},{
+"I":5,
+"DU":1,
+"E":[
+{"ASI":{
+"MX":[0.983,0,0,0.983,2.5,-1.05],
+"N":"77"
+}}]}
+]}
+]}},{
+"SN":"untitled folder 1/sprites/sonic hey!!",
+"TL":{
+"L":[
+{
+"LN":"sonic hey hand",
+"FR":[
+{
+"I":0,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic hey hand",
+"FF":0,
+"ST":"G",
+"TRP":{"x":211.8,"y":350.2},
+"LP":"LP",
+"MX":[1.092,0.152,-0.152,1.092,111.55,237.15]
+}}]},{
+"I":2,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic hey hand",
+"FF":0,
+"ST":"G",
+"TRP":{"x":221.5,"y":348.6},
+"LP":"LP",
+"MX":[0.953,-0.045,0.045,0.953,118.2,268.45]
+}}]},{
+"I":4,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic hey hand",
+"FF":0,
+"ST":"G",
+"TRP":{"x":221.5,"y":348.6},
+"LP":"LP",
+"MX":[1,0,0,1,117.3,259.55]
+}}]},{
+"I":6,
+"DU":8,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic hey hand",
+"FF":0,
+"ST":"G",
+"TRP":{"x":221.5,"y":348.6},
+"LP":"LP",
+"MX":[1,0.012,-0.012,1,118.3,258.3]
+}}]}
+]},{
+"LN":"sonic cs head",
+"FR":[
+{
+"I":0,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic cs head",
+"FF":0,
+"ST":"G",
+"TRP":{"x":208.95,"y":201.6},
+"LP":"LP",
+"MX":[0.951,0.535,-0.535,0.951,126.85,-0.9]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic cs face",
+"FF":0,
+"ST":"G",
+"TRP":{"x":164.1,"y":233.05},
+"LP":"SF",
+"MX":[0.976,0.575,-0.625,0.947,129,130.9]
+}}]},{
+"I":2,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic cs head",
+"FF":0,
+"ST":"G",
+"TRP":{"x":208.65,"y":200.05},
+"LP":"LP",
+"MX":[0.95,0.492,-0.492,0.95,121.45,4.5]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic cs face",
+"FF":2,
+"ST":"G",
+"TRP":{"x":165.85,"y":232.4},
+"LP":"SF",
+"MX":[0.976,0.531,-0.58,0.949,128,133.5]
+}}]},{
+"I":4,
+"DU":10,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic cs head",
+"FF":0,
+"ST":"G",
+"TRP":{"x":208.6,"y":200.15},
+"LP":"LP",
+"MX":[0.958,0.496,-0.496,0.958,120.7,2.85]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic cs face",
+"FF":2,
+"ST":"G",
+"TRP":{"x":165.35,"y":232.75},
+"LP":"SF",
+"MX":[0.984,0.535,-0.585,0.957,127.25,133]
+}}]}
+]},{
+"LN":"sonic body",
+"FR":[
+{
+"I":0,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic body copy 2",
+"FF":0,
+"ST":"G",
+"TRP":{"x":276,"y":562.15},
+"LP":"LP",
+"MX":[0.985,0,0.058,0.985,1.8,283.65]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic ring necklace loop copy 2",
+"FF":13,
+"ST":"G",
+"TRP":{"x":149.95,"y":299.45},
+"LP":"LP",
+"MX":[0.982,0.159,-0.154,0.967,94.7,283.2]
+}}]},{
+"I":2,
+"DU":12,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic body copy 2",
+"FF":0,
+"ST":"G",
+"TRP":{"x":277.65,"y":564.45},
+"LP":"LP",
+"MX":[1,0,0.057,1,0,281.7]
+}},
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic ring necklace loop copy 2",
+"FF":1,
+"ST":"G",
+"TRP":{"x":150.4,"y":297.75},
+"LP":"LP",
+"MX":[0.997,0.162,-0.159,0.982,94.35,281.25]
+}}]}
+]},{
+"LN":"sonic snap arm",
+"FR":[
+{
+"I":0,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic snap arm copy 2",
+"FF":0,
+"ST":"G",
+"TRP":{"x":123.2,"y":297.8},
+"LP":"LP",
+"MX":[0.207,-0.962,-0.963,-0.21,144.25,397.15]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic hand hip",
+"FF":0,
+"ST":"G",
+"TRP":{"x":65.45,"y":389.9},
+"LP":"LP",
+"MX":[1.027,-0.484,0.486,1.028,5.45,371.45]
+}}]},{
+"I":2,
+"DU":12,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic snap arm copy 2",
+"FF":0,
+"ST":"G",
+"TRP":{"x":125.35,"y":297.15},
+"LP":"LP",
+"MX":[0.259,-0.966,-0.966,-0.259,141.6,398.85]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic hand hip",
+"FF":0,
+"ST":"G",
+"TRP":{"x":62.05,"y":387.65},
+"LP":"LP",
+"MX":[1.066,-0.441,0.441,1.066,2.15,366]
+}}]}
+]}
+]}},{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic snap arm copy 2",
+"TL":{
+"L":[
+{"LN":"Layer 1",
+"FR":[
+{"I":0,
+"DU":2,
+"E":[
+{"ASI":{
+"MX":[1,0,0,1,0,0],
+"N":"25"
+}}]}]}]}},{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic hand hip",
+"TL":{
+"L":[
+{
+"LN":"Layer 1",
+"FR":[
+{
+"I":0,
+"DU":1,
+"E":[
+{"ASI":{
+"MX":[0.867,0,0,0.867,0,0],
+"N":"78"
+}}]}
+]}
+]}},{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic body copy 2",
+"TL":{
+"L":[
+{"LN":"Layer 1",
+"FR":[
+{"I":0,
+"DU":2,
+"E":[
+{"ASI":{
+"MX":[0.944,0,0,0.981,-31.1,2.5],
+"N":"26"
+}}]}]}]}},{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic ring necklace loop copy 2",
+"TL":{
+"L":[
+{
+"LN":"Layer 1",
+"FR":[
+{
+"I":0,
+"DU":2,
+"E":[
+{"ASI":{
+"MX":[0.933,0,0,0.998,-10.3,-19.45],
+"N":"79"
+}}]},{
+"I":2,
+"DU":2,
+"E":[
+{"ASI":{
+"MX":[0.933,0,0,0.998,-11.65,-26.3],
+"N":"80"
+}}]},{
+"I":4,
+"DU":2,
+"E":[
+{"ASI":{
+"MX":[0.933,0,0,0.998,-1.7,-36.1],
+"N":"81"
+}}]},{
+"I":6,
+"DU":2,
+"E":[
+{"ASI":{
+"MX":[0.933,0,0,0.998,0,-31.25],
+"N":"82"
+}}]},{
+"I":8,
+"DU":6,
+"E":[
+{"ASI":{
+"MX":[0.933,0,0,0.998,0.5,-32],
+"N":"83"
+}}]}
+]}
+]}},{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic cs head",
+"TL":{
+"L":[
+{
+"LN":"Layer 2",
+"FR":[
+{
+"I":0,
+"DU":1,
+"E":[
+{"ASI":{
+"MX":[0.916,0,0,0.916,-2.05,2.85],
+"N":"84"
+}}]}
+]}
+]}},{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic cs face",
+"TL":{
+"L":[
+{
+"LN":"Layer 1",
+"FR":[
+{
+"I":0,
+"DU":2,
+"E":[
+{"ASI":{
+"MX":[0.882,0,0,0.881,-7.9,-4.7],
+"N":"85"
+}}]},{
+"I":2,
+"DU":2,
+"E":[
+{"ASI":{
+"MX":[0.882,0,0,0.881,-0.35,-4],
+"N":"86"
+}}]}
+]}
+]}},{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic hey hand",
+"TL":{
+"L":[
+{
+"LN":"Layer 1",
+"FR":[
+{
+"I":0,
+"DU":1,
+"E":[
+{"ASI":{
+"MX":[0.907,0,0,0.907,0,0],
+"N":"87"
+}}]}
+]}
+]}},{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic cs face copy",
+"TL":{
+"L":[
+{
+"LN":"Layer 1",
+"FR":[
+{
+"I":0,
+"DU":1,
+"E":[
+{"ASI":{
+"MX":[0.893,0,0,0.892,-9.25,0.35],
+"N":"88"
+}}]},{
+"I":1,
+"DU":1,
+"E":[
+{"ASI":{
+"MX":[0.893,0,0,0.892,-12.25,8.75],
+"N":"89"
+}}]}
+]}
+]}},{
+"SN":"symbols shitfart/sonic snap arm",
+"TL":{
+"L":[
+{"LN":"Layer 1",
+"FR":[
+{"I":0,
+"DU":2,
+"E":[
+{"ASI":{
+"MX":[0.877,0,0,0.877,0,0],
+"N":"27"
+}}]}]}]}},{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic hey hand copy",
+"TL":{
+"L":[
+{"LN":"Layer 1",
+"FR":[
+{"I":0,
+"DU":1,
+"E":[
+{"ASI":{
+"MX":[1,0,0,1,0,22.55],
+"N":"28"
+}}]}]}]}},{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic hand copy",
+"TL":{
+"L":[
+{
+"LN":"Layer 1",
+"FR":[
+{
+"I":0,
+"DU":1,
+"E":[
+{"ASI":{
+"MX":[0.867,0,0,0.867,-7.85,-29.05],
+"N":"90"
+}}]}
+]}
+]}},{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic cs face copy 2",
+"TL":{
+"L":[
+{
+"LN":"Layer 1",
+"FR":[
+{
+"I":0,
+"DU":3,
+"E":[
+{"ASI":{
+"MX":[0.877,0,0,0.892,-3.2,4.5],
+"N":"91"
+}}]},{
+"I":3,
+"DU":1,
+"E":[
+{"ASI":{
+"MX":[0.877,0,0,0.892,-4.7,6.5],
+"N":"92"
+}}]}
+]}
+]}},{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic mic hip",
+"TL":{
+"L":[
+{
+"LN":"Layer 1",
+"FR":[
+{
+"I":0,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic mic hip1",
+"FF":0,
+"ST":"G",
+"TRP":{"x":56.6,"y":45.7},
+"LP":"LP",
+"MX":[1.033,-0.041,0.041,1.033,-29.8,-6.95]
+}}]}
+]}
+]}},{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic arm hip",
+"TL":{
+"L":[
+{
+"LN":"Layer 1",
+"FR":[
+{
+"I":0,
+"DU":1,
+"E":[
+{"ASI":{
+"MX":[1,0,0,0.983,0,0],
+"N":"93"
+}}]}
+]}
+]}},{
+"SN":"symbols shitfart/sonic left arm",
+"TL":{
+"L":[
+{
+"LN":"Layer 1",
+"FR":[
+{
+"I":0,
+"DU":1,
+"E":[
+{"ASI":{
+"MX":[1,0,0,1,6.45,0],
+"N":"94"
+}}]}
+]}
+]}},{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic cs face copy 3",
+"TL":{
+"L":[
+{
+"LN":"Layer 1",
+"FR":[
+{
+"I":0,
+"DU":3,
+"E":[
+{"ASI":{
+"MX":[0.893,0,0,0.892,-4.1,4.45],
+"N":"95"
+}}]},{
+"I":3,
+"DU":1,
+"E":[
+{"ASI":{
+"MX":[0.893,0,0,0.892,-7.6,8.3],
+"N":"96"
+}}]}
+]}
+]}},{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic hand copy 2",
+"TL":{
+"L":[
+{
+"LN":"Layer 1",
+"FR":[
+{
+"I":0,
+"DU":1,
+"E":[
+{"ASI":{
+"MX":[0.802,0,0,0.802,-53.6,-96.1],
+"N":"97"
+}}]}
+]}
+]}},{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic mic arm copy 2",
+"TL":{
+"L":[
+{"LN":"Layer 1",
+"FR":[
+{"I":0,
+"DU":2,
+"E":[
+{"ASI":{
+"MX":[1,0,0,1,0,0],
+"N":"29"
+}}]}]}]}},{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic mic hand copy 2",
+"TL":{
+"L":[
+{"LN":"Layer 1",
+"FR":[
+{"I":0,
+"DU":2,
+"E":[
+{"ASI":{
+"MX":[1,0,0,1,-27.5,7.45],
+"N":"30"
+}}]}]}]}},{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic cs face copy 4",
+"TL":{
+"L":[
+{
+"LN":"Layer 1",
+"FR":[
+{
+"I":0,
+"DU":3,
+"E":[
+{"ASI":{
+"MX":[0.893,0,0,0.892,-7.8,3.75],
+"N":"98"
+}}]},{
+"I":3,
+"DU":1,
+"E":[
+{"ASI":{
+"MX":[0.893,0,0,0.892,-7.3,-1.65],
+"N":"99"
+}}]}
+]}
+]}},{
+"SN":"symbols shitfart/sonic cs nose hand",
+"TL":{
+"L":[
+{
+"LN":"Layer 1",
+"FR":[
+{
+"I":0,
+"DU":1,
+"E":[
+{"ASI":{
+"MX":[0.89,0,0,0.89,0,0],
+"N":"100"
+}}]}
+]}
+]}},{
+"SN":"symbols shitfart/sonic punch arm bg 1",
+"TL":{
+"L":[
+{
+"LN":"Layer 1",
+"FR":[
+{
+"I":0,
+"DU":1,
+"E":[
+{"ASI":{
+"MX":[0.936,0,0,1,0,0],
+"N":"101"
+}}]}
+]}
+]}},{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic cs face copy 5",
+"TL":{
+"L":[
+{"LN":"Layer 1",
+"FR":[
+{"I":0,
+"DU":2,
+"E":[
+{"ASI":{
+"MX":[0.87,0,0,0.892,-4.55,1.15],
+"N":"31"
+}}]}]}]}},{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic foot tap ground",
+"TL":{
+"L":[
+{
+"LN":"Layer 1",
+"FR":[
+{
+"I":0,
+"DU":1,
+"E":[
+{"ASI":{
+"MX":[0.939,0,0,1,11.65,0],
+"N":"102"
+}}]}
+]}
+]}},{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic foot tap",
+"TL":{
+"L":[
+{
+"LN":"Layer 1",
+"FR":[
+{
+"I":0,
+"DU":1,
+"E":[
+{"ASI":{
+"MX":[1,0,0,1,16.7,-4.85],
+"N":"103"
+}}]}
+]}
+]}},{
+"SN":"sonic shake up",
+"TL":{
+"L":[
+{
+"LN":"sonic mic arm",
+"FR":[
+{
+"I":0,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"sonic mic",
+"FF":0,
+"ST":"G",
+"TRP":{"x":106,"y":458.2},
+"LP":"LP",
+"MX":[0.993,0.121,-0.121,0.993,20.8,401.45]
+}},
+{"SI":{
+"SN":"sonic grab arm",
+"FF":0,
+"ST":"G",
+"TRP":{"x":108.65,"y":298.6},
+"LP":"LP",
+"MX":[-0.765,0.645,0.645,0.765,113.9,219.95]
+}},
+{"SI":{
+"SN":"sonic mic grab frame",
+"FF":0,
+"ST":"G",
+"TRP":{"x":109.35,"y":356.5},
+"LP":"LP",
+"MX":[-1,0,0,1,186.15,295.9]
+}}]},{
+"I":2,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"sonic mic",
+"FF":0,
+"ST":"G",
+"TRP":{"x":106.05,"y":462.65},
+"LP":"LP",
+"MX":[1,0.001,-0.001,1,14.6,416.55]
+}},
+{"SI":{
+"SN":"sonic grab arm",
+"FF":0,
+"ST":"G",
+"TRP":{"x":142.1,"y":282.45},
+"LP":"LP",
+"MX":[-0.365,0.931,0.931,0.365,109.2,210.8]
+}},
+{"SI":{
+"SN":"sonic mic grab frame",
+"FF":0,
+"ST":"G",
+"TRP":{"x":170.3,"y":332.95},
+"LP":"LP",
+"MX":[-0.879,0.477,0.477,0.879,208.95,243.1]
+}}]},{
+"I":4,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"sonic mic",
+"FF":0,
+"ST":"G",
+"TRP":{"x":106.05,"y":462.65},
+"LP":"LP",
+"MX":[0.999,0.048,-0.048,0.999,16.9,412.3]
+}},
+{"SI":{
+"SN":"sonic dj exit arm 1",
+"FF":0,
+"ST":"G",
+"TRP":{"x":114.7,"y":226.95},
+"LP":"LP",
+"MX":[-1.127,0.323,0.323,1.127,299.5,157.3]
+}}]},{
+"I":6,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"sonic mic",
+"FF":0,
+"ST":"G",
+"TRP":{"x":106.05,"y":462.65},
+"LP":"LP",
+"MX":[0.998,0.056,-0.056,0.998,17.3,411.6]
+}},
+{"SI":{
+"SN":"sonic dj exit arm 1",
+"FF":0,
+"ST":"G",
+"TRP":{"x":114.7,"y":226.9},
+"LP":"LP",
+"MX":[-0.583,1.018,1.018,0.583,198.55,48.15]
+}}]},{
+"I":8,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"sonic grab arm",
+"FF":0,
+"ST":"G",
+"TRP":{"x":107.8,"y":171.4},
+"LP":"LP",
+"MX":[0.46,-0.888,-0.888,-0.46,132.95,246.05]
+}},
+{"SI":{
+"SN":"sonic mic grab frame",
+"FF":0,
+"ST":"G",
+"TRP":{"x":85.05,"y":118.1},
+"LP":"LP",
+"MX":[-0.895,0.445,0.445,0.895,126.95,29.65]
+}},
+{"SI":{
+"SN":"sonic mic",
+"FF":0,
+"ST":"G",
+"TRP":{"x":106.05,"y":462.65},
+"LP":"LP",
+"MX":[0.998,0.056,-0.056,0.998,17.3,411.6]
+}}]},{
+"I":10,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"sonic grab arm",
+"FF":0,
+"ST":"G",
+"TRP":{"x":49.75,"y":248.6},
+"LP":"LP",
+"MX":[-0.859,-0.511,-0.511,0.859,125.75,227.75]
+}},
+{"SI":{
+"SN":"sonic mic grab frame",
+"FF":0,
+"ST":"G",
+"TRP":{"x":-11.15,"y":271.45},
+"LP":"LP",
+"MX":[-0.61,-0.792,-0.792,0.61,83.65,295.25]
+}},
+{"SI":{
+"SN":"sonic mic",
+"FF":0,
+"ST":"G",
+"TRP":{"x":106.05,"y":462.65},
+"LP":"LP",
+"MX":[0.998,0.056,-0.056,0.998,17.3,411.6]
+}}]},{
+"I":12,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"sonic mic",
+"FF":0,
+"ST":"G",
+"TRP":{"x":106,"y":458.2},
+"LP":"LP",
+"MX":[0.993,0.121,-0.121,0.993,20.8,401.45]
+}},
+{"SI":{
+"SN":"sonic grab arm",
+"FF":0,
+"ST":"G",
+"TRP":{"x":108.65,"y":298.6},
+"LP":"LP",
+"MX":[-0.765,0.645,0.645,0.765,113.9,219.95]
+}},
+{"SI":{
+"SN":"sonic mic grab frame",
+"FF":0,
+"ST":"G",
+"TRP":{"x":109.35,"y":356.5},
+"LP":"LP",
+"MX":[-1,0,0,1,186.15,295.9]
+}}]},{
+"I":14,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"sonic mic",
+"FF":0,
+"ST":"G",
+"TRP":{"x":106.05,"y":462.65},
+"LP":"LP",
+"MX":[1,0.001,-0.001,1,14.6,416.55]
+}},
+{"SI":{
+"SN":"sonic grab arm",
+"FF":0,
+"ST":"G",
+"TRP":{"x":142.1,"y":282.45},
+"LP":"LP",
+"MX":[-0.365,0.931,0.931,0.365,109.2,210.8]
+}},
+{"SI":{
+"SN":"sonic mic grab frame",
+"FF":0,
+"ST":"G",
+"TRP":{"x":170.3,"y":332.95},
+"LP":"LP",
+"MX":[-0.879,0.477,0.477,0.879,208.95,243.1]
+}}]},{
+"I":16,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"sonic mic",
+"FF":0,
+"ST":"G",
+"TRP":{"x":106.05,"y":462.65},
+"LP":"LP",
+"MX":[0.999,0.048,-0.048,0.999,16.9,412.3]
+}},
+{"SI":{
+"SN":"sonic dj exit arm 1",
+"FF":0,
+"ST":"G",
+"TRP":{"x":114.7,"y":226.95},
+"LP":"LP",
+"MX":[-1.127,0.323,0.323,1.127,299.5,157.3]
+}}]},{
+"I":18,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"sonic mic",
+"FF":0,
+"ST":"G",
+"TRP":{"x":106.05,"y":462.65},
+"LP":"LP",
+"MX":[0.998,0.056,-0.056,0.998,17.3,411.6]
+}},
+{"SI":{
+"SN":"sonic dj exit arm 1",
+"FF":0,
+"ST":"G",
+"TRP":{"x":114.7,"y":226.9},
+"LP":"LP",
+"MX":[-0.583,1.018,1.018,0.583,198.55,48.15]
+}}]},{
+"I":20,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"sonic grab arm",
+"FF":0,
+"ST":"G",
+"TRP":{"x":107.8,"y":171.4},
+"LP":"LP",
+"MX":[0.46,-0.888,-0.888,-0.46,132.95,246.05]
+}},
+{"SI":{
+"SN":"sonic mic grab frame",
+"FF":0,
+"ST":"G",
+"TRP":{"x":85.05,"y":118.1},
+"LP":"LP",
+"MX":[-0.895,0.445,0.445,0.895,126.95,29.65]
+}},
+{"SI":{
+"SN":"sonic mic",
+"FF":0,
+"ST":"G",
+"TRP":{"x":106.05,"y":462.65},
+"LP":"LP",
+"MX":[0.998,0.056,-0.056,0.998,17.3,411.6]
+}}]},{
+"I":22,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"sonic grab arm",
+"FF":0,
+"ST":"G",
+"TRP":{"x":49.75,"y":248.6},
+"LP":"LP",
+"MX":[-0.859,-0.511,-0.511,0.859,125.75,227.75]
+}},
+{"SI":{
+"SN":"sonic mic grab frame",
+"FF":0,
+"ST":"G",
+"TRP":{"x":-11.15,"y":271.45},
+"LP":"LP",
+"MX":[-0.61,-0.792,-0.792,0.61,83.65,295.25]
+}},
+{"SI":{
+"SN":"sonic mic",
+"FF":0,
+"ST":"G",
+"TRP":{"x":106.05,"y":462.65},
+"LP":"LP",
+"MX":[0.998,0.056,-0.056,0.998,17.3,411.6]
+}}]},{
+"I":24,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"sonic mic",
+"FF":0,
+"ST":"G",
+"TRP":{"x":106,"y":458.2},
+"LP":"LP",
+"MX":[0.993,0.121,-0.121,0.993,20.8,401.45]
+}},
+{"SI":{
+"SN":"sonic grab arm",
+"FF":0,
+"ST":"G",
+"TRP":{"x":108.65,"y":298.6},
+"LP":"LP",
+"MX":[-0.765,0.645,0.645,0.765,113.9,219.95]
+}},
+{"SI":{
+"SN":"sonic mic grab frame",
+"FF":0,
+"ST":"G",
+"TRP":{"x":109.35,"y":356.5},
+"LP":"LP",
+"MX":[-1,0,0,1,186.15,295.9]
+}}]},{
+"I":26,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"sonic mic",
+"FF":0,
+"ST":"G",
+"TRP":{"x":106.05,"y":462.65},
+"LP":"LP",
+"MX":[1,0.001,-0.001,1,14.6,416.55]
+}},
+{"SI":{
+"SN":"sonic grab arm",
+"FF":0,
+"ST":"G",
+"TRP":{"x":142.1,"y":282.45},
+"LP":"LP",
+"MX":[-0.365,0.931,0.931,0.365,109.2,210.8]
+}},
+{"SI":{
+"SN":"sonic mic grab frame",
+"FF":0,
+"ST":"G",
+"TRP":{"x":170.3,"y":332.95},
+"LP":"LP",
+"MX":[-0.879,0.477,0.477,0.879,208.95,243.1]
+}}]},{
+"I":28,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"sonic mic",
+"FF":0,
+"ST":"G",
+"TRP":{"x":106.05,"y":462.65},
+"LP":"LP",
+"MX":[0.999,0.048,-0.048,0.999,16.9,412.3]
+}},
+{"SI":{
+"SN":"sonic dj exit arm 1",
+"FF":0,
+"ST":"G",
+"TRP":{"x":114.7,"y":226.95},
+"LP":"LP",
+"MX":[-1.127,0.323,0.323,1.127,299.5,157.3]
+}}]},{
+"I":30,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"sonic mic",
+"FF":0,
+"ST":"G",
+"TRP":{"x":106.05,"y":462.65},
+"LP":"LP",
+"MX":[0.998,0.056,-0.056,0.998,17.3,411.6]
+}},
+{"SI":{
+"SN":"sonic dj exit arm 1",
+"FF":0,
+"ST":"G",
+"TRP":{"x":114.7,"y":226.9},
+"LP":"LP",
+"MX":[-0.583,1.018,1.018,0.583,198.55,48.15]
+}}]},{
+"I":32,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"sonic grab arm",
+"FF":0,
+"ST":"G",
+"TRP":{"x":107.8,"y":171.4},
+"LP":"LP",
+"MX":[0.46,-0.888,-0.888,-0.46,132.95,246.05]
+}},
+{"SI":{
+"SN":"sonic mic grab frame",
+"FF":0,
+"ST":"G",
+"TRP":{"x":85.05,"y":118.1},
+"LP":"LP",
+"MX":[-0.895,0.445,0.445,0.895,126.95,29.65]
+}},
+{"SI":{
+"SN":"sonic mic",
+"FF":0,
+"ST":"G",
+"TRP":{"x":106.05,"y":462.65},
+"LP":"LP",
+"MX":[0.998,0.056,-0.056,0.998,17.3,411.6]
+}}]},{
+"I":34,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"sonic grab arm",
+"FF":0,
+"ST":"G",
+"TRP":{"x":49.75,"y":248.6},
+"LP":"LP",
+"MX":[-0.859,-0.511,-0.511,0.859,125.75,227.75]
+}},
+{"SI":{
+"SN":"sonic mic grab frame",
+"FF":0,
+"ST":"G",
+"TRP":{"x":-11.15,"y":271.45},
+"LP":"LP",
+"MX":[-0.61,-0.792,-0.792,0.61,83.65,295.25]
+}},
+{"SI":{
+"SN":"sonic mic",
+"FF":0,
+"ST":"G",
+"TRP":{"x":106.05,"y":462.65},
+"LP":"LP",
+"MX":[0.998,0.056,-0.056,0.998,17.3,411.6]
+}}]},{
+"I":36,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"sonic mic",
+"FF":0,
+"ST":"G",
+"TRP":{"x":106,"y":458.2},
+"LP":"LP",
+"MX":[0.993,0.121,-0.121,0.993,20.8,401.45]
+}},
+{"SI":{
+"SN":"sonic grab arm",
+"FF":0,
+"ST":"G",
+"TRP":{"x":108.65,"y":298.6},
+"LP":"LP",
+"MX":[-0.765,0.645,0.645,0.765,113.9,219.95]
+}},
+{"SI":{
+"SN":"sonic mic grab frame",
+"FF":0,
+"ST":"G",
+"TRP":{"x":109.35,"y":356.5},
+"LP":"LP",
+"MX":[-1,0,0,1,186.15,295.9]
+}}]},{
+"I":38,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"sonic mic",
+"FF":0,
+"ST":"G",
+"TRP":{"x":106.05,"y":462.65},
+"LP":"LP",
+"MX":[1,0.001,-0.001,1,14.6,416.55]
+}},
+{"SI":{
+"SN":"sonic grab arm",
+"FF":0,
+"ST":"G",
+"TRP":{"x":142.1,"y":282.45},
+"LP":"LP",
+"MX":[-0.365,0.931,0.931,0.365,109.2,210.8]
+}},
+{"SI":{
+"SN":"sonic mic grab frame",
+"FF":0,
+"ST":"G",
+"TRP":{"x":170.3,"y":332.95},
+"LP":"LP",
+"MX":[-0.879,0.477,0.477,0.879,208.95,243.1]
+}}]},{
+"I":40,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"sonic mic",
+"FF":0,
+"ST":"G",
+"TRP":{"x":106.05,"y":462.65},
+"LP":"LP",
+"MX":[0.999,0.048,-0.048,0.999,16.9,412.3]
+}},
+{"SI":{
+"SN":"sonic dj exit arm 1",
+"FF":0,
+"ST":"G",
+"TRP":{"x":114.7,"y":226.95},
+"LP":"LP",
+"MX":[-1.127,0.323,0.323,1.127,299.5,157.3]
+}}]},{
+"I":42,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"sonic mic",
+"FF":0,
+"ST":"G",
+"TRP":{"x":106.05,"y":462.65},
+"LP":"LP",
+"MX":[0.998,0.056,-0.056,0.998,17.3,411.6]
+}},
+{"SI":{
+"SN":"sonic dj exit arm 1",
+"FF":0,
+"ST":"G",
+"TRP":{"x":114.7,"y":226.9},
+"LP":"LP",
+"MX":[-0.583,1.018,1.018,0.583,198.55,48.15]
+}}]},{
+"I":44,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"sonic grab arm",
+"FF":0,
+"ST":"G",
+"TRP":{"x":107.8,"y":171.4},
+"LP":"LP",
+"MX":[0.46,-0.888,-0.888,-0.46,132.95,246.05]
+}},
+{"SI":{
+"SN":"sonic mic grab frame",
+"FF":0,
+"ST":"G",
+"TRP":{"x":85.05,"y":118.1},
+"LP":"LP",
+"MX":[-0.895,0.445,0.445,0.895,126.95,29.65]
+}},
+{"SI":{
+"SN":"sonic mic",
+"FF":0,
+"ST":"G",
+"TRP":{"x":106.05,"y":462.65},
+"LP":"LP",
+"MX":[0.998,0.056,-0.056,0.998,17.3,411.6]
+}}]},{
+"I":46,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"sonic grab arm",
+"FF":0,
+"ST":"G",
+"TRP":{"x":49.75,"y":248.6},
+"LP":"LP",
+"MX":[-0.859,-0.511,-0.511,0.859,125.75,227.75]
+}},
+{"SI":{
+"SN":"sonic mic grab frame",
+"FF":0,
+"ST":"G",
+"TRP":{"x":-11.15,"y":271.45},
+"LP":"LP",
+"MX":[-0.61,-0.792,-0.792,0.61,83.65,295.25]
+}},
+{"SI":{
+"SN":"sonic mic",
+"FF":0,
+"ST":"G",
+"TRP":{"x":106.05,"y":462.65},
+"LP":"LP",
+"MX":[0.998,0.056,-0.056,0.998,17.3,411.6]
+}}]},{
+"I":47,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"sonic grab arm",
+"FF":0,
+"ST":"G",
+"TRP":{"x":49.75,"y":248.6},
+"LP":"LP",
+"MX":[-0.859,-0.511,-0.511,0.859,125.75,227.75]
+}},
+{"SI":{
+"SN":"sonic mic grab frame",
+"FF":0,
+"ST":"G",
+"TRP":{"x":-11.15,"y":271.45},
+"LP":"LP",
+"MX":[-0.61,-0.792,-0.792,0.61,83.65,295.25]
+}},
+{"SI":{
+"SN":"sonic mic",
+"FF":0,
+"ST":"G",
+"TRP":{"x":106.05,"y":462.65},
+"LP":"LP",
+"MX":[0.998,0.056,-0.056,0.998,17.3,411.6]
+}}]}
+]},{
+"LN":"sonic idle head",
+"FR":[
+{
+"I":0,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic idle head",
+"FF":0,
+"ST":"G",
+"TRP":{"x":98.8,"y":119.9},
+"LP":"LP",
+"MX":[-0.998,0.066,0.066,0.998,251.4,-4.4]
+}},
+{"SI":{
+"SN":"sonic shock face",
+"FF":0,
+"ST":"G",
+"TRP":{"x":150.05,"y":147.25},
+"LP":"LP",
+"MX":[0.966,-0.258,0.258,0.966,50.95,95.55]
+}}]},{
+"I":2,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic idle head",
+"FF":0,
+"ST":"G",
+"TRP":{"x":96.05,"y":125.1},
+"LP":"LP",
+"MX":[-0.995,0.1,0.1,0.995,244.25,-4.4]
+}},
+{"SI":{
+"SN":"sonic shock face",
+"FF":0,
+"ST":"G",
+"TRP":{"x":148.2,"y":150.65},
+"LP":"LP",
+"MX":[0.957,-0.291,0.291,0.957,47.35,102.4]
+}}]},{
+"I":4,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic idle head",
+"FF":0,
+"ST":"G",
+"TRP":{"x":96.7,"y":122.5},
+"LP":"LP",
+"MX":[-0.995,0.1,0.1,0.995,244.9,-7]
+}},
+{"SI":{
+"SN":"sonic shock face",
+"FF":0,
+"ST":"G",
+"TRP":{"x":148.85,"y":148.05},
+"LP":"LP",
+"MX":[0.957,-0.291,0.291,0.957,48,99.8]
+}}]},{
+"I":6,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic idle head",
+"FF":0,
+"ST":"G",
+"TRP":{"x":96.05,"y":125.1},
+"LP":"LP",
+"MX":[-0.995,0.1,0.1,0.995,244.25,-4.4]
+}},
+{"SI":{
+"SN":"sonic shock face",
+"FF":0,
+"ST":"G",
+"TRP":{"x":148.2,"y":150.65},
+"LP":"LP",
+"MX":[0.957,-0.291,0.291,0.957,47.35,102.4]
+}}]},{
+"I":8,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic idle head",
+"FF":0,
+"ST":"G",
+"TRP":{"x":98.8,"y":119.9},
+"LP":"LP",
+"MX":[-0.998,0.066,0.066,0.998,251.4,-4.4]
+}},
+{"SI":{
+"SN":"sonic shock face",
+"FF":0,
+"ST":"G",
+"TRP":{"x":150.05,"y":147.25},
+"LP":"LP",
+"MX":[0.966,-0.258,0.258,0.966,50.95,95.55]
+}}]},{
+"I":10,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic idle head",
+"FF":0,
+"ST":"G",
+"TRP":{"x":96.05,"y":125.1},
+"LP":"LP",
+"MX":[-0.995,0.1,0.1,0.995,244.25,-4.4]
+}},
+{"SI":{
+"SN":"sonic shock face",
+"FF":0,
+"ST":"G",
+"TRP":{"x":148.2,"y":150.65},
+"LP":"LP",
+"MX":[0.957,-0.291,0.291,0.957,47.35,102.4]
+}}]},{
+"I":12,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic idle head",
+"FF":0,
+"ST":"G",
+"TRP":{"x":98.8,"y":119.9},
+"LP":"LP",
+"MX":[-0.998,0.066,0.066,0.998,251.4,-4.4]
+}},
+{"SI":{
+"SN":"sonic shock face",
+"FF":0,
+"ST":"G",
+"TRP":{"x":150.05,"y":147.25},
+"LP":"LP",
+"MX":[0.966,-0.258,0.258,0.966,50.95,95.55]
+}}]},{
+"I":14,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic idle head",
+"FF":0,
+"ST":"G",
+"TRP":{"x":96.05,"y":125.1},
+"LP":"LP",
+"MX":[-0.995,0.1,0.1,0.995,244.25,-4.4]
+}},
+{"SI":{
+"SN":"sonic shock face",
+"FF":0,
+"ST":"G",
+"TRP":{"x":148.2,"y":150.65},
+"LP":"LP",
+"MX":[0.957,-0.291,0.291,0.957,47.35,102.4]
+}}]},{
+"I":16,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic idle head",
+"FF":0,
+"ST":"G",
+"TRP":{"x":96.7,"y":122.5},
+"LP":"LP",
+"MX":[-0.995,0.1,0.1,0.995,244.9,-7]
+}},
+{"SI":{
+"SN":"sonic shock face",
+"FF":0,
+"ST":"G",
+"TRP":{"x":148.85,"y":148.05},
+"LP":"LP",
+"MX":[0.957,-0.291,0.291,0.957,48,99.8]
+}}]},{
+"I":18,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic idle head",
+"FF":0,
+"ST":"G",
+"TRP":{"x":96.05,"y":125.1},
+"LP":"LP",
+"MX":[-0.995,0.1,0.1,0.995,244.25,-4.4]
+}},
+{"SI":{
+"SN":"sonic shock face",
+"FF":0,
+"ST":"G",
+"TRP":{"x":148.2,"y":150.65},
+"LP":"LP",
+"MX":[0.957,-0.291,0.291,0.957,47.35,102.4]
+}}]},{
+"I":20,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic idle head",
+"FF":0,
+"ST":"G",
+"TRP":{"x":98.8,"y":119.9},
+"LP":"LP",
+"MX":[-0.998,0.066,0.066,0.998,251.4,-4.4]
+}},
+{"SI":{
+"SN":"sonic shock face",
+"FF":0,
+"ST":"G",
+"TRP":{"x":150.05,"y":147.25},
+"LP":"LP",
+"MX":[0.966,-0.258,0.258,0.966,50.95,95.55]
+}}]},{
+"I":22,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic idle head",
+"FF":0,
+"ST":"G",
+"TRP":{"x":96.05,"y":125.1},
+"LP":"LP",
+"MX":[-0.995,0.1,0.1,0.995,244.25,-4.4]
+}},
+{"SI":{
+"SN":"sonic shock face",
+"FF":0,
+"ST":"G",
+"TRP":{"x":148.2,"y":150.65},
+"LP":"LP",
+"MX":[0.957,-0.291,0.291,0.957,47.35,102.4]
+}}]},{
+"I":24,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic idle head",
+"FF":0,
+"ST":"G",
+"TRP":{"x":98.8,"y":119.9},
+"LP":"LP",
+"MX":[-0.998,0.066,0.066,0.998,251.4,-4.4]
+}},
+{"SI":{
+"SN":"sonic shock face",
+"FF":0,
+"ST":"G",
+"TRP":{"x":150.05,"y":147.25},
+"LP":"LP",
+"MX":[0.966,-0.258,0.258,0.966,50.95,95.55]
+}}]},{
+"I":26,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic idle head",
+"FF":0,
+"ST":"G",
+"TRP":{"x":96.05,"y":125.1},
+"LP":"LP",
+"MX":[-0.995,0.1,0.1,0.995,244.25,-4.4]
+}},
+{"SI":{
+"SN":"sonic shock face",
+"FF":0,
+"ST":"G",
+"TRP":{"x":148.2,"y":150.65},
+"LP":"LP",
+"MX":[0.957,-0.291,0.291,0.957,47.35,102.4]
+}}]},{
+"I":28,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic idle head",
+"FF":0,
+"ST":"G",
+"TRP":{"x":96.7,"y":122.5},
+"LP":"LP",
+"MX":[-0.995,0.1,0.1,0.995,244.9,-7]
+}},
+{"SI":{
+"SN":"sonic shock face",
+"FF":0,
+"ST":"G",
+"TRP":{"x":148.85,"y":148.05},
+"LP":"LP",
+"MX":[0.957,-0.291,0.291,0.957,48,99.8]
+}}]},{
+"I":30,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic idle head",
+"FF":0,
+"ST":"G",
+"TRP":{"x":96.05,"y":125.1},
+"LP":"LP",
+"MX":[-0.995,0.1,0.1,0.995,244.25,-4.4]
+}},
+{"SI":{
+"SN":"sonic shock face",
+"FF":0,
+"ST":"G",
+"TRP":{"x":148.2,"y":150.65},
+"LP":"LP",
+"MX":[0.957,-0.291,0.291,0.957,47.35,102.4]
+}}]},{
+"I":32,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic idle head",
+"FF":0,
+"ST":"G",
+"TRP":{"x":98.8,"y":119.9},
+"LP":"LP",
+"MX":[-0.998,0.066,0.066,0.998,251.4,-4.4]
+}},
+{"SI":{
+"SN":"sonic shock face",
+"FF":0,
+"ST":"G",
+"TRP":{"x":150.05,"y":147.25},
+"LP":"LP",
+"MX":[0.966,-0.258,0.258,0.966,50.95,95.55]
+}}]},{
+"I":34,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic idle head",
+"FF":0,
+"ST":"G",
+"TRP":{"x":96.05,"y":125.1},
+"LP":"LP",
+"MX":[-0.995,0.1,0.1,0.995,244.25,-4.4]
+}},
+{"SI":{
+"SN":"sonic shock face",
+"FF":0,
+"ST":"G",
+"TRP":{"x":148.2,"y":150.65},
+"LP":"LP",
+"MX":[0.957,-0.291,0.291,0.957,47.35,102.4]
+}}]},{
+"I":36,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic idle head",
+"FF":0,
+"ST":"G",
+"TRP":{"x":98.8,"y":119.9},
+"LP":"LP",
+"MX":[-0.998,0.066,0.066,0.998,251.4,-4.4]
+}},
+{"SI":{
+"SN":"sonic shock face",
+"FF":0,
+"ST":"G",
+"TRP":{"x":150.05,"y":147.25},
+"LP":"LP",
+"MX":[0.966,-0.258,0.258,0.966,50.95,95.55]
+}}]},{
+"I":38,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic idle head",
+"FF":0,
+"ST":"G",
+"TRP":{"x":96.05,"y":125.1},
+"LP":"LP",
+"MX":[-0.995,0.1,0.1,0.995,244.25,-4.4]
+}},
+{"SI":{
+"SN":"sonic shock face",
+"FF":0,
+"ST":"G",
+"TRP":{"x":148.2,"y":150.65},
+"LP":"LP",
+"MX":[0.957,-0.291,0.291,0.957,47.35,102.4]
+}}]},{
+"I":40,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic idle head",
+"FF":0,
+"ST":"G",
+"TRP":{"x":96.7,"y":122.5},
+"LP":"LP",
+"MX":[-0.995,0.1,0.1,0.995,244.9,-7]
+}},
+{"SI":{
+"SN":"sonic shock face",
+"FF":0,
+"ST":"G",
+"TRP":{"x":148.85,"y":148.05},
+"LP":"LP",
+"MX":[0.957,-0.291,0.291,0.957,48,99.8]
+}}]},{
+"I":42,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic idle head",
+"FF":0,
+"ST":"G",
+"TRP":{"x":96.05,"y":125.1},
+"LP":"LP",
+"MX":[-0.995,0.1,0.1,0.995,244.25,-4.4]
+}},
+{"SI":{
+"SN":"sonic shock face",
+"FF":0,
+"ST":"G",
+"TRP":{"x":148.2,"y":150.65},
+"LP":"LP",
+"MX":[0.957,-0.291,0.291,0.957,47.35,102.4]
+}}]},{
+"I":44,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic idle head",
+"FF":0,
+"ST":"G",
+"TRP":{"x":98.8,"y":119.9},
+"LP":"LP",
+"MX":[-0.998,0.066,0.066,0.998,251.4,-4.4]
+}},
+{"SI":{
+"SN":"sonic shock face",
+"FF":0,
+"ST":"G",
+"TRP":{"x":150.05,"y":147.25},
+"LP":"LP",
+"MX":[0.966,-0.258,0.258,0.966,50.95,95.55]
+}}]},{
+"I":46,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic idle head",
+"FF":0,
+"ST":"G",
+"TRP":{"x":96.05,"y":125.1},
+"LP":"LP",
+"MX":[-0.995,0.1,0.1,0.995,244.25,-4.4]
+}},
+{"SI":{
+"SN":"sonic shock face",
+"FF":0,
+"ST":"G",
+"TRP":{"x":148.2,"y":150.65},
+"LP":"LP",
+"MX":[0.957,-0.291,0.291,0.957,47.35,102.4]
+}}]},{
+"I":47,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic idle head",
+"FF":1,
+"ST":"G",
+"TRP":{"x":96.05,"y":125.1},
+"LP":"LP",
+"MX":[-0.995,0.1,0.1,0.995,244.25,-4.4]
+}},
+{"SI":{
+"SN":"sonic shock face",
+"FF":0,
+"ST":"G",
+"TRP":{"x":148.2,"y":150.65},
+"LP":"LP",
+"MX":[0.957,-0.291,0.291,0.957,47.35,102.4]
+}}]}
+]},{
+"LN":"sonic body",
+"FR":[
+{
+"I":0,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"sonic kickback leg",
+"FF":0,
+"ST":"G",
+"TRP":{"x":314.3,"y":303.5},
+"LP":"LP",
+"MX":[-0.959,0,0,0.959,430.3,201.05]
+}},
+{"SI":{
+"SN":"sonic kickback bod",
+"FF":0,
+"ST":"G",
+"TRP":{"x":131.8,"y":343.1},
+"LP":"LP",
+"MX":[-0.959,0,0,0.959,230.85,201.05]
+}}]},{
+"I":2,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"sonic kickback leg",
+"FF":0,
+"ST":"G",
+"TRP":{"x":244.4,"y":291.95},
+"LP":"LP",
+"MX":[-0.955,0.083,0.083,0.955,426.7,176.5]
+}},
+{"SI":{
+"SN":"sonic kickback bod",
+"FF":0,
+"ST":"G",
+"TRP":{"x":131.3,"y":485.4},
+"LP":"LP",
+"MX":[-0.996,0,0,0.937,234.75,207.45]
+}}]},{
+"I":4,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"sonic kickback leg",
+"FF":0,
+"ST":"G",
+"TRP":{"x":242.45,"y":295.8},
+"LP":"LP",
+"MX":[-0.959,-0.017,-0.017,0.959,435.85,199.95]
+}},
+{"SI":{
+"SN":"sonic kickback bod",
+"FF":0,
+"ST":"G",
+"TRP":{"x":131.3,"y":485.4},
+"LP":"LP",
+"MX":[-0.996,0,0,0.952,234.75,202.95]
+}}]},{
+"I":6,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"sonic kickback leg",
+"FF":0,
+"ST":"G",
+"TRP":{"x":244.4,"y":291.95},
+"LP":"LP",
+"MX":[-0.955,0.083,0.083,0.955,426.7,176.5]
+}},
+{"SI":{
+"SN":"sonic kickback bod",
+"FF":0,
+"ST":"G",
+"TRP":{"x":131.3,"y":485.4},
+"LP":"LP",
+"MX":[-0.996,0,0,0.937,234.75,207.45]
+}}]},{
+"I":8,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"sonic kickback leg",
+"FF":0,
+"ST":"G",
+"TRP":{"x":314.3,"y":303.5},
+"LP":"LP",
+"MX":[-0.959,0,0,0.959,430.3,201.05]
+}},
+{"SI":{
+"SN":"sonic kickback bod",
+"FF":0,
+"ST":"G",
+"TRP":{"x":131.8,"y":343.1},
+"LP":"LP",
+"MX":[-0.959,0,0,0.959,230.85,201.05]
+}}]},{
+"I":10,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"sonic kickback leg",
+"FF":0,
+"ST":"G",
+"TRP":{"x":244.4,"y":291.95},
+"LP":"LP",
+"MX":[-0.955,0.083,0.083,0.955,426.7,176.5]
+}},
+{"SI":{
+"SN":"sonic kickback bod",
+"FF":0,
+"ST":"G",
+"TRP":{"x":131.3,"y":485.4},
+"LP":"LP",
+"MX":[-0.996,0,0,0.937,234.75,207.45]
+}}]},{
+"I":12,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"sonic kickback leg",
+"FF":0,
+"ST":"G",
+"TRP":{"x":314.3,"y":303.5},
+"LP":"LP",
+"MX":[-0.959,0,0,0.959,430.3,201.05]
+}},
+{"SI":{
+"SN":"sonic kickback bod",
+"FF":0,
+"ST":"G",
+"TRP":{"x":131.8,"y":343.1},
+"LP":"LP",
+"MX":[-0.959,0,0,0.959,230.85,201.05]
+}}]},{
+"I":14,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"sonic kickback leg",
+"FF":0,
+"ST":"G",
+"TRP":{"x":244.4,"y":291.95},
+"LP":"LP",
+"MX":[-0.955,0.083,0.083,0.955,426.7,176.5]
+}},
+{"SI":{
+"SN":"sonic kickback bod",
+"FF":0,
+"ST":"G",
+"TRP":{"x":131.3,"y":485.4},
+"LP":"LP",
+"MX":[-0.996,0,0,0.937,234.75,207.45]
+}}]},{
+"I":16,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"sonic kickback leg",
+"FF":0,
+"ST":"G",
+"TRP":{"x":242.45,"y":295.8},
+"LP":"LP",
+"MX":[-0.959,-0.017,-0.017,0.959,435.85,199.95]
+}},
+{"SI":{
+"SN":"sonic kickback bod",
+"FF":0,
+"ST":"G",
+"TRP":{"x":131.3,"y":485.4},
+"LP":"LP",
+"MX":[-0.996,0,0,0.952,234.75,202.95]
+}}]},{
+"I":18,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"sonic kickback leg",
+"FF":0,
+"ST":"G",
+"TRP":{"x":244.4,"y":291.95},
+"LP":"LP",
+"MX":[-0.955,0.083,0.083,0.955,426.7,176.5]
+}},
+{"SI":{
+"SN":"sonic kickback bod",
+"FF":0,
+"ST":"G",
+"TRP":{"x":131.3,"y":485.4},
+"LP":"LP",
+"MX":[-0.996,0,0,0.937,234.75,207.45]
+}}]},{
+"I":20,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"sonic kickback leg",
+"FF":0,
+"ST":"G",
+"TRP":{"x":314.3,"y":303.5},
+"LP":"LP",
+"MX":[-0.959,0,0,0.959,430.3,201.05]
+}},
+{"SI":{
+"SN":"sonic kickback bod",
+"FF":0,
+"ST":"G",
+"TRP":{"x":131.8,"y":343.1},
+"LP":"LP",
+"MX":[-0.959,0,0,0.959,230.85,201.05]
+}}]},{
+"I":22,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"sonic kickback leg",
+"FF":0,
+"ST":"G",
+"TRP":{"x":244.4,"y":291.95},
+"LP":"LP",
+"MX":[-0.955,0.083,0.083,0.955,426.7,176.5]
+}},
+{"SI":{
+"SN":"sonic kickback bod",
+"FF":0,
+"ST":"G",
+"TRP":{"x":131.3,"y":485.4},
+"LP":"LP",
+"MX":[-0.996,0,0,0.937,234.75,207.45]
+}}]},{
+"I":24,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"sonic kickback leg",
+"FF":0,
+"ST":"G",
+"TRP":{"x":314.3,"y":303.5},
+"LP":"LP",
+"MX":[-0.959,0,0,0.959,430.3,201.05]
+}},
+{"SI":{
+"SN":"sonic kickback bod",
+"FF":0,
+"ST":"G",
+"TRP":{"x":131.8,"y":343.1},
+"LP":"LP",
+"MX":[-0.959,0,0,0.959,230.85,201.05]
+}}]},{
+"I":26,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"sonic kickback leg",
+"FF":0,
+"ST":"G",
+"TRP":{"x":244.4,"y":291.95},
+"LP":"LP",
+"MX":[-0.955,0.083,0.083,0.955,426.7,176.5]
+}},
+{"SI":{
+"SN":"sonic kickback bod",
+"FF":0,
+"ST":"G",
+"TRP":{"x":131.3,"y":485.4},
+"LP":"LP",
+"MX":[-0.996,0,0,0.937,234.75,207.45]
+}}]},{
+"I":28,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"sonic kickback leg",
+"FF":0,
+"ST":"G",
+"TRP":{"x":242.45,"y":295.8},
+"LP":"LP",
+"MX":[-0.959,-0.017,-0.017,0.959,435.85,199.95]
+}},
+{"SI":{
+"SN":"sonic kickback bod",
+"FF":0,
+"ST":"G",
+"TRP":{"x":131.3,"y":485.4},
+"LP":"LP",
+"MX":[-0.996,0,0,0.952,234.75,202.95]
+}}]},{
+"I":30,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"sonic kickback leg",
+"FF":0,
+"ST":"G",
+"TRP":{"x":244.4,"y":291.95},
+"LP":"LP",
+"MX":[-0.955,0.083,0.083,0.955,426.7,176.5]
+}},
+{"SI":{
+"SN":"sonic kickback bod",
+"FF":0,
+"ST":"G",
+"TRP":{"x":131.3,"y":485.4},
+"LP":"LP",
+"MX":[-0.996,0,0,0.937,234.75,207.45]
+}}]},{
+"I":32,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"sonic kickback leg",
+"FF":0,
+"ST":"G",
+"TRP":{"x":314.3,"y":303.5},
+"LP":"LP",
+"MX":[-0.959,0,0,0.959,430.3,201.05]
+}},
+{"SI":{
+"SN":"sonic kickback bod",
+"FF":0,
+"ST":"G",
+"TRP":{"x":131.8,"y":343.1},
+"LP":"LP",
+"MX":[-0.959,0,0,0.959,230.85,201.05]
+}}]},{
+"I":34,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"sonic kickback leg",
+"FF":0,
+"ST":"G",
+"TRP":{"x":244.4,"y":291.95},
+"LP":"LP",
+"MX":[-0.955,0.083,0.083,0.955,426.7,176.5]
+}},
+{"SI":{
+"SN":"sonic kickback bod",
+"FF":0,
+"ST":"G",
+"TRP":{"x":131.3,"y":485.4},
+"LP":"LP",
+"MX":[-0.996,0,0,0.937,234.75,207.45]
+}}]},{
+"I":36,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"sonic kickback leg",
+"FF":0,
+"ST":"G",
+"TRP":{"x":314.3,"y":303.5},
+"LP":"LP",
+"MX":[-0.959,0,0,0.959,430.3,201.05]
+}},
+{"SI":{
+"SN":"sonic kickback bod",
+"FF":0,
+"ST":"G",
+"TRP":{"x":131.8,"y":343.1},
+"LP":"LP",
+"MX":[-0.959,0,0,0.959,230.85,201.05]
+}}]},{
+"I":38,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"sonic kickback leg",
+"FF":0,
+"ST":"G",
+"TRP":{"x":244.4,"y":291.95},
+"LP":"LP",
+"MX":[-0.955,0.083,0.083,0.955,426.7,176.5]
+}},
+{"SI":{
+"SN":"sonic kickback bod",
+"FF":0,
+"ST":"G",
+"TRP":{"x":131.3,"y":485.4},
+"LP":"LP",
+"MX":[-0.996,0,0,0.937,234.75,207.45]
+}}]},{
+"I":40,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"sonic kickback leg",
+"FF":0,
+"ST":"G",
+"TRP":{"x":242.45,"y":295.8},
+"LP":"LP",
+"MX":[-0.959,-0.017,-0.017,0.959,435.85,199.95]
+}},
+{"SI":{
+"SN":"sonic kickback bod",
+"FF":0,
+"ST":"G",
+"TRP":{"x":131.3,"y":485.4},
+"LP":"LP",
+"MX":[-0.996,0,0,0.952,234.75,202.95]
+}}]},{
+"I":42,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"sonic kickback leg",
+"FF":0,
+"ST":"G",
+"TRP":{"x":244.4,"y":291.95},
+"LP":"LP",
+"MX":[-0.955,0.083,0.083,0.955,426.7,176.5]
+}},
+{"SI":{
+"SN":"sonic kickback bod",
+"FF":0,
+"ST":"G",
+"TRP":{"x":131.3,"y":485.4},
+"LP":"LP",
+"MX":[-0.996,0,0,0.937,234.75,207.45]
+}}]},{
+"I":44,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"sonic kickback leg",
+"FF":0,
+"ST":"G",
+"TRP":{"x":314.3,"y":303.5},
+"LP":"LP",
+"MX":[-0.959,0,0,0.959,430.3,201.05]
+}},
+{"SI":{
+"SN":"sonic kickback bod",
+"FF":0,
+"ST":"G",
+"TRP":{"x":131.8,"y":343.1},
+"LP":"LP",
+"MX":[-0.959,0,0,0.959,230.85,201.05]
+}}]},{
+"I":46,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"sonic kickback leg",
+"FF":0,
+"ST":"G",
+"TRP":{"x":244.4,"y":291.95},
+"LP":"LP",
+"MX":[-0.955,0.083,0.083,0.955,426.7,176.5]
+}},
+{"SI":{
+"SN":"sonic kickback bod",
+"FF":0,
+"ST":"G",
+"TRP":{"x":131.3,"y":485.4},
+"LP":"LP",
+"MX":[-0.996,0,0,0.937,234.75,207.45]
+}}]},{
+"I":47,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"sonic kickback leg",
+"FF":0,
+"ST":"G",
+"TRP":{"x":244.4,"y":291.95},
+"LP":"LP",
+"MX":[-0.955,0.083,0.083,0.955,426.7,176.5]
+}},
+{"SI":{
+"SN":"sonic kickback bod",
+"FF":0,
+"ST":"G",
+"TRP":{"x":131.3,"y":485.4},
+"LP":"LP",
+"MX":[-0.996,0,0,0.937,234.75,207.45]
+}}]}
+]},{
+"LN":"sonic snap arm",
+"FR":[
+{
+"I":0,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"sonic sway hand",
+"FF":0,
+"ST":"G",
+"TRP":{"x":255.4,"y":150.75},
+"LP":"LP",
+"MX":[1.04,0.414,-0.414,1.04,217.25,70.9]
+}}]},{
+"I":2,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"sonic sway hand",
+"FF":0,
+"ST":"G",
+"TRP":{"x":250.25,"y":122.55},
+"LP":"LP",
+"MX":[1.112,0.121,-0.121,1.112,192.1,55.75]
+}}]},{
+"I":4,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"sonic sway hand",
+"FF":0,
+"ST":"G",
+"TRP":{"x":209.85,"y":103.95},
+"LP":"LP",
+"MX":[1.029,0.441,-0.441,1.029,173.7,23.1]
+}}]},{
+"I":6,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"sonic sway hand",
+"FF":0,
+"ST":"G",
+"TRP":{"x":166.9,"y":133.4},
+"LP":"LP",
+"MX":[1.029,0.441,-0.441,1.029,130.75,52.55]
+}}]},{
+"I":8,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"sonic sway hand",
+"FF":0,
+"ST":"G",
+"TRP":{"x":181,"y":205.25},
+"LP":"LP",
+"MX":[1.082,-0.285,0.285,1.082,102.75,163.75]
+}}]},{
+"I":10,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"sonic sway hand",
+"FF":0,
+"ST":"G",
+"TRP":{"x":234.9,"y":195},
+"LP":"LP",
+"MX":[1.029,0.441,-0.441,1.029,198.75,114.15]
+}}]},{
+"I":12,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"sonic sway hand",
+"FF":0,
+"ST":"G",
+"TRP":{"x":255.4,"y":150.75},
+"LP":"LP",
+"MX":[1.04,0.414,-0.414,1.04,217.25,70.9]
+}}]},{
+"I":14,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"sonic sway hand",
+"FF":0,
+"ST":"G",
+"TRP":{"x":250.25,"y":122.55},
+"LP":"LP",
+"MX":[1.112,0.121,-0.121,1.112,192.1,55.75]
+}}]},{
+"I":16,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"sonic sway hand",
+"FF":0,
+"ST":"G",
+"TRP":{"x":209.85,"y":103.95},
+"LP":"LP",
+"MX":[1.029,0.441,-0.441,1.029,173.7,23.1]
+}}]},{
+"I":18,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"sonic sway hand",
+"FF":0,
+"ST":"G",
+"TRP":{"x":166.9,"y":133.4},
+"LP":"LP",
+"MX":[1.029,0.441,-0.441,1.029,130.75,52.55]
+}}]},{
+"I":20,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"sonic sway hand",
+"FF":0,
+"ST":"G",
+"TRP":{"x":181,"y":205.25},
+"LP":"LP",
+"MX":[1.082,-0.285,0.285,1.082,102.75,163.75]
+}}]},{
+"I":22,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"sonic sway hand",
+"FF":0,
+"ST":"G",
+"TRP":{"x":234.9,"y":195},
+"LP":"LP",
+"MX":[1.029,0.441,-0.441,1.029,198.75,114.15]
+}}]},{
+"I":24,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"sonic sway hand",
+"FF":0,
+"ST":"G",
+"TRP":{"x":255.4,"y":150.75},
+"LP":"LP",
+"MX":[1.04,0.414,-0.414,1.04,217.25,70.9]
+}}]},{
+"I":26,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"sonic sway hand",
+"FF":0,
+"ST":"G",
+"TRP":{"x":250.25,"y":122.55},
+"LP":"LP",
+"MX":[1.112,0.121,-0.121,1.112,192.1,55.75]
+}}]},{
+"I":28,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"sonic sway hand",
+"FF":0,
+"ST":"G",
+"TRP":{"x":209.85,"y":103.95},
+"LP":"LP",
+"MX":[1.029,0.441,-0.441,1.029,173.7,23.1]
+}}]},{
+"I":30,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"sonic sway hand",
+"FF":0,
+"ST":"G",
+"TRP":{"x":166.9,"y":133.4},
+"LP":"LP",
+"MX":[1.029,0.441,-0.441,1.029,130.75,52.55]
+}}]},{
+"I":32,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"sonic sway hand",
+"FF":0,
+"ST":"G",
+"TRP":{"x":181,"y":205.25},
+"LP":"LP",
+"MX":[1.082,-0.285,0.285,1.082,102.75,163.75]
+}}]},{
+"I":34,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"sonic sway hand",
+"FF":0,
+"ST":"G",
+"TRP":{"x":234.9,"y":195},
+"LP":"LP",
+"MX":[1.029,0.441,-0.441,1.029,198.75,114.15]
+}}]},{
+"I":36,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"sonic sway hand",
+"FF":0,
+"ST":"G",
+"TRP":{"x":255.4,"y":150.75},
+"LP":"LP",
+"MX":[1.04,0.414,-0.414,1.04,217.25,70.9]
+}}]},{
+"I":38,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"sonic sway hand",
+"FF":0,
+"ST":"G",
+"TRP":{"x":250.25,"y":122.55},
+"LP":"LP",
+"MX":[1.112,0.121,-0.121,1.112,192.1,55.75]
+}}]},{
+"I":40,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"sonic sway hand",
+"FF":0,
+"ST":"G",
+"TRP":{"x":209.85,"y":103.95},
+"LP":"LP",
+"MX":[1.029,0.441,-0.441,1.029,173.7,23.1]
+}}]},{
+"I":42,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"sonic sway hand",
+"FF":0,
+"ST":"G",
+"TRP":{"x":166.9,"y":133.4},
+"LP":"LP",
+"MX":[1.029,0.441,-0.441,1.029,130.75,52.55]
+}}]},{
+"I":44,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"sonic sway hand",
+"FF":0,
+"ST":"G",
+"TRP":{"x":181,"y":205.25},
+"LP":"LP",
+"MX":[1.082,-0.285,0.285,1.082,102.75,163.75]
+}}]},{
+"I":46,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"sonic sway hand",
+"FF":0,
+"ST":"G",
+"TRP":{"x":234.9,"y":195},
+"LP":"LP",
+"MX":[1.029,0.441,-0.441,1.029,198.75,114.15]
+}}]},{
+"I":47,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"sonic sway hand",
+"FF":0,
+"ST":"G",
+"TRP":{"x":234.9,"y":195},
+"LP":"LP",
+"MX":[1.029,0.441,-0.441,1.029,198.75,114.15]
+}}]}
+]}
+]}},{
+"SN":"sonic grab arm",
+"TL":{
+"L":[
+{
+"LN":"Layer 1",
+"FR":[
+{
+"I":0,
+"DU":1,
+"E":[
+{"ASI":{
+"MX":[1,0,0,1,0,0],
+"N":"104"
+}}]}
+]}
+]}},{
+"SN":"sonic grab mic ",
+"TL":{
+"L":[
+{
+"LN":"Layer 1",
+"FR":[
+{
+"I":0,
+"DU":1,
+"E":[]
+}
+]}
+]}},{
+"SN":"sonic mic grab frame",
+"TL":{
+"L":[
+{
+"LN":"Layer 1",
+"FR":[
+{
+"I":0,
+"DU":1,
+"E":[
+{"ASI":{
+"MX":[1,0,0,1,0,0],
+"N":"105"
+}}]}
+]}
+]}},{
+"SN":"sonic mic",
+"TL":{
+"L":[
+{
+"LN":"Layer 1",
+"FR":[
+{
+"I":0,
+"DU":1,
+"E":[
+{"ASI":{
+"MX":[1,0,0,1,0,0],
+"N":"106"
+}}]}
+]}
+]}},{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic idle head",
+"TL":{
+"L":[
+{"LN":"Layer 1",
+"FR":[
+{"I":0,
+"DU":2,
+"E":[
+{"ASI":{
+"MX":[1,0,0,1,3,0.5],
+"N":"64"
+}}]}]}]}},{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic scrunch face",
+"TL":{
+"L":[
+{
+"LN":"Layer 1",
+"FR":[
+{
+"I":0,
+"DU":1,
+"E":[
+{"ASI":{
+"MX":[0.953,0,0,0.999,0,0],
+"N":"107"
+}}]}
+]}
+]}},{
+"SN":"sonic shock face",
+"TL":{
+"L":[
+{
+"LN":"Layer 1",
+"FR":[
+{
+"I":0,
+"DU":1,
+"E":[
+{"ASI":{
+"MX":[1,0,0,1,0,0],
+"N":"108"
+}}]}
+]}
+]}},{
+"SN":"sonic kickback leg",
+"TL":{
+"L":[
+{
+"LN":"Layer 1",
+"FR":[
+{
+"I":0,
+"DU":1,
+"E":[
+{"ASI":{
+"MX":[1.043,0,0,1.036,0,0],
+"N":"109"
+}}]}
+]}
+]}},{
+"SN":"sonic kickback bod",
+"TL":{
+"L":[
+{
+"LN":"Layer 1",
+"FR":[
+{
+"I":0,
+"DU":1,
+"E":[
+{"ASI":{
+"MX":[1.004,0,0,1.043,0,0],
+"N":"110"
+}}]}
+]}
+]}},{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic hand raise",
+"TL":{
+"L":[
+{
+"LN":"Layer 1",
+"FR":[
+{
+"I":0,
+"DU":1,
+"E":[
+{"ASI":{
+"MX":[1,0,0,1,0,0],
+"N":"111"
+}}]}
+]}
+]}},{
+"SN":"sonic sway hand",
+"TL":{
+"L":[
+{
+"LN":"Layer 1",
+"FR":[
+{
+"I":0,
+"DU":1,
+"E":[
+{"ASI":{
+"MX":[0.894,0,0,0.894,0,0],
+"N":"112"
+}}]}
+]}
+]}},{
+"SN":"sonic coughing",
+"TL":{
+"L":[
+{
+"LN":"Layer 1",
+"FR":[
+{
+"I":0,
+"DU":4,
+"E":[
+{"SI":{
+"SN":"sonic cough arm bg",
+"FF":0,
+"ST":"G",
+"TRP":{"x":378.95,"y":281.95},
+"LP":"LP",
+"MX":[1,0.03,-0.03,1,275.2,202.35]
+}},
+{"SI":{
+"SN":"sonic left body",
+"FF":2,
+"ST":"G",
+"TRP":{"x":233.45,"y":346.8},
+"LP":"SF",
+"MX":[-1,0,-0.056,1,436.75,210.65]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic ring necklace loop",
+"FF":13,
+"ST":"G",
+"TRP":{"x":278.45,"y":248.25},
+"LP":"LP",
+"MX":[-0.613,-0.325,-0.925,1.147,320.55,258.4]
+}},
+{"SI":{
+"SN":"sonic mic",
+"FF":0,
+"ST":"G",
+"TRP":{"x":106.05,"y":462.65},
+"LP":"LP",
+"MX":[0.998,0.056,-0.056,0.998,17.3,411.6]
+}},
+{"SI":{
+"SN":"sonic cough head 2",
+"FF":0,
+"ST":"G",
+"TRP":{"x":269.65,"y":140.55},
+"LP":"LP",
+"MX":[0.998,0.06,-0.06,0.998,105.25,12.65]
+}},
+{"SI":{
+"SN":"sonic cough arm",
+"FF":0,
+"ST":"G",
+"TRP":{"x":176.45,"y":221.75},
+"LP":"LP",
+"MX":[0.997,0.083,-0.083,0.997,125.8,181.65]
+}},
+{"SI":{
+"SN":"sonic cough hand",
+"FF":0,
+"ST":"G",
+"TRP":{"x":117.05,"y":242.7},
+"LP":"LP",
+"MX":[0.969,0.249,-0.249,0.969,45.5,175.5]
+}},
+{"SI":{
+"SN":"sonic coughing tongue",
+"FF":0,
+"ST":"G",
+"TRP":{"x":286.3,"y":229.7},
+"LP":"LP",
+"MX":[1.018,-0.164,-0.204,0.962,234,221.75]
+}},
+{"SI":{
+"SN":"sonic cough fist",
+"FF":0,
+"ST":"G",
+"TRP":{"x":347.1,"y":282.15},
+"LP":"LP",
+"MX":[0.992,-0.127,0.127,0.992,293.6,245.85]
+}}]},{
+"I":4,
+"DU":2,
+"E":[
+{"SI":{
+"SN":"sonic cough arm bg",
+"FF":0,
+"ST":"G",
+"TRP":{"x":366.5,"y":256.2},
+"LP":"LP",
+"MX":[1,0,0,1,297.5,198.7]
+}},
+{"SI":{
+"SN":"sonic left body",
+"FF":2,
+"ST":"G",
+"TRP":{"x":225.85,"y":346.8},
+"LP":"SF",
+"MX":[-1,0,0,1,421.6,210.65]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic ring necklace loop",
+"FF":13,
+"ST":"G",
+"TRP":{"x":265.5,"y":248.15},
+"LP":"LP",
+"MX":[-0.997,0.162,-0.628,1.109,327.3,230.7]
+}},
+{"SI":{
+"SN":"sonic cough head",
+"FF":0,
+"ST":"G",
+"TRP":{"x":257.75,"y":135.8},
+"LP":"LP",
+"MX":[0.996,0.091,-0.091,0.996,109.15,5.8]
+}},
+{"SI":{
+"SN":"sonic cough arm",
+"FF":0,
+"ST":"G",
+"TRP":{"x":178.6,"y":230.9},
+"LP":"LP",
+"MX":[1,0,0,1,124.85,195.1]
+}},
+{"SI":{
+"SN":"sonic cough hand",
+"FF":0,
+"ST":"G",
+"TRP":{"x":123,"y":263.6},
+"LP":"LP",
+"MX":[1,0,0,1,37.1,216.35]
+}},
+{"SI":{
+"SN":"sonic coughing tongue",
+"FF":0,
+"ST":"G",
+"TRP":{"x":262.25,"y":234.45},
+"LP":"LP",
+"MX":[1,0,0,1,228.6,210.45]
+}},
+{"SI":{
+"SN":"sonic cough fist",
+"FF":0,
+"ST":"G",
+"TRP":{"x":380.7,"y":277.35},
+"LP":"LP",
+"MX":[0.993,0.117,-0.117,0.993,337.6,229.2]
+}},
+{"SI":{
+"SN":"sonic mic",
+"FF":0,
+"ST":"G",
+"TRP":{"x":106.05,"y":462.65},
+"LP":"LP",
+"MX":[0.998,0.056,-0.056,0.998,17.3,411.6]
+}}]},{
+"I":6,
+"DU":3,
+"E":[
+{"SI":{
+"SN":"sonic cough arm bg",
+"FF":0,
+"ST":"G",
+"TRP":{"x":369.55,"y":255.55},
+"LP":"LP",
+"MX":[0.999,-0.035,0.035,0.999,298.55,200.5]
+}},
+{"SI":{
+"SN":"sonic left body",
+"FF":2,
+"ST":"G",
+"TRP":{"x":224.6,"y":346.8},
+"LP":"SF",
+"MX":[-1,0,0.009,1,419.15,210.65]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic ring necklace loop",
+"FF":1,
+"ST":"G",
+"TRP":{"x":263.45,"y":248.15},
+"LP":"LP",
+"MX":[-0.995,0.162,-0.618,1.109,325,230.7]
+}},
+{"SI":{
+"SN":"sonic cough head",
+"FF":0,
+"ST":"G",
+"TRP":{"x":256.5,"y":135.8},
+"LP":"LP",
+"MX":[0.997,0.074,-0.086,0.996,107,8.5]
+}},
+{"SI":{
+"SN":"sonic cough arm",
+"FF":0,
+"ST":"G",
+"TRP":{"x":180,"y":231.8},
+"LP":"LP",
+"MX":[1,-0.025,0.025,1,125.35,197.35]
+}},
+{"SI":{
+"SN":"sonic cough hand",
+"FF":0,
+"ST":"G",
+"TRP":{"x":125.2,"y":265.85},
+"LP":"LP",
+"MX":[1,-0.025,0.025,1,38.15,220.8]
+}},
+{"SI":{
+"SN":"sonic coughing tongue",
+"FF":0,
+"ST":"G",
+"TRP":{"x":280.75,"y":221.6},
+"LP":"LP",
+"MX":[1.005,0.055,0.076,1,226.65,207.4]
+}},
+{"SI":{
+"SN":"sonic cough fist",
+"FF":0,
+"ST":"G",
+"TRP":{"x":384.45,"y":276.2},
+"LP":"LP",
+"MX":[0.997,0.082,-0.082,0.997,339.7,229.55]
+}},
+{"SI":{
+"SN":"sonic mic",
+"FF":0,
+"ST":"G",
+"TRP":{"x":106.05,"y":462.65},
+"LP":"LP",
+"MX":[0.998,0.056,-0.056,0.998,17.3,411.6]
+}}]},{
+"I":9,
+"DU":1,
+"E":[
+{"SI":{
+"SN":"sonic cough arm bg",
+"FF":0,
+"ST":"G",
+"TRP":{"x":369.55,"y":255.55},
+"LP":"LP",
+"MX":[0.999,-0.035,0.035,0.999,298.55,200.5]
+}},
+{"SI":{
+"SN":"sonic left body",
+"FF":2,
+"ST":"G",
+"TRP":{"x":224.6,"y":346.8},
+"LP":"SF",
+"MX":[-1,0,0.009,1,419.15,210.65]
+}},
+{"SI":{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic ring necklace loop",
+"FF":3,
+"ST":"G",
+"TRP":{"x":263.45,"y":248.15},
+"LP":"LP",
+"MX":[-0.995,0.162,-0.618,1.109,325,230.7]
+}},
+{"SI":{
+"SN":"sonic cough head",
+"FF":0,
+"ST":"G",
+"TRP":{"x":256.5,"y":135.8},
+"LP":"LP",
+"MX":[0.997,0.074,-0.086,0.996,107,8.5]
+}},
+{"SI":{
+"SN":"sonic cough arm",
+"FF":0,
+"ST":"G",
+"TRP":{"x":180,"y":231.8},
+"LP":"LP",
+"MX":[1,-0.025,0.025,1,125.35,197.35]
+}},
+{"SI":{
+"SN":"sonic cough hand",
+"FF":0,
+"ST":"G",
+"TRP":{"x":125.2,"y":265.85},
+"LP":"LP",
+"MX":[1,-0.025,0.025,1,38.15,220.8]
+}},
+{"SI":{
+"SN":"sonic coughing tongue",
+"FF":0,
+"ST":"G",
+"TRP":{"x":280.75,"y":221.6},
+"LP":"LP",
+"MX":[1.005,0.055,0.076,1,226.65,207.4]
+}},
+{"SI":{
+"SN":"sonic cough fist",
+"FF":0,
+"ST":"G",
+"TRP":{"x":384.45,"y":276.2},
+"LP":"LP",
+"MX":[0.997,0.082,-0.082,0.997,339.7,229.55]
+}},
+{"SI":{
+"SN":"sonic mic",
+"FF":0,
+"ST":"G",
+"TRP":{"x":106.05,"y":462.65},
+"LP":"LP",
+"MX":[0.998,0.056,-0.056,0.998,17.3,411.6]
+}}]}
+]}
+]}},{
+"SN":"sonic cough arm bg",
+"TL":{
+"L":[
+{
+"LN":"Layer 1",
+"FR":[
+{
+"I":0,
+"DU":1,
+"E":[
+{"ASI":{
+"MX":[1,0,0,1,0,0],
+"N":"113"
+}}]}
+]}
+]}},{
+"SN":"sonic left body",
+"TL":{
+"L":[
+{
+"LN":"Layer 1",
+"FR":[
+{
+"I":0,
+"DU":2,
+"E":[
+{"ASI":{
+"MX":[1,0,0,0.997,-0.2,-1.5],
+"N":"114"
+}}]},{
+"I":2,
+"DU":2,
+"E":[
+{"ASI":{
+"MX":[1,0,0,0.997,0,0],
+"N":"115"
+}}]}
+]}
+]}},{
+"SN":"sonic cough head",
+"TL":{
+"L":[
+{
+"LN":"Layer 1",
+"FR":[
+{
+"I":0,
+"DU":1,
+"E":[
+{"ASI":{
+"MX":[1,0,0,1,0,0],
+"N":"116"
+}}]}
+]}
+]}},{
+"SN":"sonic cough arm",
+"TL":{
+"L":[
+{
+"LN":"Layer 1",
+"FR":[
+{
+"I":0,
+"DU":1,
+"E":[
+{"ASI":{
+"MX":[1,0,0,1,0,0],
+"N":"117"
+}}]}
+]}
+]}},{
+"SN":"sonic cough hand",
+"TL":{
+"L":[
+{
+"LN":"Layer 1",
+"FR":[
+{
+"I":0,
+"DU":1,
+"E":[
+{"ASI":{
+"MX":[1,0,0,1,0,0],
+"N":"118"
+}}]}
+]}
+]}},{
+"SN":"sonic coughing tongue",
+"TL":{
+"L":[
+{
+"LN":"Layer 1",
+"FR":[
+{
+"I":0,
+"DU":1,
+"E":[
+{"ASI":{
+"MX":[0.97,0,0,0.997,0,0],
+"N":"119"
+}}]}
+]}
+]}},{
+"SN":"sonic cough fist",
+"TL":{
+"L":[
+{
+"LN":"Layer 1",
+"FR":[
+{
+"I":0,
+"DU":1,
+"E":[
+{"ASI":{
+"MX":[1,0,0,1,0,0],
+"N":"120"
+}}]}
+]}
+]}},{
+"SN":"sonic angry arm bg",
+"TL":{
+"L":[
+{
+"LN":"Layer 1",
+"FR":[
+{
+"I":0,
+"DU":1,
+"E":[
+{"ASI":{
+"MX":[0.538,0,0,1,0,0],
+"N":"121"
+}}]}
+]}
+]}},{
+"SN":"sonic angry head",
+"TL":{
+"L":[
+{
+"LN":"Layer 1",
+"FR":[
+{
+"I":0,
+"DU":1,
+"E":[
+{"ASI":{
+"MX":[1.054,0,0,0.973,0,0],
+"N":"122"
+}}]}
+]}
+]}},{
+"SN":"sonic face angry",
+"TL":{
+"L":[
+{
+"LN":"Layer 1",
+"FR":[
+{
+"I":0,
+"DU":1,
+"E":[
+{"ASI":{
+"MX":[1.095,0,0,0.94,-0.25,-0.25],
+"N":"123"
+}}]}
+]}
+]}},{
+"SN":"sonic angry cuff",
+"TL":{
+"L":[
+{
+"LN":"Layer 1",
+"FR":[
+{
+"I":0,
+"DU":1,
+"E":[
+{"ASI":{
+"MX":[0.959,0,0,1,0,0],
+"N":"124"
+}}]}
+]}
+]}},{
+"SN":"sonic angry arm",
+"TL":{
+"L":[
+{
+"LN":"Layer 1",
+"FR":[
+{
+"I":0,
+"DU":1,
+"E":[
+{"ASI":{
+"MX":[0.901,0,0,0.897,0,0],
+"N":"125"
+}}]}
+]}
+]}},{
+"SN":"sonic angry hand",
+"TL":{
+"L":[
+{
+"LN":"Layer 1",
+"FR":[
+{
+"I":0,
+"DU":1,
+"E":[
+{"ASI":{
+"MX":[0.909,0,0,0.909,0,0],
+"N":"126"
+}}]}
+]}
+]}},{
+"SN":"jklhljkhkhkj",
+"TL":{
+"L":[
+{
+"LN":"Layer 1",
+"FR":[
+{
+"I":0,
+"DU":1,
+"E":[
+{"ASI":{
+"MX":[1,0,0,0.999,0,0],
+"N":"127"
+}}]}
+]}
+]}},{
+"SN":"aaarmmm",
+"TL":{
+"L":[
+{
+"LN":"Layer 1",
+"FR":[
+{
+"I":0,
+"DU":1,
+"E":[
+{"ASI":{
+"MX":[0.865,0,0,0.953,0,0],
+"N":"128"
+}}]}
+]}
+]}},{
+"SN":"torsooo",
+"TL":{
+"L":[
+{"LN":"Layer 1",
+"FR":[
+{"I":0,
+"DU":1,
+"E":[
+{"ASI":{
+"MX":[0.969,0,0,0.977,-73.5,0],
+"N":"65"
+}}]}]}]}},{
+"SN":"untitled folder 1/CHARS/SONIC/symbols shitfart/sonic idle head copy",
+"TL":{
+"L":[
+{
+"LN":"Layer 1",
+"FR":[
+{
+"I":0,
+"DU":1,
+"E":[
+{"ASI":{
+"MX":[1,0,0,0.95,3,2.3],
+"N":"129"
+}}]},{
+"I":1,
+"DU":1,
+"E":[
+{"ASI":{
+"MX":[1,0,0,0.95,-19.5,-33.85],
+"N":"130"
+}}]},{
+"I":2,
+"DU":1,
+"E":[
+{"ASI":{
+"MX":[1,0,0,0.95,-27.5,-36.35],
+"N":"131"
+}}]}
+]}
+]}},{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic mic arm",
+"TL":{
+"L":[
+{"LN":"Layer 1",
+"FR":[
+{"I":0,
+"DU":2,
+"E":[
+{"ASI":{
+"MX":[1,0,0,0.837,0,0],
+"N":"66"
+}}]}]}]}},{
+"SN":"untitled folder 1/Duplicate Items Folder/sonic mic hip1",
+"TL":{
+"L":[
+{
+"LN":"Layer 2",
+"FR":[
+{
+"I":0,
+"DU":1,
+"E":[
+{"ASI":{
+"MX":[0.967,0,0,0.967,20.8,22.75],
+"N":"132"
+}}]}
+]}
+]}},{
+"SN":"sonic dj exit arm 1",
+"TL":{
+"L":[
+{
+"LN":"Layer 1",
+"FR":[
+{
+"I":0,
+"DU":1,
+"E":[
+{"ASI":{
+"MX":[0.853,0,0,0.853,0,1.05],
+"N":"133"
+}}]}
+]}
+]}},{
+"SN":"sonic cough head 2",
+"TL":{
+"L":[
+{
+"LN":"Layer 1",
+"FR":[
+{
+"I":0,
+"DU":1,
+"E":[
+{"ASI":{
+"MX":[1,0,0,1,0,0],
+"N":"134"
+}}]}
+]}
+]}},{
+"SN":"_bta_asi_15",
+"TL":{
+"L":[
+{"LN":"Layer 1",
+"FR":[
+{"I":0,
+"DU":1,
+"E":[
+{"ASI":{
+"MX":[2.913,0,0,1.751,-49.2,-48.95],
+"N":"15"
+}}]}]}]}},{
+"SN":"_bta_asi_16",
+"TL":{
+"L":[
+{"LN":"Layer 1",
+"FR":[
+{"I":0,
+"DU":1,
+"E":[
+{"ASI":{
+"MX":[1.456,0,0,0.875,-68.75,-67.45],
+"N":"16"
+}}]}]}]}}
+]},
+"MD":{
+"V":"BTA 1.2.0",
+"N":"22opaige kvf31p (1)",
+"BGC":"#FFFFFF",
+"W":1280,
+"H":720,
+"ASV":3,
+"FRT":26
+}}

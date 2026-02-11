@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?><TextureAtlas imagePath="sonic raspberry blow.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sonic raspberry blow instance 10000" x="0" y="0" width="431" height="459"/>
+	<SubTexture name="sonic raspberry blow instance 10001" x="431" y="0" width="431" height="459"/>
+	<SubTexture name="sonic raspberry blow instance 10002" x="862" y="0" width="431" height="459"/>
+	<SubTexture name="sonic raspberry blow instance 10003" x="1293" y="0" width="431" height="459"/>
+	<SubTexture name="sonic raspberry blow instance 10004" x="0" y="459" width="431" height="459"/>
+	<SubTexture name="sonic raspberry blow instance 10005" x="431" y="459" width="431" height="459"/>
+	<SubTexture name="sonic raspberry blow instance 10006" x="862" y="459" width="431" height="459"/>
+	<SubTexture name="sonic raspberry blow instance 10007" x="1293" y="459" width="431" height="459"/>
+	<SubTexture name="sonic raspberry blow instance 10008" x="0" y="918" width="431" height="459"/>
+	<SubTexture name="sonic raspberry blow instance 10009" x="431" y="918" width="431" height="459"/>
+	<SubTexture name="sonic raspberry blow instance 10010" x="862" y="918" width="431" height="459"/>
+	<SubTexture name="sonic raspberry blow instance 10011" x="862" y="918" width="431" height="459"/>
+	<SubTexture name="sonic raspberry blow instance 10012" x="1293" y="918" width="431" height="459"/>
+	<SubTexture name="sonic raspberry blow instance 10013" x="1293" y="918" width="431" height="459"/>
+	<SubTexture name="sonic raspberry blow instance 10014" x="431" y="918" width="431" height="459"/>
+	<SubTexture name="sonic raspberry blow instance 10015" x="431" y="918" width="431" height="459"/>
+	<SubTexture name="sonic raspberry blow instance 10016" x="431" y="918" width="431" height="459"/>
+	<SubTexture name="sonic raspberry blow instance 10017" x="431" y="918" width="431" height="459"/>
+	<SubTexture name="sonic raspberry blow instance 10018" x="431" y="918" width="431" height="459"/>
+	<SubTexture name="sonic raspberry blow instance 10019" x="431" y="918" width="431" height="459"/>
+	<SubTexture name="sonic raspberry blow instance 10020" x="431" y="918" width="431" height="459"/>
+	<SubTexture name="sonic raspberry blow instance 10021" x="431" y="918" width="431" height="459"/>
+	<SubTexture name="sonic raspberry blow instance 10022" x="431" y="918" width="431" height="459"/>
+	<SubTexture name="sonic raspberry blow instance 10023" x="431" y="918" width="431" height="459"/>
+	<SubTexture name="sonic raspberry blow instance 10024" x="431" y="918" width="431" height="459"/>
+</TextureAtlas>

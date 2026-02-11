@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?><TextureAtlas imagePath="flicky.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="flicky flying loop instance 10000" x="0" y="0" width="201" height="169"/>
+	<SubTexture name="flicky flying loop instance 10001" x="0" y="169" width="201" height="169"/>
+	<SubTexture name="flicky flying loop instance 10002" x="0" y="338" width="201" height="169"/>
+	<SubTexture name="flicky flying loop instance 10003" x="0" y="507" width="201" height="169"/>
+</TextureAtlas>

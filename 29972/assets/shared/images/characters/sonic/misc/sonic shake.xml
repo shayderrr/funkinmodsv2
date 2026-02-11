@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?><TextureAtlas imagePath="sonic shake.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sonic idle shaking instance 10000" x="0" y="0" width="439" height="488"/>
+	<SubTexture name="sonic idle shaking instance 10001" x="439" y="0" width="439" height="488"/>
+	<SubTexture name="sonic idle shaking instance 10002" x="0" y="488" width="439" height="488"/>
+	<SubTexture name="sonic idle shaking instance 10003" x="439" y="488" width="439" height="488"/>
+</TextureAtlas>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="badnik explosion.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="badniks explosion defeat instance 10000" x="0" y="0" width="855" height="873"/>
+	<SubTexture name="badniks explosion defeat instance 10001" x="855" y="0" width="855" height="873"/>
+	<SubTexture name="badniks explosion defeat instance 10002" x="1710" y="0" width="855" height="873"/>
+	<SubTexture name="badniks explosion defeat instance 10003" x="2565" y="0" width="855" height="873"/>
+	<SubTexture name="badniks explosion defeat instance 10004" x="3420" y="0" width="855" height="873"/>
+	<SubTexture name="badniks explosion defeat instance 10005" x="4275" y="0" width="855" height="873"/>
+	<SubTexture name="badniks explosion defeat instance 10006" x="5130" y="0" width="855" height="873"/>
+	<SubTexture name="badniks explosion defeat instance 10007" x="5985" y="0" width="855" height="873"/>
+	<SubTexture name="badniks explosion defeat instance 10008" x="6840" y="0" width="855" height="873"/>
+	<SubTexture name="badniks explosion defeat instance 10009" x="0" y="873" width="855" height="873"/>
+	<SubTexture name="badniks explosion defeat instance 10010" x="855" y="873" width="855" height="873"/>
+	<SubTexture name="badniks explosion defeat instance 10011" x="1710" y="873" width="855" height="873"/>
+	<SubTexture name="badniks explosion defeat instance 10012" x="2565" y="873" width="855" height="873"/>
+	<SubTexture name="badniks explosion defeat instance 10013" x="3420" y="873" width="855" height="873"/>
+	<SubTexture name="badniks explosion defeat instance 10014" x="4275" y="873" width="855" height="873"/>
+	<SubTexture name="badniks explosion defeat instance 10015" x="5130" y="873" width="855" height="873"/>
+	<SubTexture name="badniks explosion defeat instance 10016" x="5985" y="873" width="855" height="873"/>
+	<SubTexture name="badniks explosion defeat instance 10017" x="6840" y="873" width="855" height="873"/>
+	<SubTexture name="badniks explosion defeat instance 10018" x="0" y="1746" width="855" height="873"/>
+	<SubTexture name="badniks explosion defeat instance 10019" x="855" y="1746" width="855" height="873"/>
+	<SubTexture name="badniks explosion defeat instance 10020" x="855" y="1746" width="855" height="873"/>
+	<SubTexture name="badniks explosion defeat instance 10021" x="1710" y="1746" width="855" height="873"/>
+	<SubTexture name="badniks explosion defeat instance 10022" x="1710" y="1746" width="855" height="873"/>
+	<SubTexture name="badniks explosion defeat instance 10023" x="1710" y="1746" width="855" height="873"/>
+	<SubTexture name="badniks explosion defeat instance 10024" x="2565" y="1746" width="855" height="873"/>
+	<SubTexture name="badniks explosion defeat instance 10025" x="2565" y="1746" width="855" height="873"/>
+	<SubTexture name="badniks explosion defeat instance 10026" x="2565" y="1746" width="855" height="873"/>
+</TextureAtlas>

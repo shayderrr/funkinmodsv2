@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?><TextureAtlas imagePath="sonic taunt_xmas.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sonic taunt0000" x="0" y="474" width="434" height="468" frameX="0" frameY="0" frameWidth="434" frameHeight="474"/>
+	<SubTexture name="sonic taunt0001" x="0" y="474" width="434" height="468" frameX="0" frameY="0" frameWidth="434" frameHeight="474"/>
+	<SubTexture name="sonic taunt0002" x="0" y="0" width="399" height="474" frameX="-18" frameY="0" frameWidth="434" frameHeight="474"/>
+	<SubTexture name="sonic taunt0003" x="0" y="0" width="399" height="474" frameX="-18" frameY="0" frameWidth="434" frameHeight="474"/>
+	<SubTexture name="sonic taunt0004" x="399" y="0" width="399" height="474" frameX="-18" frameY="0" frameWidth="434" frameHeight="474"/>
+	<SubTexture name="sonic taunt0005" x="399" y="0" width="399" height="474" frameX="-18" frameY="0" frameWidth="434" frameHeight="474"/>
+	<SubTexture name="sonic taunt0006" x="399" y="0" width="399" height="474" frameX="-18" frameY="0" frameWidth="434" frameHeight="474"/>
+	<SubTexture name="sonic taunt0007" x="399" y="0" width="399" height="474" frameX="-18" frameY="0" frameWidth="434" frameHeight="474"/>
+	<SubTexture name="sonic taunt0008" x="399" y="0" width="399" height="474" frameX="-18" frameY="0" frameWidth="434" frameHeight="474"/>
+	<SubTexture name="sonic taunt0009" x="399" y="0" width="399" height="474" frameX="-18" frameY="0" frameWidth="434" frameHeight="474"/>
+	<SubTexture name="sonic taunt0010" x="399" y="0" width="399" height="474" frameX="-18" frameY="0" frameWidth="434" frameHeight="474"/>
+	<SubTexture name="sonic taunt0011" x="399" y="0" width="399" height="474" frameX="-18" frameY="0" frameWidth="434" frameHeight="474"/>
+	<SubTexture name="sonic taunt0012" x="399" y="0" width="399" height="474" frameX="-18" frameY="0" frameWidth="434" frameHeight="474"/>
+	<SubTexture name="sonic taunt0013" x="399" y="0" width="399" height="474" frameX="-18" frameY="0" frameWidth="434" frameHeight="474"/>
+</TextureAtlas>

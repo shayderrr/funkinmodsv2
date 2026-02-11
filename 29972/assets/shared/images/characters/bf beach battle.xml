@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?><TextureAtlas imagePath="bf beach battle.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF hit instance 10000" x="0" y="686" width="457" height="441"/>
+	<SubTexture name="BF hit instance 10001" x="457" y="686" width="457" height="441"/>
+	<SubTexture name="BF hit instance 10002" x="914" y="686" width="457" height="441"/>
+	<SubTexture name="BF hit instance 10003" x="1371" y="686" width="457" height="441"/>
+	<SubTexture name="BF hit instance 10004" x="1828" y="686" width="457" height="441"/>
+	<SubTexture name="BF hit instance 10005" x="2285" y="686" width="457" height="441"/>
+	<SubTexture name="BF hit instance 10006" x="0" y="1127" width="457" height="441"/>
+	<SubTexture name="BF hit instance 10007" x="457" y="1127" width="457" height="441"/>
+	<SubTexture name="BF hit instance 10008" x="0" y="1127" width="457" height="441"/>
+	<SubTexture name="BF hit instance 10009" x="457" y="1127" width="457" height="441"/>
+	<SubTexture name="BF hit instance 10010" x="0" y="1127" width="457" height="441"/>
+	<SubTexture name="BF hit instance 10011" x="457" y="1127" width="457" height="441"/>
+	<SubTexture name="BF hit instance 10012" x="0" y="1127" width="457" height="441"/>
+	<SubTexture name="BF hit instance 10013" x="457" y="1127" width="457" height="441"/>
+	<SubTexture name="BF hit instance 10014" x="0" y="1127" width="457" height="441"/>
+	<SubTexture name="BF hit instance 10015" x="457" y="1127" width="457" height="441"/>
+	<SubTexture name="BF hit instance 10016" x="0" y="1127" width="457" height="441"/>
+	<SubTexture name="BF hit instance 10017" x="457" y="1127" width="457" height="441"/>
+	<SubTexture name="BF hit instance 10018" x="0" y="1127" width="457" height="441"/>
+	<SubTexture name="bf pre attack instance 10000" x="0" y="1568" width="385" height="375"/>
+	<SubTexture name="bf pre attack instance 10001" x="0" y="1568" width="385" height="375"/>
+	<SubTexture name="bf pre attack instance 10002" x="385" y="1568" width="385" height="375"/>
+	<SubTexture name="bf pre attack instance 10003" x="385" y="1568" width="385" height="375"/>
+	<SubTexture name="bf pre attack instance 10004" x="770" y="1568" width="385" height="375"/>
+	<SubTexture name="bf pre attack instance 10005" x="770" y="1568" width="385" height="375"/>
+	<SubTexture name="bf pre attack instance 10006" x="770" y="1568" width="385" height="375"/>
+	<SubTexture name="bf pre attack instance 10007" x="770" y="1568" width="385" height="375"/>
+	<SubTexture name="bf pre attack instance 10008" x="770" y="1568" width="385" height="375"/>
+	<SubTexture name="bf pre attack instance 10009" x="770" y="1568" width="385" height="375"/>
+	<SubTexture name="bf pre attack instance 10010" x="770" y="1568" width="385" height="375"/>
+	<SubTexture name="bf pre attack instance 10011" x="770" y="1568" width="385" height="375"/>
+	<SubTexture name="bf pre attack instance 10012" x="770" y="1568" width="385" height="375"/>
+	<SubTexture name="bf pre attack instance 10013" x="770" y="1568" width="385" height="375"/>
+	<SubTexture name="bf pre attack instance 10014" x="770" y="1568" width="385" height="375"/>
+	<SubTexture name="bf pre attack instance 10015" x="770" y="1568" width="385" height="375"/>
+	<SubTexture name="bf pre attack instance 10016" x="770" y="1568" width="385" height="375"/>
+	<SubTexture name="bf pre attack instance 10017" x="770" y="1568" width="385" height="375"/>
+	<SubTexture name="bf pre attack instance 10018" x="770" y="1568" width="385" height="375"/>
+	<SubTexture name="bf pre attack instance 10019" x="770" y="1568" width="385" height="375"/>
+	<SubTexture name="bf pre attack instance 10020" x="770" y="1568" width="385" height="375"/>
+	<SubTexture name="bf pre attack instance 10021" x="770" y="1568" width="385" height="375"/>
+	<SubTexture name="bf pre attack instance 10022" x="770" y="1568" width="385" height="375"/>
+	<SubTexture name="bf pre attack instance 10023" x="770" y="1568" width="385" height="375"/>
+	<SubTexture name="bf pre attack instance 10024" x="770" y="1568" width="385" height="375"/>
+	<SubTexture name="bf pre attack instance 10025" x="770" y="1568" width="385" height="375"/>
+	<SubTexture name="bf pre attack instance 10026" x="770" y="1568" width="385" height="375"/>
+	<SubTexture name="bf pre attack instance 10027" x="770" y="1568" width="385" height="375"/>
+	<SubTexture name="bf pre attack instance 10028" x="770" y="1568" width="385" height="375"/>
+	<SubTexture name="bf pre attack instance 10029" x="770" y="1568" width="385" height="375"/>
+	<SubTexture name="boyfriend attack instance 10000" x="0" y="0" width="709" height="686"/>
+	<SubTexture name="boyfriend attack instance 10001" x="0" y="0" width="709" height="686"/>
+	<SubTexture name="boyfriend attack instance 10002" x="709" y="0" width="709" height="686"/>
+	<SubTexture name="boyfriend attack instance 10003" x="709" y="0" width="709" height="686"/>
+	<SubTexture name="boyfriend attack instance 10004" x="1418" y="0" width="709" height="686"/>
+	<SubTexture name="boyfriend attack instance 10005" x="1418" y="0" width="709" height="686"/>
+	<SubTexture name="boyfriend attack instance 10006" x="2127" y="0" width="709" height="686"/>
+	<SubTexture name="boyfriend dodge instance 10000" x="914" y="1127" width="385" height="406"/>
+	<SubTexture name="boyfriend dodge instance 10001" x="1299" y="1127" width="385" height="406"/>
+	<SubTexture name="boyfriend dodge instance 10002" x="1684" y="1127" width="385" height="406"/>
+	<SubTexture name="boyfriend dodge instance 10003" x="2069" y="1127" width="385" height="406"/>
+	<SubTexture name="boyfriend dodge instance 10004" x="2454" y="1127" width="385" height="406"/>
+	<SubTexture name="boyfriend dodge instance 10005" x="1684" y="1127" width="385" height="406"/>
+	<SubTexture name="boyfriend dodge instance 10006" x="2069" y="1127" width="385" height="406"/>
+	<SubTexture name="boyfriend dodge instance 10007" x="2454" y="1127" width="385" height="406"/>
+	<SubTexture name="boyfriend dodge instance 10008" x="1684" y="1127" width="385" height="406"/>
+	<SubTexture name="boyfriend dodge instance 10009" x="2069" y="1127" width="385" height="406"/>
+	<SubTexture name="boyfriend dodge instance 10010" x="2454" y="1127" width="385" height="406"/>
+	<SubTexture name="boyfriend dodge instance 10011" x="1684" y="1127" width="385" height="406"/>
+	<SubTexture name="boyfriend dodge instance 10012" x="2069" y="1127" width="385" height="406"/>
+	<SubTexture name="boyfriend dodge instance 10013" x="2454" y="1127" width="385" height="406"/>
+	<SubTexture name="boyfriend dodge instance 10014" x="1684" y="1127" width="385" height="406"/>
+</TextureAtlas>

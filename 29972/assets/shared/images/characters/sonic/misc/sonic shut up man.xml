@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?><TextureAtlas imagePath="sonic shut up man.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sonic shut up instance 10000" x="0" y="0" width="410" height="508"/>
+	<SubTexture name="sonic shut up instance 10001" x="410" y="0" width="410" height="508"/>
+	<SubTexture name="sonic shut up instance 10002" x="820" y="0" width="410" height="508"/>
+	<SubTexture name="sonic shut up instance 10003" x="1230" y="0" width="410" height="508"/>
+	<SubTexture name="sonic shut up instance 10004" x="1640" y="0" width="410" height="508"/>
+	<SubTexture name="sonic shut up instance 10005" x="0" y="508" width="410" height="508"/>
+	<SubTexture name="sonic shut up instance 10006" x="410" y="508" width="410" height="508"/>
+	<SubTexture name="sonic shut up instance 10007" x="820" y="508" width="410" height="508"/>
+	<SubTexture name="sonic shut up instance 10008" x="1230" y="508" width="410" height="508"/>
+	<SubTexture name="sonic shut up instance 10009" x="1640" y="508" width="410" height="508"/>
+	<SubTexture name="sonic shut up instance 10010" x="0" y="1016" width="410" height="508"/>
+	<SubTexture name="sonic shut up instance 10011" x="410" y="1016" width="410" height="508"/>
+	<SubTexture name="sonic shut up instance 10012" x="820" y="1016" width="410" height="508"/>
+	<SubTexture name="sonic shut up instance 10013" x="410" y="1016" width="410" height="508"/>
+	<SubTexture name="sonic shut up instance 10014" x="0" y="1016" width="410" height="508"/>
+	<SubTexture name="sonic shut up instance 10015" x="1640" y="508" width="410" height="508"/>
+	<SubTexture name="sonic shut up instance 10016" x="1230" y="1016" width="410" height="508"/>
+	<SubTexture name="sonic shut up instance 10017" x="1640" y="1016" width="410" height="508"/>
+	<SubTexture name="sonic shut up instance 10018" x="1230" y="1016" width="410" height="508"/>
+	<SubTexture name="sonic shut up instance 10019" x="0" y="1524" width="410" height="508"/>
+	<SubTexture name="sonic shut up instance 10020" x="410" y="1524" width="410" height="508"/>
+	<SubTexture name="sonic shut up instance 10021" x="820" y="1524" width="410" height="508"/>
+	<SubTexture name="sonic shut up instance 10022" x="1230" y="1524" width="410" height="508"/>
+	<SubTexture name="sonic shut up instance 10023" x="820" y="1524" width="410" height="508"/>
+	<SubTexture name="sonic shut up instance 10024" x="1230" y="1524" width="410" height="508"/>
+	<SubTexture name="sonic shut up instance 10025" x="820" y="1524" width="410" height="508"/>
+	<SubTexture name="sonic shut up instance 10026" x="1230" y="1524" width="410" height="508"/>
+	<SubTexture name="sonic shut up instance 10027" x="820" y="1524" width="410" height="508"/>
+	<SubTexture name="sonic shut up instance 10028" x="1230" y="1524" width="410" height="508"/>
+</TextureAtlas>

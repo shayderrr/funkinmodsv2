@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?><TextureAtlas imagePath="sonic jump.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sonic jumpball0000" x="581" y="302" width="289" height="287" frameX="-8" frameY="-6" frameWidth="302" frameHeight="303"/>
+	<SubTexture name="sonic jumpball0001" x="0" y="0" width="294" height="302" frameX="-4" frameY="0" frameWidth="302" frameHeight="303"/>
+	<SubTexture name="sonic jumpball0002" x="0" y="302" width="290" height="291" frameX="-1" frameY="-7" frameWidth="302" frameHeight="303"/>
+	<SubTexture name="sonic jumpball0003" x="581" y="302" width="289" height="287" frameX="-8" frameY="-6" frameWidth="302" frameHeight="303"/>
+	<SubTexture name="sonic jumpball0004" x="294" y="0" width="302" height="297" frameX="0" frameY="-4" frameWidth="302" frameHeight="303"/>
+	<SubTexture name="sonic jumpball0005" x="290" y="302" width="291" height="291" frameX="-6" frameY="-12" frameWidth="302" frameHeight="303"/>
+</TextureAtlas>

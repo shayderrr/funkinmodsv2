@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?><TextureAtlas imagePath="sonic pre taunt.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sonic pre taunt instance 10000" x="0" y="0" width="491" height="516"/>
+	<SubTexture name="sonic pre taunt instance 10001" x="491" y="0" width="491" height="516"/>
+	<SubTexture name="sonic pre taunt instance 10002" x="982" y="0" width="491" height="516"/>
+	<SubTexture name="sonic pre taunt instance 10003" x="1473" y="0" width="491" height="516"/>
+	<SubTexture name="sonic pre taunt instance 10004" x="0" y="516" width="491" height="516"/>
+	<SubTexture name="sonic pre taunt instance 10005" x="491" y="516" width="491" height="516"/>
+	<SubTexture name="sonic pre taunt instance 10006" x="982" y="516" width="491" height="516"/>
+	<SubTexture name="sonic pre taunt instance 10007" x="1473" y="516" width="491" height="516"/>
+	<SubTexture name="sonic pre taunt instance 10008" x="0" y="1032" width="491" height="516"/>
+	<SubTexture name="sonic pre taunt instance 10009" x="491" y="1032" width="491" height="516"/>
+	<SubTexture name="sonic pre taunt instance 10010" x="982" y="1032" width="491" height="516"/>
+	<SubTexture name="sonic pre taunt instance 10011" x="1473" y="1032" width="491" height="516"/>
+	<SubTexture name="sonic pre taunt instance 10012" x="0" y="1548" width="491" height="516"/>
+	<SubTexture name="sonic pre taunt instance 10013" x="0" y="1548" width="491" height="516"/>
+</TextureAtlas>
