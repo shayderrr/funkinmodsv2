@@ -1,0 +1,11 @@
+{
+	"idle_anim": "zasgore Idle BLACK LINES",
+	"image": "Menu_Asgore",
+	"position": [
+		150,
+		-53
+	],
+	"flipX": false,
+	"scale": 0.4,
+	"confirm_anim": "M Dad Idle"
+}

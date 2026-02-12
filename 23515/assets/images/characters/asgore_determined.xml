@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="asgore_determined.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="asgore3 DOWN 0000" x="0" y="0" width="1360" height="891" frameX="0" frameY="0" frameWidth="1374" frameHeight="896"/>
+	<SubTexture name="asgore3 DOWN 0001" x="0" y="0" width="1360" height="891" frameX="0" frameY="0" frameWidth="1374" frameHeight="896"/>
+	<SubTexture name="asgore3 DOWN 0002" x="1370" y="0" width="1373" height="850" frameX="0" frameY="-44" frameWidth="1374" frameHeight="896"/>
+	<SubTexture name="asgore3 DOWN 0003" x="1370" y="0" width="1373" height="850" frameX="0" frameY="-44" frameWidth="1374" frameHeight="896"/>
+	<SubTexture name="asgore3 DOWN 0004" x="2753" y="0" width="1373" height="850" frameX="-1" frameY="-45" frameWidth="1374" frameHeight="896"/>
+	<SubTexture name="asgore3 DOWN 0005" x="4136" y="0" width="1373" height="850" frameX="-1" frameY="-45" frameWidth="1374" frameHeight="896"/>
+	<SubTexture name="asgore3 DOWN 0006" x="5519" y="0" width="1372" height="851" frameX="-1" frameY="-45" frameWidth="1374" frameHeight="896"/>
+	<SubTexture name="asgore3 DOWN 0007" x="5519" y="0" width="1372" height="851" frameX="-1" frameY="-45" frameWidth="1374" frameHeight="896"/>
+	<SubTexture name="asgore3 DOWN 0008" x="0" y="901" width="1373" height="851" frameX="-1" frameY="-45" frameWidth="1374" frameHeight="896"/>
+	<SubTexture name="asgore3 DOWN 0009" x="1383" y="901" width="1373" height="851" frameX="-1" frameY="-45" frameWidth="1374" frameHeight="896"/>
+	<SubTexture name="asgore3 IDLE0000" x="2766" y="901" width="1144" height="850" frameX="0" frameY="-31" frameWidth="1144" frameHeight="881"/>
+	<SubTexture name="asgore3 IDLE0001" x="2766" y="901" width="1144" height="850" frameX="0" frameY="-31" frameWidth="1144" frameHeight="881"/>
+	<SubTexture name="asgore3 IDLE0002" x="3920" y="901" width="1144" height="877" frameX="0" frameY="-4" frameWidth="1144" frameHeight="881"/>
+	<SubTexture name="asgore3 IDLE0003" x="3920" y="901" width="1144" height="877" frameX="0" frameY="-4" frameWidth="1144" frameHeight="881"/>
+	<SubTexture name="asgore3 IDLE0004" x="5074" y="901" width="1144" height="881"/>
+	<SubTexture name="asgore3 IDLE0005" x="5074" y="901" width="1144" height="881"/>
+	<SubTexture name="asgore3 IDLE0006" x="6228" y="901" width="1144" height="881"/>
+	<SubTexture name="asgore3 IDLE0007" x="6228" y="901" width="1144" height="881"/>
+	<SubTexture name="asgore3 IDLE0008" x="0" y="1792" width="1144" height="881"/>
+	<SubTexture name="asgore3 IDLE0009" x="0" y="1792" width="1144" height="881"/>
+	<SubTexture name="asgore3 IDLE0010" x="1154" y="1792" width="1144" height="879" frameX="0" frameY="-2" frameWidth="1144" frameHeight="881"/>
+	<SubTexture name="asgore3 IDLE0011" x="1154" y="1792" width="1144" height="879" frameX="0" frameY="-2" frameWidth="1144" frameHeight="881"/>
+	<SubTexture name="asgore3 IDLE0012" x="2308" y="1792" width="1144" height="871" frameX="0" frameY="-10" frameWidth="1144" frameHeight="881"/>
+	<SubTexture name="asgore3 IDLE0013" x="2308" y="1792" width="1144" height="871" frameX="0" frameY="-10" frameWidth="1144" frameHeight="881"/>
+	<SubTexture name="asgore3 IDLE0014" x="3462" y="1792" width="1144" height="850" frameX="0" frameY="-31" frameWidth="1144" frameHeight="881"/>
+	<SubTexture name="asgore3 LEFT 0000" x="4616" y="1792" width="1231" height="1194" frameX="-60" frameY="-176" frameWidth="1291" frameHeight="1370"/>
+	<SubTexture name="asgore3 LEFT 0001" x="4616" y="1792" width="1231" height="1194" frameX="-60" frameY="-176" frameWidth="1291" frameHeight="1370"/>
+	<SubTexture name="asgore3 LEFT 0002" x="5857" y="1792" width="1101" height="1289" frameX="-1" frameY="-70" frameWidth="1291" frameHeight="1370"/>
+	<SubTexture name="asgore3 LEFT 0003" x="5857" y="1792" width="1101" height="1289" frameX="-1" frameY="-70" frameWidth="1291" frameHeight="1370"/>
+	<SubTexture name="asgore3 LEFT 0004" x="6968" y="1792" width="1104" height="1294" frameX="0" frameY="-8" frameWidth="1291" frameHeight="1370"/>
+	<SubTexture name="asgore3 LEFT 0005" x="6968" y="1792" width="1104" height="1294" frameX="0" frameY="-8" frameWidth="1291" frameHeight="1370"/>
+	<SubTexture name="asgore3 LEFT 0006" x="0" y="3096" width="1104" height="1296" frameX="-1" frameY="0" frameWidth="1291" frameHeight="1370"/>
+	<SubTexture name="asgore3 LEFT 0007" x="0" y="3096" width="1104" height="1296" frameX="-1" frameY="0" frameWidth="1291" frameHeight="1370"/>
+	<SubTexture name="asgore3 LEFT 0008" x="1114" y="3096" width="1104" height="1296" frameX="-1" frameY="0" frameWidth="1291" frameHeight="1370"/>
+	<SubTexture name="asgore3 LEFT 0009" x="1114" y="3096" width="1104" height="1296" frameX="-1" frameY="0" frameWidth="1291" frameHeight="1370"/>
+	<SubTexture name="asgore3 RIGHT0000" x="2228" y="3096" width="1232" height="1183" frameX="0" frameY="-187" frameWidth="1311" frameHeight="1370"/>
+	<SubTexture name="asgore3 RIGHT0001" x="2228" y="3096" width="1232" height="1183" frameX="0" frameY="-187" frameWidth="1311" frameHeight="1370"/>
+	<SubTexture name="asgore3 RIGHT0002" x="3470" y="3096" width="1106" height="1290" frameX="-200" frameY="-70" frameWidth="1311" frameHeight="1370"/>
+	<SubTexture name="asgore3 RIGHT0003" x="3470" y="3096" width="1106" height="1290" frameX="-200" frameY="-70" frameWidth="1311" frameHeight="1370"/>
+	<SubTexture name="asgore3 RIGHT0004" x="4586" y="3096" width="1105" height="1339" frameX="-205" frameY="-8" frameWidth="1311" frameHeight="1370"/>
+	<SubTexture name="asgore3 RIGHT0005" x="4586" y="3096" width="1105" height="1339" frameX="-205" frameY="-8" frameWidth="1311" frameHeight="1370"/>
+	<SubTexture name="asgore3 RIGHT0006" x="5701" y="3096" width="1106" height="1296" frameX="-205" frameY="0" frameWidth="1311" frameHeight="1370"/>
+	<SubTexture name="asgore3 RIGHT0007" x="5701" y="3096" width="1106" height="1296" frameX="-205" frameY="0" frameWidth="1311" frameHeight="1370"/>
+	<SubTexture name="asgore3 RIGHT0008" x="6817" y="3096" width="1106" height="1296" frameX="-205" frameY="0" frameWidth="1311" frameHeight="1370"/>
+	<SubTexture name="asgore3 RIGHT0009" x="6817" y="3096" width="1106" height="1296" frameX="-205" frameY="0" frameWidth="1311" frameHeight="1370"/>
+	<SubTexture name="asgore3 TRNS0000" x="0" y="4445" width="1144" height="850"/>
+	<SubTexture name="asgore3 TRNS0001" x="1154" y="4445" width="1144" height="848" frameX="0" frameY="-2" frameWidth="1144" frameHeight="850"/>
+	<SubTexture name="asgore3 TRNS0002" x="2308" y="4445" width="1144" height="846" frameX="0" frameY="-4" frameWidth="1144" frameHeight="850"/>
+	<SubTexture name="asgore3 TRNS0003" x="3462" y="4445" width="1144" height="844" frameX="0" frameY="-6" frameWidth="1144" frameHeight="850"/>
+	<SubTexture name="asgore3 TRNS0004" x="4616" y="4445" width="1144" height="842" frameX="0" frameY="-8" frameWidth="1144" frameHeight="850"/>
+	<SubTexture name="asgore3 TRNS0005" x="5770" y="4445" width="1144" height="840" frameX="0" frameY="-10" frameWidth="1144" frameHeight="850"/>
+	<SubTexture name="asgore3 TRNS0006" x="6924" y="4445" width="1144" height="839" frameX="0" frameY="-11" frameWidth="1144" frameHeight="850"/>
+	<SubTexture name="asgore3 TRNS0007" x="0" y="5305" width="1144" height="838" frameX="0" frameY="-12" frameWidth="1144" frameHeight="850"/>
+	<SubTexture name="asgore3 TRNS0008" x="1154" y="5305" width="1144" height="837" frameX="0" frameY="-13" frameWidth="1144" frameHeight="850"/>
+	<SubTexture name="asgore3 TRNS0009" x="2308" y="5305" width="1144" height="836" frameX="0" frameY="-14" frameWidth="1144" frameHeight="850"/>
+	<SubTexture name="asgore3 TRNS0010" x="3462" y="5305" width="1144" height="835" frameX="0" frameY="-15" frameWidth="1144" frameHeight="850"/>
+	<SubTexture name="asgore3 TRNS0011" x="4616" y="5305" width="1144" height="835" frameX="0" frameY="-15" frameWidth="1144" frameHeight="850"/>
+	<SubTexture name="asgore3 TRNS0012" x="5770" y="5305" width="1144" height="834" frameX="0" frameY="-16" frameWidth="1144" frameHeight="850"/>
+	<SubTexture name="asgore3 TRNS0013" x="6924" y="5305" width="1144" height="834" frameX="0" frameY="-16" frameWidth="1144" frameHeight="850"/>
+	<SubTexture name="asgore3 TRNS0014" x="0" y="6153" width="1144" height="834" frameX="0" frameY="-16" frameWidth="1144" frameHeight="850"/>
+	<SubTexture name="asgore3 UP 0000" x="1154" y="6153" width="849" height="1093" frameX="-100" frameY="-64" frameWidth="965" frameHeight="1243"/>
+	<SubTexture name="asgore3 UP 0001" x="1154" y="6153" width="849" height="1093" frameX="-100" frameY="-64" frameWidth="965" frameHeight="1243"/>
+	<SubTexture name="asgore3 UP 0002" x="2013" y="6153" width="943" height="1224" frameX="-21" frameY="-3" frameWidth="965" frameHeight="1243"/>
+	<SubTexture name="asgore3 UP 0003" x="2013" y="6153" width="943" height="1224" frameX="-21" frameY="-3" frameWidth="965" frameHeight="1243"/>
+	<SubTexture name="asgore3 UP 0004" x="2966" y="6153" width="962" height="1241" frameX="-3" frameY="0" frameWidth="965" frameHeight="1243"/>
+	<SubTexture name="asgore3 UP 0005" x="2966" y="6153" width="962" height="1241" frameX="-3" frameY="0" frameWidth="965" frameHeight="1243"/>
+	<SubTexture name="asgore3 UP 0006" x="3938" y="6153" width="964" height="1243" frameX="-1" frameY="0" frameWidth="965" frameHeight="1243"/>
+	<SubTexture name="asgore3 UP 0007" x="3938" y="6153" width="964" height="1243" frameX="-1" frameY="0" frameWidth="965" frameHeight="1243"/>
+	<SubTexture name="asgore3 UP 0008" x="4912" y="6153" width="965" height="1243"/>
+	<SubTexture name="asgore3 UP 0009" x="4912" y="6153" width="965" height="1243"/>
+</TextureAtlas>

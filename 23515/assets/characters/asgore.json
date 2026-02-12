@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "asgore1 IDLE"
+		},
+		{
+			"offsets": [
+				-1,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "asgore1 LEFT"
+		},
+		{
+			"offsets": [
+				10,
+				-56
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "asgore1 DOWN"
+		},
+		{
+			"offsets": [
+				9,
+				22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "asgore1 UP"
+		},
+		{
+			"offsets": [
+				0,
+				-18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "asgore1 RIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/asgore_armony",
+	"position": [
+		-230,
+		-140
+	],
+	"healthicon": "asgore",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		186,
+		81
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
