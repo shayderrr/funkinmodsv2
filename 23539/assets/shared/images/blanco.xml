@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="blanco.png">
-	<!-- Created with Adobe Animate version 21.0.5.40714 -->
-	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="white0000" x="0" y="0" width="1967" height="1288"/>
-	<SubTexture name="whito0000" x="1967" y="0" width="2" height="2"/>
-</TextureAtlas>
