@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="blackon.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="negronblackin0000" x="0" y="0" width="2695" height="1517"/>
+	<SubTexture name="negronblackin0001" x="0" y="0" width="2695" height="1517"/>
+	<SubTexture name="negronblackin0002" x="0" y="0" width="2695" height="1517"/>
+	<SubTexture name="negronblackin0003" x="0" y="0" width="2695" height="1517"/>
+	<SubTexture name="negronblackin0004" x="0" y="0" width="2695" height="1517"/>
+	<SubTexture name="negronblackin0005" x="0" y="0" width="2695" height="1517"/>
+	<SubTexture name="negronblackin0006" x="0" y="0" width="2695" height="1517"/>
+	<SubTexture name="negronblackin0007" x="0" y="0" width="2695" height="1517"/>
+	<SubTexture name="negronblackin0008" x="0" y="0" width="2695" height="1517"/>
+	<SubTexture name="negronblackin0009" x="0" y="0" width="2695" height="1517"/>
+	<SubTexture name="negronblackin0010" x="0" y="0" width="2695" height="1517"/>
+	<SubTexture name="negronblackin0011" x="2695" y="0" width="2695" height="1517"/>
+	<SubTexture name="negronblackin0012" x="2695" y="0" width="2695" height="1517"/>
+	<SubTexture name="negronblackin0013" x="5390" y="0" width="2695" height="1517"/>
+	<SubTexture name="negronblackin0014" x="0" y="1517" width="2695" height="1517"/>
+	<SubTexture name="negronblackin0015" x="0" y="1517" width="2695" height="1517"/>
+	<SubTexture name="negronblackin0016" x="2695" y="1517" width="2695" height="1517"/>
+	<SubTexture name="negronblackin0017" x="2695" y="1517" width="2695" height="1517"/>
+	<SubTexture name="negronblackin0018" x="5390" y="1517" width="2695" height="1517"/>
+	<SubTexture name="negronblackin0019" x="5390" y="1517" width="2695" height="1517"/>
+	<SubTexture name="negronblackin0020" x="0" y="3034" width="2695" height="1517"/>
+	<SubTexture name="negronblackin0021" x="0" y="3034" width="2695" height="1517"/>
+	<SubTexture name="negronblackin0022" x="2695" y="3034" width="2695" height="1517"/>
+	<SubTexture name="negronblackin0023" x="2695" y="3034" width="2695" height="1517"/>
+	<SubTexture name="negronblackin0024" x="5390" y="3034" width="2695" height="1517"/>
+	<SubTexture name="negronblackin0025" x="5390" y="3034" width="2695" height="1517"/>
+	<SubTexture name="negronblackin0026" x="0" y="4551" width="2695" height="1517"/>
+	<SubTexture name="negronblackin0027" x="0" y="4551" width="2695" height="1517"/>
+	<SubTexture name="negronblackin0028" x="2695" y="4551" width="2695" height="1517"/>
+	<SubTexture name="negronblackin0029" x="2695" y="4551" width="2695" height="1517"/>
+	<SubTexture name="negronblackin0030" x="5390" y="4551" width="2695" height="1517"/>
+	<SubTexture name="negronblackin0031" x="5390" y="4551" width="2695" height="1517"/>
+	<SubTexture name="negronblackin0032" x="0" y="6068" width="2695" height="1517"/>
+	<SubTexture name="negronblackin0033" x="0" y="6068" width="2695" height="1517"/>
+	<SubTexture name="negronblackin0034" x="2695" y="6068" width="2695" height="1517"/>
+	<SubTexture name="negronblackin0035" x="2695" y="6068" width="2695" height="1517"/>
+	<SubTexture name="negronblackin0036" x="2695" y="6068" width="2695" height="1517"/>
+	<SubTexture name="negronblackin0037" x="2695" y="6068" width="2695" height="1517"/>
+	<SubTexture name="negronblackin0038" x="2695" y="6068" width="2695" height="1517"/>
+	<SubTexture name="negronblackin0039" x="2695" y="6068" width="2695" height="1517"/>
+	<SubTexture name="negronblackin0040" x="2695" y="6068" width="2695" height="1517"/>
+	<SubTexture name="negronblackin0041" x="2695" y="6068" width="2695" height="1517"/>
+	<SubTexture name="negronblackin0042" x="2695" y="6068" width="2695" height="1517"/>
+	<SubTexture name="negronblackin0043" x="2695" y="6068" width="2695" height="1517"/>
+	<SubTexture name="negronblackin0044" x="2695" y="6068" width="2695" height="1517"/>
+	<SubTexture name="negronblackin0045" x="2695" y="6068" width="2695" height="1517"/>
+	<SubTexture name="negronblackin0046" x="2695" y="6068" width="2695" height="1517"/>
+	<SubTexture name="negronblackin0047" x="2695" y="6068" width="2695" height="1517"/>
+	<SubTexture name="negronblackin0048" x="2695" y="6068" width="2695" height="1517"/>
+	<SubTexture name="negronblackin0049" x="2695" y="6068" width="2695" height="1517"/>
+	<SubTexture name="negronblock0000" x="5390" y="6068" width="2" height="2"/>
+</TextureAtlas>

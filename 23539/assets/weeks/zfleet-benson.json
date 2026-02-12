@@ -1,0 +1,32 @@
+{
+	"storyName": "phantasm cover",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "fleet",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "zbenson-week",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"sad",
+		""
+	],
+	"songs": [
+		[
+			"bensontasm",
+			"benson-sad",
+			[
+				26,
+				20,
+				60
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "fleet benson",
+	"hiddenUntilUnlocked": true
+}

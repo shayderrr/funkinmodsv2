@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-12
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "pops down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-9
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "pops right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				15
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "pops up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-12
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "pops left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "pops idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-14
+			],
+			"anim": "talk",
+			"fps": 24,
+			"name": "pops talk",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pops_office",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "pops-office",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		228,
+		228
+	],
+	"camera_position": [
+		120,
+		-70
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

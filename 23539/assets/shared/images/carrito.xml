@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="carrito.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="carfront0000" x="0" y="0" width="739" height="739" frameX="-1" frameY="0" frameWidth="740" frameHeight="740"/>
+	<SubTexture name="carfront0001" x="739" y="0" width="739" height="740" frameX="0" frameY="0" frameWidth="740" frameHeight="740"/>
+	<SubTexture name="carfront0002" x="1478" y="0" width="738" height="740" frameX="0" frameY="0" frameWidth="740" frameHeight="740"/>
+	<SubTexture name="carfront0003" x="2216" y="0" width="739" height="740" frameX="0" frameY="0" frameWidth="740" frameHeight="740"/>
+	<SubTexture name="carfront0004" x="2955" y="0" width="738" height="740" frameX="-1" frameY="0" frameWidth="740" frameHeight="740"/>
+</TextureAtlas>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sad_menu.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bensons0000" x="0" y="0" width="1383" height="464"/>
+	<SubTexture name="bensons0001" x="1383" y="0" width="1383" height="464"/>
+	<SubTexture name="bensons0002" x="2766" y="0" width="1383" height="464"/>
+	<SubTexture name="bensons0003" x="4149" y="0" width="1383" height="464"/>
+	<SubTexture name="bensons0004" x="5532" y="0" width="1383" height="464"/>
+	<SubTexture name="bensons0005" x="0" y="464" width="1383" height="464"/>
+	<SubTexture name="bensons0006" x="1383" y="464" width="1383" height="464"/>
+	<SubTexture name="bensons0007" x="2766" y="464" width="1383" height="464"/>
+	<SubTexture name="bensons0008" x="4149" y="464" width="1383" height="464"/>
+	<SubTexture name="bensons0009" x="5532" y="464" width="1383" height="464"/>
+	<SubTexture name="bensons0010" x="0" y="928" width="1383" height="464"/>
+	<SubTexture name="bensons0011" x="1383" y="928" width="1383" height="464"/>
+	<SubTexture name="bensons0012" x="2766" y="928" width="1383" height="464"/>
+	<SubTexture name="bensons0013" x="4149" y="928" width="1383" height="464"/>
+	<SubTexture name="bensons0014" x="5532" y="928" width="1383" height="464"/>
+	<SubTexture name="bensons0015" x="5532" y="928" width="1383" height="464"/>
+	<SubTexture name="bensons0016" x="0" y="1392" width="1383" height="464"/>
+	<SubTexture name="bensons0017" x="0" y="1392" width="1383" height="464"/>
+	<SubTexture name="bensons0018" x="1383" y="1392" width="1383" height="464"/>
+	<SubTexture name="bensons0019" x="1383" y="1392" width="1383" height="464"/>
+	<SubTexture name="bensons0020" x="5532" y="928" width="1383" height="464"/>
+	<SubTexture name="bensons0021" x="5532" y="928" width="1383" height="464"/>
+	<SubTexture name="bensons0022" x="0" y="1392" width="1383" height="464"/>
+	<SubTexture name="bensons0023" x="0" y="1392" width="1383" height="464"/>
+	<SubTexture name="bensons0024" x="1383" y="1392" width="1383" height="464"/>
+</TextureAtlas>

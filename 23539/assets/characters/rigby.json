@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "rigby idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				26,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "rigby left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				1
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "rigby up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "rigby right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "rigby down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/rigby_assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "rigbycai",
+	"flip_x": false,
+	"healthbar_colors": [
+		160,
+		100,
+		60
+	],
+	"camera_position": [
+		0,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

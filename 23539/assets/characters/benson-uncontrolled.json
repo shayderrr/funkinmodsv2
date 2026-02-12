@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				4,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "benson left"
+		},
+		{
+			"offsets": [
+				-9,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "benson up"
+		},
+		{
+			"offsets": [
+				3,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "benson right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "benson idle"
+		},
+		{
+			"offsets": [
+				-6,
+				9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "benson down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/benson_uncontrolled",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "benson2",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		215,
+		95
+	],
+	"camera_position": [
+		120,
+		200
+	],
+	"sing_duration": 6.1,
+	"scale": 0.45
+}

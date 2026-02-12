@@ -1,0 +1,32 @@
+{
+	"storyName": "one more show",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "park",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "ayell-week",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"oooo",
+		""
+	],
+	"songs": [
+		[
+			"regular race",
+			"rigbycai",
+			[
+				0,
+				133,
+				195
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "funshow",
+	"hiddenUntilUnlocked": false
+}

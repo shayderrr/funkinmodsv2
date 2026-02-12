@@ -1,0 +1,76 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		0,
+		50
+	],
+	"scale": 1.5,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				-230,
+				20
+			],
+			"idle_offsets": [
+				-230,
+				20
+			],
+			"loop_name": "benson 00",
+			"idle_name": "benson 0 loop0"
+		},
+		{
+			"loop_offsets": [
+				5,
+				0
+			],
+			"anim": "excited",
+			"idle_offsets": [
+				4,
+				-8
+			],
+			"loop_name": "BF EXCITED LOOP",
+			"idle_name": "BF EXCITED0"
+		},
+		{
+			"loop_offsets": [
+				-230,
+				21
+			],
+			"anim": "pissed",
+			"idle_offsets": [
+				-229,
+				19
+			],
+			"loop_name": "benson 30",
+			"idle_name": "benson 3 loop0"
+		},
+		{
+			"loop_offsets": [
+				-239,
+				23
+			],
+			"anim": "shocked",
+			"idle_offsets": [
+				-239,
+				21
+			],
+			"loop_name": "benson 20",
+			"idle_name": "benson 2 loop0"
+		},
+		{
+			"loop_name": "benson 10",
+			"idle_offsets": [
+				-229,
+				20
+			],
+			"idle_name": "benson 1 loop0",
+			"anim": "confused",
+			"loop_offsets": [
+				-230,
+				20
+			]
+		}
+	],
+	"image": "Benson1_Dialogue"
+}

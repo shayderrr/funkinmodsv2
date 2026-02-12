@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Skips_Dialogue.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="skips 00000" x="0" y="0" width="407" height="616" frameX="-3" frameY="0" frameWidth="412" frameHeight="616"/>
+	<SubTexture name="skips 00001" x="0" y="0" width="407" height="616" frameX="-3" frameY="0" frameWidth="412" frameHeight="616"/>
+	<SubTexture name="skips 00002" x="407" y="0" width="410" height="615" frameX="-1" frameY="-1" frameWidth="412" frameHeight="616"/>
+	<SubTexture name="skips 00003" x="407" y="0" width="410" height="615" frameX="-1" frameY="-1" frameWidth="412" frameHeight="616"/>
+	<SubTexture name="skips 00004" x="817" y="0" width="412" height="614" frameX="0" frameY="-2" frameWidth="412" frameHeight="616"/>
+	<SubTexture name="skips 0 loop0000" x="1229" y="0" width="413" height="615"/>
+	<SubTexture name="skips 0 loop0001" x="1229" y="0" width="413" height="615"/>
+	<SubTexture name="skips 10000" x="0" y="616" width="409" height="617" frameX="-2" frameY="0" frameWidth="414" frameHeight="617"/>
+	<SubTexture name="skips 10001" x="0" y="616" width="409" height="617" frameX="-2" frameY="0" frameWidth="414" frameHeight="617"/>
+	<SubTexture name="skips 10002" x="409" y="616" width="411" height="615" frameX="-1" frameY="-2" frameWidth="414" frameHeight="617"/>
+	<SubTexture name="skips 10003" x="409" y="616" width="411" height="615" frameX="-1" frameY="-2" frameWidth="414" frameHeight="617"/>
+	<SubTexture name="skips 10004" x="820" y="616" width="414" height="615" frameX="0" frameY="-2" frameWidth="414" frameHeight="617"/>
+	<SubTexture name="skips 1 loop0000" x="1234" y="616" width="414" height="615"/>
+	<SubTexture name="skips 1 loop0001" x="1234" y="616" width="414" height="615"/>
+</TextureAtlas>

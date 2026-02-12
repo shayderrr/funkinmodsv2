@@ -1,0 +1,11 @@
+{
+	"idle_anim": "bensons",
+	"image": "sad_menu",
+	"position": [
+		560,
+		65
+	],
+	"flipX": false,
+	"scale": 1,
+	"confirm_anim": "bensons"
+}

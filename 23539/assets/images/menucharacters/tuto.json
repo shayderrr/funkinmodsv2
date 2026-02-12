@@ -1,0 +1,11 @@
+{
+	"idle_anim": "bfgf",
+	"image": "tutorial_menu",
+	"position": [
+		500,
+		-2
+	],
+	"flipX": false,
+	"scale": 1,
+	"confirm_anim": "bfgf"
+}

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="explosion.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="explotion0000" x="0" y="0" width="2021" height="1342"/>
+	<SubTexture name="explotion0001" x="0" y="0" width="2021" height="1342"/>
+	<SubTexture name="explotion0002" x="2021" y="0" width="2021" height="1342"/>
+	<SubTexture name="explotion0003" x="4042" y="0" width="2021" height="1342"/>
+	<SubTexture name="explotion0004" x="6063" y="0" width="2021" height="1342"/>
+	<SubTexture name="explotion0005" x="0" y="1342" width="2021" height="1342"/>
+	<SubTexture name="explotion0006" x="2021" y="1342" width="2021" height="1342"/>
+	<SubTexture name="explotion0007" x="4042" y="1342" width="2021" height="1342"/>
+	<SubTexture name="explotion0008" x="6063" y="1342" width="2021" height="1342"/>
+	<SubTexture name="explotion0009" x="0" y="2684" width="2021" height="1342"/>
+	<SubTexture name="explotion0010" x="2021" y="2684" width="2021" height="1342"/>
+	<SubTexture name="explotion0011" x="4042" y="2684" width="2021" height="1342"/>
+	<SubTexture name="explotion0012" x="6063" y="2684" width="2021" height="1342"/>
+	<SubTexture name="explotion0013" x="0" y="4026" width="2021" height="1342"/>
+	<SubTexture name="explotion0014" x="2021" y="4026" width="2021" height="1342"/>
+	<SubTexture name="explotion0015" x="4042" y="4026" width="2021" height="1342"/>
+	<SubTexture name="explotion0016" x="6063" y="4026" width="2021" height="1342"/>
+	<SubTexture name="explotion0017" x="6063" y="4026" width="2021" height="1342"/>
+	<SubTexture name="explotion0018" x="6063" y="4026" width="2021" height="1342"/>
+	<SubTexture name="explotion0019" x="6063" y="4026" width="2021" height="1342"/>
+	<SubTexture name="explotion0020" x="6063" y="4026" width="2021" height="1342"/>
+	<SubTexture name="explotion0021" x="6063" y="4026" width="2021" height="1342"/>
+	<SubTexture name="explotion0022" x="6063" y="4026" width="2021" height="1342"/>
+	<SubTexture name="explotion0023" x="6063" y="4026" width="2021" height="1342"/>
+	<SubTexture name="explotion0024" x="6063" y="4026" width="2021" height="1342"/>
+	<SubTexture name="explotion0025" x="6063" y="4026" width="2021" height="1342"/>
+	<SubTexture name="explotion0026" x="6063" y="4026" width="2021" height="1342"/>
+	<SubTexture name="explotion0027" x="6063" y="4026" width="2021" height="1342"/>
+	<SubTexture name="explotion0028" x="6063" y="4026" width="2021" height="1342"/>
+	<SubTexture name="explotion0029" x="6063" y="4026" width="2021" height="1342"/>
+	<SubTexture name="explotion0030" x="6063" y="4026" width="2021" height="1342"/>
+	<SubTexture name="explotion0031" x="6063" y="4026" width="2021" height="1342"/>
+	<SubTexture name="explotion0032" x="6063" y="4026" width="2021" height="1342"/>
+	<SubTexture name="explotion0033" x="6063" y="4026" width="2021" height="1342"/>
+	<SubTexture name="explotion0034" x="6063" y="4026" width="2021" height="1342"/>
+	<SubTexture name="explotion0035" x="6063" y="4026" width="2021" height="1342"/>
+	<SubTexture name="explotion0036" x="6063" y="4026" width="2021" height="1342"/>
+	<SubTexture name="explotion0037" x="6063" y="4026" width="2021" height="1342"/>
+	<SubTexture name="explotion0038" x="6063" y="4026" width="2021" height="1342"/>
+	<SubTexture name="explotion0039" x="6063" y="4026" width="2021" height="1342"/>
+	<SubTexture name="exploton0000" x="8084" y="4026" width="2" height="2"/>
+</TextureAtlas>

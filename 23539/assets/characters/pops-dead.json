@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				23,
+				-160
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "pops dead loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				-160
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "pops confirm",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-160
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "pops dies",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pops_dead",
+	"position": [
+		-70,
+		-160
+	],
+	"healthicon": "",
+	"flip_x": true,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		0,
+		-100
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

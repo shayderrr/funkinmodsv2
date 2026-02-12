@@ -1,0 +1,76 @@
+{
+	"position": [
+		0,
+		50
+	],
+	"dialogue_pos": "right",
+	"scale": 1.5,
+	"image": "Rigby_Dialogue",
+	"animations": [
+		{
+			"idle_offsets": [
+				30,
+				-92
+			],
+			"loop_offsets": [
+				30,
+				-90
+			],
+			"anim": "talk",
+			"idle_name": "rigby 0 loop0",
+			"loop_name": "rigby 00"
+		},
+		{
+			"idle_offsets": [
+				30,
+				29
+			],
+			"anim": "excited",
+			"loop_offsets": [
+				30,
+				30
+			],
+			"idle_name": "skips 1 loop0",
+			"loop_name": "skips 10"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "pissed",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "BF PISSED0",
+			"loop_name": "BF PISSED LOOP"
+		},
+		{
+			"idle_offsets": [
+				-6,
+				-11
+			],
+			"anim": "shocked",
+			"loop_offsets": [
+				-4,
+				0
+			],
+			"idle_name": "BF SHOCK0",
+			"loop_name": "BF SHOCK LOOP"
+		},
+		{
+			"loop_offsets": [
+				-3,
+				0
+			],
+			"anim": "confused",
+			"idle_offsets": [
+				-6,
+				-11
+			],
+			"loop_name": "BF CONFUSED LOOP",
+			"idle_name": "BF CONFUSED0"
+		}
+	]
+}

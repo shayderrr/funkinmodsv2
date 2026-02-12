@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "benson left"
+		},
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "benson down"
+		},
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "benson up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "benson idle"
+		},
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "benson right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				0
+			],
+			"anim": "talk",
+			"fps": 24,
+			"name": "benson talk",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/benson_office",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "benson-office",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		110,
+		177
+	],
+	"camera_position": [
+		100,
+		-120
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

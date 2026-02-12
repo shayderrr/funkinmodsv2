@@ -1,0 +1,76 @@
+{
+	"position": [
+		0,
+		50
+	],
+	"dialogue_pos": "right",
+	"scale": 1.25,
+	"image": "Pops_Dialogue",
+	"animations": [
+		{
+			"idle_offsets": [
+				60,
+				128
+			],
+			"loop_offsets": [
+				60,
+				129
+			],
+			"anim": "talk",
+			"idle_name": "pops 1 loop0",
+			"loop_name": "pops 10"
+		},
+		{
+			"idle_offsets": [
+				236,
+				109
+			],
+			"anim": "excited",
+			"loop_offsets": [
+				236,
+				109
+			],
+			"idle_name": "pops 4 loop0",
+			"loop_name": "pops 40"
+		},
+		{
+			"idle_offsets": [
+				55,
+				108
+			],
+			"anim": "pissed",
+			"loop_offsets": [
+				55,
+				109
+			],
+			"idle_name": "pops 3 loop0",
+			"loop_name": "pops 30"
+		},
+		{
+			"idle_offsets": [
+				56,
+				108
+			],
+			"anim": "shocked",
+			"loop_offsets": [
+				56,
+				110
+			],
+			"idle_name": "pops 2 loop0",
+			"loop_name": "pops 20"
+		},
+		{
+			"loop_offsets": [
+				59,
+				128
+			],
+			"anim": "confused",
+			"idle_offsets": [
+				58,
+				128
+			],
+			"loop_name": "pops 00",
+			"idle_name": "pops 00"
+		}
+	]
+}

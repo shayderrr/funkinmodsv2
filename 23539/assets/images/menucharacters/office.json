@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "menu",
+	"idle_anim": "menu",
+	"position": [
+		520,
+		114
+	],
+	"scale": 1,
+	"image": "office_menu",
+	"flipX": false
+}

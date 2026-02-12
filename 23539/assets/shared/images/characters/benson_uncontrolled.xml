@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="benson_uncontrolled.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="benson down0000" x="0" y="0" width="417" height="542"/>
+	<SubTexture name="benson down0001" x="417" y="0" width="417" height="542"/>
+	<SubTexture name="benson down0002" x="834" y="0" width="417" height="542"/>
+	<SubTexture name="benson down0003" x="1251" y="0" width="417" height="542"/>
+	<SubTexture name="benson down0004" x="1668" y="0" width="417" height="542"/>
+	<SubTexture name="benson down0005" x="2085" y="0" width="417" height="542"/>
+	<SubTexture name="benson down0006" x="2502" y="0" width="417" height="542"/>
+	<SubTexture name="benson down0007" x="2919" y="0" width="417" height="542"/>
+	<SubTexture name="benson down0008" x="3336" y="0" width="417" height="542"/>
+	<SubTexture name="benson down0009" x="3336" y="0" width="417" height="542"/>
+	<SubTexture name="benson idle0000" x="0" y="542" width="432" height="528"/>
+	<SubTexture name="benson idle0001" x="432" y="542" width="432" height="528"/>
+	<SubTexture name="benson idle0002" x="864" y="542" width="432" height="528"/>
+	<SubTexture name="benson idle0003" x="1296" y="542" width="432" height="528"/>
+	<SubTexture name="benson idle0004" x="1728" y="542" width="432" height="528"/>
+	<SubTexture name="benson idle0005" x="2160" y="542" width="432" height="528"/>
+	<SubTexture name="benson idle0006" x="2592" y="542" width="432" height="528"/>
+	<SubTexture name="benson idle0007" x="3024" y="542" width="432" height="528"/>
+	<SubTexture name="benson left0000" x="3456" y="542" width="439" height="530"/>
+	<SubTexture name="benson left0001" x="0" y="1072" width="439" height="530"/>
+	<SubTexture name="benson left0002" x="439" y="1072" width="439" height="530"/>
+	<SubTexture name="benson left0003" x="878" y="1072" width="439" height="530"/>
+	<SubTexture name="benson left0004" x="1317" y="1072" width="439" height="530"/>
+	<SubTexture name="benson left0005" x="1756" y="1072" width="439" height="530"/>
+	<SubTexture name="benson left0006" x="2195" y="1072" width="439" height="530"/>
+	<SubTexture name="benson left0007" x="2634" y="1072" width="439" height="530"/>
+	<SubTexture name="benson left0008" x="3073" y="1072" width="439" height="530"/>
+	<SubTexture name="benson left0009" x="3073" y="1072" width="439" height="530"/>
+	<SubTexture name="benson right0000" x="3512" y="1072" width="436" height="529"/>
+	<SubTexture name="benson right0001" x="0" y="1602" width="436" height="529"/>
+	<SubTexture name="benson right0002" x="436" y="1602" width="436" height="529"/>
+	<SubTexture name="benson right0003" x="872" y="1602" width="436" height="529"/>
+	<SubTexture name="benson right0004" x="1308" y="1602" width="436" height="529"/>
+	<SubTexture name="benson right0005" x="1744" y="1602" width="436" height="529"/>
+	<SubTexture name="benson right0006" x="2180" y="1602" width="436" height="529"/>
+	<SubTexture name="benson right0007" x="2616" y="1602" width="436" height="529"/>
+	<SubTexture name="benson right0008" x="3052" y="1602" width="436" height="529"/>
+	<SubTexture name="benson right0009" x="3052" y="1602" width="436" height="529"/>
+	<SubTexture name="benson up0000" x="3488" y="1602" width="411" height="536"/>
+	<SubTexture name="benson up0001" x="0" y="2138" width="411" height="536"/>
+	<SubTexture name="benson up0002" x="411" y="2138" width="411" height="536"/>
+	<SubTexture name="benson up0003" x="822" y="2138" width="411" height="536"/>
+	<SubTexture name="benson up0004" x="1233" y="2138" width="411" height="536"/>
+	<SubTexture name="benson up0005" x="1644" y="2138" width="411" height="536"/>
+	<SubTexture name="benson up0006" x="2055" y="2138" width="411" height="536"/>
+	<SubTexture name="benson up0007" x="2466" y="2138" width="411" height="536"/>
+	<SubTexture name="benson up0008" x="2877" y="2138" width="411" height="536"/>
+	<SubTexture name="benson up0009" x="2877" y="2138" width="411" height="536"/>
+</TextureAtlas>

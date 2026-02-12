@@ -1,0 +1,10 @@
+{
+	"idle_anim": "characters",
+	"image": "oooo_menu",
+	"position": [
+		500,
+		124
+	],
+	"scale": 1,
+	"confirm_anim": "characters"
+}

@@ -1,0 +1,76 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		0,
+		50
+	],
+	"scale": 1.4,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				40,
+				10
+			],
+			"idle_offsets": [
+				40,
+				9
+			],
+			"loop_name": "mordo 10",
+			"idle_name": "mordo 1 loop0"
+		},
+		{
+			"loop_offsets": [
+				69,
+				-1
+			],
+			"anim": "excited",
+			"idle_offsets": [
+				70,
+				-5
+			],
+			"loop_name": "mordo 00",
+			"idle_name": "mordo 0 loop0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "pissed",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "BF PISSED LOOP",
+			"idle_name": "BF PISSED0"
+		},
+		{
+			"loop_offsets": [
+				53,
+				13
+			],
+			"anim": "shocked",
+			"idle_offsets": [
+				54,
+				9
+			],
+			"loop_name": "mordo 20",
+			"idle_name": "mordo 2 loop0"
+		},
+		{
+			"idle_offsets": [
+				40,
+				9
+			],
+			"anim": "confused",
+			"loop_offsets": [
+				40,
+				10
+			],
+			"idle_name": "mordo 3 loop0",
+			"loop_name": "mordo 30"
+		}
+	],
+	"image": "Mordecai_Dialogue"
+}

@@ -1,0 +1,10 @@
+{
+	"idle_anim": "benson",
+	"image": "benson_menu",
+	"position": [
+		126,
+		174
+	],
+	"scale": 0.7,
+	"confirm_anim": "benson"
+}

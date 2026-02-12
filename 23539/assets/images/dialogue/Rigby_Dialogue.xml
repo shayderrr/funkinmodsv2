@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Rigby_Dialogue.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="rigby 00000" x="0" y="0" width="220" height="309"/>
+	<SubTexture name="rigby 00001" x="220" y="0" width="220" height="309"/>
+	<SubTexture name="rigby 00002" x="440" y="0" width="220" height="309"/>
+	<SubTexture name="rigby 00003" x="660" y="0" width="220" height="309"/>
+	<SubTexture name="rigby 00004" x="0" y="309" width="220" height="309"/>
+	<SubTexture name="rigby 00005" x="0" y="309" width="220" height="309"/>
+	<SubTexture name="rigby 0 loop0000" x="220" y="309" width="220" height="307"/>
+	<SubTexture name="rigby 0 loop0001" x="220" y="309" width="220" height="307"/>
+</TextureAtlas>

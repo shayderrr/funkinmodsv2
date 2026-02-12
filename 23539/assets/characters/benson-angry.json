@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "benson idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				20
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "benson left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				30
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "benson up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-20
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "benson down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-10
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "benson right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				108,
+				68
+			],
+			"anim": "yell",
+			"fps": 24,
+			"name": "benson a",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/benson_angry",
+	"position": [
+		-610,
+		-210
+	],
+	"healthicon": "benson",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		217,
+		67
+	],
+	"camera_position": [
+		150,
+		260
+	],
+	"sing_duration": 6.1,
+	"scale": 0.4
+}
